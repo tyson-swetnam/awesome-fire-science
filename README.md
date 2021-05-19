@@ -17,6 +17,7 @@ List of resources for working with data and doing wildfire science
 
    * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
+   * [Earth Null School](https://earth.nullschool.net/ - dynamic vizualizations of Earth model and weather data
    * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
    * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for phenology
@@ -45,31 +46,22 @@ List of resources for working with data and doing wildfire science
    * [OpenDendro](https://opendendro.github.io/opendendro/)
    * [lidR](https://jean-romain.github.io/lidRbook/) - lidar package for R
 
-## GIS
+### Geospatial Software
 
-   * [QGIS](https://qgis.org) - Quantum GIS, opensource GIS software
+   * [CSIRO Data61](https://data61.csiro.au/en/Our-Research/Our-Work/Safety-and-Security/Disaster-Management/) - CSIRO fire modelling software
+   * [FRAMES](https://www.frames.gov/) - Fire Research and Management Exchange System
+   * [USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program) - Rocky Mountain Research Station fire data and tools
+
+### General purpose
+   
+   * [CyberDuck](https://cyberduck.io) - 3rd party software for getting data to and from the internet
 
 ## Cyberinfrastructure
 
 ### Free Cloud and HPC resources
 
-   * [XSEDE](https://portal.xsede.org/) - NSF supported cyberinfrastructure
+   * [XSEDE](https://portal.xsede.org/) - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
    * [CyVerse](https://cyverse.org) - NSF supported cyberinfrastructure for life sciences
-
-## Equipment
-
-   * [DJI](https://dji.com) - badass drones that do it all for you (highest level of sensor integration on the market)
-   * 
-
-
-## Funding
-
-### NSF
-
-#### JFSP
-
-### DoD
-
-### DoE
-
-### NGO
+   * [CloudBank](https://www.cloudbank.org/ - NSF supported cloud access
+   * [Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none) - free credits for research on Google Cloud
+   * [AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) - free credits for research on AWS cloud
