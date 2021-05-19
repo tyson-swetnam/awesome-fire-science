@@ -8,6 +8,8 @@ List of resources for working with data and doing wildfire science
 ## Table of Contents
 
 ## Self-Paced Data Science Training
+
+Explore these resources for gaining essential data science skills
    
    * [The Carpentries](https://carpentries.org/) - Basic data science skills
    * [EarthLab](https://www.earthdatascience.org/) - Earth science data science skills 
@@ -16,6 +18,8 @@ List of resources for working with data and doing wildfire science
    * [JoVE](https://www.jove.com/) - videos of science protocols (e.g. [fire history](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from))
 
 ## Open Data
+
+Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.go-fair.org/fair-principles/) data principles
 
    * Ameriflux[https://ameriflux.lbl.gov/) - eddy covariance data
    * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
@@ -34,11 +38,15 @@ List of resources for working with data and doing wildfire science
 
 ### Google Earth Engine Datasets
 
+Curated lists of community data sets in GEE.
+
    * [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/)
    * [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/)
    * [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/)
 
 ## Open Software
+
+Using open source software allows other researchers to reproduce your work and increases access to your work
 
 ### Python (Jupyter)
  
@@ -63,6 +71,8 @@ List of resources for working with data and doing wildfire science
    * [VS Code](https://code.visualstudio.com/) - Visual Studio Code is currently the most widely used code developer platform 
 
 ## Cyberinfrastructure
+
+Existing investments in research cyberinfrastructure are available for free to all US based researchers with basic 1-2 page justifications. These national resources can be used by non-US researchers under certain conditions. Commercial resources are available to all.
 
 ### Free Cloud and HPC resources
 
