@@ -21,7 +21,8 @@ Explore these resources for gaining essential data science skills
 
 Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.go-fair.org/fair-principles/) data principles
 
-   * Ameriflux[https://ameriflux.lbl.gov/) - eddy covariance data
+   * [3DEP](https://usgs.entwine.io/) - USGS 3DEP lidar point clouds on AWS
+   * [Ameriflux](https://ameriflux.lbl.gov/) - eddy covariance data
    * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
    * [Earth Null School](https://earth.nullschool.net/) - dynamic vizualizations of Earth model and weather data
@@ -29,6 +30,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires) - Access wildfire data, live feeds, technology, and resources
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
    * [Landfire](https://landfire.gov/version_alerts.php) -  geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
+   * [NASA LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time) - Land, Atmosphere Near real-time Capability for EOS (LANCE)
    * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for vegetation phenology
    * [NEON](https://www.neonscience.org/data-samples) - National Ecological Observation Network (NEON) data and API
    * [NIFC Statistics](https://www.nifc.gov/fire-information/statistics)
@@ -38,7 +40,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ### Google Earth Engine Datasets
 
-Curated lists of community data sets in GEE.
+Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on cloud and in [Google Earth Engine](https://earthengine.google.com/). Curated lists of community data sets in GEE.
 
    * [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/)
    * [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/)
@@ -62,6 +64,7 @@ Using open source software allows other researchers to reproduce your work and i
 ### Geospatial Software
 
    * [CSIRO Data61](https://data61.csiro.au/en/Our-Research/Our-Work/Safety-and-Security/Disaster-Management/) - CSIRO fire modelling software
+   * [ESA STEP](http://step.esa.int/main/) - Scientific Toolbox Exploitation Platform 
    * [FRAMES](https://www.frames.gov/) - Fire Research and Management Exchange System
    * [USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program) - Rocky Mountain Research Station fire data and tools
 
@@ -78,6 +81,6 @@ Existing investments in research cyberinfrastructure are available for free to a
 
    * [XSEDE](https://portal.xsede.org/) - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
    * [CyVerse](https://cyverse.org) - NSF supported cyberinfrastructure for life sciences
-   * [CloudBank](https://www.cloudbank.org/ - NSF supported cloud access
+   * [CloudBank](https://www.cloudbank.org/) - NSF supported cloud access
    * [Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none) - free credits for research on Google Cloud
    * [AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) - free credits for research on AWS cloud
