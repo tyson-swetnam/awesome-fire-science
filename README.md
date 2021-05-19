@@ -51,7 +51,7 @@ Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are availabl
 
 ## Open Software
 
-Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object or data cube
+Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object) or data cube.
 
 ### Python (Jupyter)
  
