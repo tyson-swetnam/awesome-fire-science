@@ -17,9 +17,10 @@ List of resources for working with data and doing wildfire science
 
    * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
-   * [Earth Null School](https://earth.nullschool.net/ - dynamic vizualizations of Earth model and weather data
+   * [Earth Null School](https://earth.nullschool.net/) - dynamic vizualizations of Earth model and weather data
    * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
+   * [Landfire](https://landfire.gov/version_alerts.php) -  geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
    * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for phenology
    * [NEON](https://www.neonscience.org/data-samples) - National Ecological Observation Network
    * [NIFC Statistics](https://www.nifc.gov/fire-information/statistics)
