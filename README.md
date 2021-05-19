@@ -32,8 +32,10 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [Landfire](https://landfire.gov/version_alerts.php) -  geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
    * [NASA LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time) - Land, Atmosphere Near real-time Capability for EOS (LANCE)
    * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for vegetation phenology
+   * [National Weather Service](https://www.weather.gov/fire/)
    * [NEON](https://www.neonscience.org/data-samples) - National Ecological Observation Network (NEON) data and API
    * [NIFC Statistics](https://www.nifc.gov/fire-information/statistics)
+   * [NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/)
    * [OpenTopography](https://opentopography.org/) - NSF supported lidar and global elevation data 
    * [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/) - Paleo data archives 
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
