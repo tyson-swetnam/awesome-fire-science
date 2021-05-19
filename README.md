@@ -12,10 +12,10 @@ List of resources for working with data and doing wildfire science
 Explore these resources for gaining essential data science skills
    
    * [The Carpentries](https://carpentries.org/) - Basic data science skills
-   * [EarthLab](https://www.earthdatascience.org/) - Earth science data science skills 
    * [CyVerse Learning](https://learning.cyverse.org) - Life science data science skills
+   * [EarthLab](https://www.earthdatascience.org/) - Earth science data science skills
+   * [JoVE](https://www.jove.com/) - videos of science protocols (e.g. [fire history](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from)) 
    * [Protocols.io](https://www.protocols.io/) - Methods for doing science
-   * [JoVE](https://www.jove.com/) - videos of science protocols (e.g. [fire history](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from))
    * [WholeTale](https://wholetale.org/) - create and publish your own transparent and reproducible research
 
 ## Open Data
