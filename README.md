@@ -15,14 +15,16 @@ List of resources for working with data and doing wildfire science
 
 ## Open Data
 
+   * Ameriflux[https://ameriflux.lbl.gov/) - eddy covariance data
    * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
    * [Earth Null School](https://earth.nullschool.net/) - dynamic vizualizations of Earth model and weather data
    * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
+   * [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires) - Access wildfire data, live feeds, technology, and resources
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
    * [Landfire](https://landfire.gov/version_alerts.php) -  geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
-   * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for phenology
-   * [NEON](https://www.neonscience.org/data-samples) - National Ecological Observation Network
+   * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for vegetation phenology
+   * [NEON](https://www.neonscience.org/data-samples) - National Ecological Observation Network (NEON) data and API
    * [NIFC Statistics](https://www.nifc.gov/fire-information/statistics)
    * [OpenTopography](https://opentopography.org/) - NSF supported lidar and global elevation data 
    * [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/) - Paleo data archives 
@@ -39,12 +41,12 @@ List of resources for working with data and doing wildfire science
 ### Python (Jupyter)
  
    * [Pangeo](https://pangeo.io/) - community platform for big data geoscience
-   * [GEEMap](https://geemap.org/) - collection of python notebooks for running Google Earth Engine 
+   * [GEEMap](https://geemap.org/) - collection of python notebooks for running Google Earth Engine
 
 ### RStudio
    
-   * [BurnR](https://github.com/ltrr-arizona-edu/burnr)
-   * [OpenDendro](https://opendendro.github.io/opendendro/)
+   * [BurnR](https://github.com/ltrr-arizona-edu/burnr) - Fire history analysis tools for R
+   * [dplR](https://github.com/AndyBunn/dplR) - dendrochronology R tools
    * [lidR](https://jean-romain.github.io/lidRbook/) - lidar package for R
 
 ### Geospatial Software
@@ -53,9 +55,10 @@ List of resources for working with data and doing wildfire science
    * [FRAMES](https://www.frames.gov/) - Fire Research and Management Exchange System
    * [USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program) - Rocky Mountain Research Station fire data and tools
 
-### General purpose
+### General purpose software
    
    * [CyberDuck](https://cyberduck.io) - 3rd party software for getting data to and from the internet
+   * [VS Code](https://code.visualstudio.com/) - Visual Studio Code is currently the most widely used code developer platform 
 
 ## Cyberinfrastructure
 
