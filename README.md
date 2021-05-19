@@ -16,6 +16,7 @@ Explore these resources for gaining essential data science skills
    * [CyVerse Learning](https://learning.cyverse.org) - Life science data science skills
    * [Protocols.io](https://www.protocols.io/) - Methods for doing science
    * [JoVE](https://www.jove.com/) - videos of science protocols (e.g. [fire history](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from))
+   * [WholeTale](https://wholetale.org/) - create and publish your own transparent and reproducible research
 
 ## Open Data
 
@@ -50,7 +51,7 @@ Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are availabl
 
 ## Open Software
 
-Using open source software allows other researchers to reproduce your work and increases access to your work
+Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object or data cube
 
 ### Python (Jupyter)
  
