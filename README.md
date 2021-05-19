@@ -15,7 +15,7 @@ List of resources for working with data and doing wildfire science
 
 ## Open Data
 
-   * [CZO](https://czo-archive.criticalzone.org/national/data/ - Critical Zone Observatory data (archived on HydroShare).
+   * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
    * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
