@@ -39,6 +39,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/)
    * [OpenTopography](https://opentopography.org/) - NSF supported lidar and global elevation data 
    * [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/) - Paleo data archives 
+   * [RealEarth](https://www.ssec.wisc.edu/realearth/) - EOS data visualization
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
 
 ### Google Earth Engine Datasets
