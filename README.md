@@ -26,6 +26,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [Ameriflux](https://ameriflux.lbl.gov/) - eddy covariance data
    * [CZO](https://czo-archive.criticalzone.org/national/data/) - Critical Zone Observatory data (archived on HydroShare).
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
+   * [EcoSML](https://ecosml.org/) - NASA supported Ecological Spectral Model Library (EcoSML), a useful tool for finding spectral models.
    * [Earth Null School](https://earth.nullschool.net/) - dynamic vizualizations of Earth model and weather data
    * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
    * [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires) - Access wildfire data, live feeds, technology, and resources
