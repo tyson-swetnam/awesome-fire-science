@@ -36,10 +36,12 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for vegetation phenology
    * [National Weather Service](https://www.weather.gov/fire/)
    * [NEON](https://www.neonscience.org/data-samples) - National Ecological Observation Network (NEON) data and API
+   * [NeotomaDB](https://www.neotomadb.org/data) - Neotoma paleo ecology database
    * [NIFC Statistics](https://www.nifc.gov/fire-information/statistics)
    * [NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/)
    * [OpenTopography](https://opentopography.org/) - NSF supported lidar and global elevation data 
-   * [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/) - Paleo data archives 
+   * [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/) - Paleo data archives
+   * [PaleoFire DB](https://www.paleofire.org/index.php) - Global paleofire databse 
    * [RealEarth](https://www.ssec.wisc.edu/realearth/) - EOS data visualization
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
 
