@@ -31,7 +31,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
    * [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires) - Access wildfire data, live feeds, technology, and resources
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
-   * [Landfire](https://landfire.gov/version_alerts.php) -  geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
+   * [Landfire](https://landfire.gov/version_alerts.php) - geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
    * [NASA LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time) - Land, Atmosphere Near real-time Capability for EOS (LANCE)
    * [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network) - citizen science data for vegetation phenology
    * [National Weather Service](https://www.weather.gov/fire/)
@@ -44,8 +44,9 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [PaleoFire DB](https://www.paleofire.org/index.php) - Global paleofire databse 
    * [RealEarth](https://www.ssec.wisc.edu/realearth/) - EOS data visualization
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
-
-### Google Earth Engine Datasets
+   * [WIFIRE](https://wifire.ucsd.edu/) - NSF funded project on ML and AI for wildland fire support centered in California
+  
+### Google Earth Engine (GEE) Datasets
 
 Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on cloud and in [Google Earth Engine](https://earthengine.google.com/). Curated lists of community data sets in GEE.
 
@@ -53,7 +54,17 @@ Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are availabl
    * [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/)
    * [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/)
 
-## Open Software
+### Microsoft Planetary Computer
+
+Microsoft has just launched a sort-of-competitor to GEE called [Planetary Computer](https://planetarycomputer.microsoft.com/). It is based on the Python language and supports Project Jupyter and distributed computing across Azure. 
+
+   * [Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog)
+
+### NASA data special agreements
+
+   * [Planet Labs](https://www.planet.com/markets/nasa/) has signed a special use agreement with NASA to provide their data to researchers and academics. 
+
+## Free and Open Source Software
 
 Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object) or data cube.
 
@@ -61,8 +72,10 @@ Using open source software allows other researchers to reproduce your work and i
  
    * [Pangeo](https://pangeo.io/) - community platform for big data geoscience
    * [GEEMap](https://geemap.org/) - collection of python notebooks for running Google Earth Engine
+   * [Example Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples)
 
 ### RStudio
+   * [Forest Analysis in R App](https://atkinsjeff.shinyapps.io/ForestAnalysisInR/) - Shiny App with list of available packages for forestry analyses.
    
    * [BurnR](https://github.com/ltrr-arizona-edu/burnr) - Fire history analysis tools for R
    * [dplR](https://github.com/AndyBunn/dplR) - dendrochronology R tools
@@ -82,12 +95,16 @@ Using open source software allows other researchers to reproduce your work and i
 
 ## Cyberinfrastructure
 
-Existing investments in research cyberinfrastructure are available for free to all US based researchers with basic 1-2 page justifications. These national resources can be used by non-US researchers under certain conditions. Commercial resources are available to all.
+Existing investments in research cyberinfrastructure are available for free to all US based researchers. These resources can be used by non-US researchers under certain conditions. 
+
+Commercial cloud resources are available to all at a $$$.
 
 ### Free Cloud and HPC resources
 
    * [XSEDE](https://portal.xsede.org/) - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
    * [CyVerse](https://cyverse.org) - NSF supported cyberinfrastructure for life sciences
    * [CloudBank](https://www.cloudbank.org/) - NSF supported cloud access
+
+   * [Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research) - free credits for research on Microsoft Azure
    * [Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none) - free credits for research on Google Cloud
-   * [AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) - free credits for research on AWS cloud
+   * [AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) - free credits for research on Amazon Web Services
