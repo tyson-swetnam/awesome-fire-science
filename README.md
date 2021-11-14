@@ -5,15 +5,31 @@ List of resources for working with data and doing wildfire science
 
 ****
 
-## Table of Contents
+# Table of Contents
+
+## Free and Open Source Software (FOSS)
+
+Free and Open Source Software (FOSS) reduce the digital divide and allow everyone to work with open data. 
+
+Popular Integrated Development Environments (IDE) for data science:
+
+   * [Project Jupyter](https://jupyter.org/) - Browser based computational notebooks, focused on Python, but any computer kernel can be installed as add-ons 
+   * [RStudio](https://www.rstudio.com/) - IDE for the popular statistical computing language R
+   * [QGIS](https://qgis.org/en/site/) - Quantum GIS, an open source alternative to ESRI ArcGIS
+      * [GDAL](https://gdal.org/) - powerful tool for manipulating raster (2D) data
+      * [PDAL](https://pdal.io/) - powerful tool for manipulating point cloud (3d) data
+      * [GRASS-GIS](https://grass.osgeo.org/) - US Army Corps of Engineers GIS with numerous topographic and hyrdological algorithms
+      * [SAGA-GIS](http://www.saga-gis.org/) - European GIS with numerous topographic and hydrological algorithms
+   * [VS Code](https://code.visualstudio.com/) - Microsoft's free Visual Studio Code is the most popular and fully featured code editor in the world   
 
 ## Self-Paced Data Science Training
 
 Explore these resources for gaining essential data science skills
    
-   * [The Carpentries](https://carpentries.org/) - Basic data science skills
+   * [Carpentries](https://carpentries.org/) - Basic data science skills
    * [CyVerse Learning](https://learning.cyverse.org) - Life science data science skills
    * [EarthLab](https://www.earthdatascience.org/) - Earth science data science skills
+   * [geemap](https://geemap.org/) - Google Earth Engine Maps with over 360 free notebooks
    * [JoVE](https://www.jove.com/) - videos of science protocols (e.g. [fire history](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from)) 
    * [Protocols.io](https://www.protocols.io/) - Methods for doing science
    * [WholeTale](https://wholetale.org/) - create and publish your own transparent and reproducible research
@@ -28,7 +44,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [eBird](https://ebird.org/science/use-ebird-data) - citizen science for ornithology
    * [EcoSML](https://ecosml.org/) - NASA supported Ecological Spectral Model Library (EcoSML), a useful tool for finding spectral models.
    * [Earth Null School](https://earth.nullschool.net/) - dynamic vizualizations of Earth model and weather data
-   * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets
+   * [Environmental Data Initiative](https://environmentaldatainitiative.org/) - access to LTER and LTAR datasets online
    * [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires) - Access wildfire data, live feeds, technology, and resources
    * [HydroShare](https://www.hydroshare.org/) - CUASHI's online collaboration environment for sharing data, models, and code
    * [Landfire](https://landfire.gov/version_alerts.php) - geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
@@ -41,10 +57,11 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/)
    * [OpenTopography](https://opentopography.org/) - NSF supported lidar and global elevation data 
    * [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/) - Paleo data archives
-   * [PaleoFire DB](https://www.paleofire.org/index.php) - Global paleofire databse 
+   * [PaleoFire DB](https://www.paleofire.org/index.php) - Global paleofire databse
+   * [RAMMB](https://rammb2.cira.colostate.edu/) - Regional and Mesoscale Meteorology Branch (RAMMB) GOES-16/17 image animations. 
    * [RealEarth](https://www.ssec.wisc.edu/realearth/) - EOS data visualization
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
-   * [WIFIRE](https://wifire.ucsd.edu/) - NSF funded project on ML and AI for wildland fire support centered in California
+   * [WIFIRE](https://wifire.ucsd.edu/) - ML and AI for wildland fire support centered in California, also supporting data
   
 ### Google Earth Engine (GEE) 
 
@@ -78,10 +95,9 @@ Using open source software allows other researchers to reproduce your work and i
 
 ### RStudio
    * [Forest Analysis in R App](https://atkinsjeff.shinyapps.io/ForestAnalysisInR/) - Shiny App with list of available packages for forestry analyses.
-   
-   * [BurnR](https://github.com/ltrr-arizona-edu/burnr) - Fire history analysis tools for R
-   * [dplR](https://github.com/AndyBunn/dplR) - dendrochronology R tools
-   * [lidR](https://jean-romain.github.io/lidRbook/) - lidar package for R
+      * [BurnR](https://github.com/ltrr-arizona-edu/burnr) - Fire history analysis tools for R
+      * [dplR](https://github.com/AndyBunn/dplR) - dendrochronology R tools
+      * [lidR](https://jean-romain.github.io/lidRbook/) - lidar package for R
 
 ### Geospatial Software
 
