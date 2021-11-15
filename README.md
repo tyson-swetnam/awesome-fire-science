@@ -60,6 +60,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [PaleoFire DB](https://www.paleofire.org/index.php) - Global paleofire databse
    * [RAMMB](https://rammb2.cira.colostate.edu/) - Regional and Mesoscale Meteorology Branch (RAMMB) GOES-16/17 image animations. 
    * [RealEarth](https://www.ssec.wisc.edu/realearth/) - EOS data visualization
+   * [Wildfire Risk](https://wildfirerisk.org/) - Wildfire risk to communities, curated risk data from USFS Research.
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
    * [WIFIRE](https://wifire.ucsd.edu/) - ML and AI for wildland fire support centered in California, also supporting data
   
