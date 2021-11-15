@@ -1,7 +1,7 @@
 # awesome-fire-science
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-List of resources for working with data and doing wildfire science 
+List of resources for wildfire data science applications.  
 
 ****
 
@@ -62,7 +62,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [RealEarth](https://www.ssec.wisc.edu/realearth/) - EOS data visualization
    * [Wildfire Risk](https://wildfirerisk.org/) - Wildfire risk to communities, curated risk data from USFS Research.
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
-   * [WIFIRE](https://wifire.ucsd.edu/) - ML and AI for wildland fire support centered in California, also supporting data
+   * [WIFIRE Data Commons](https://wifire-data.sdsc.edu/dataset) - ML and AI for wildland fire datasets centered in California
   
 ### Google Earth Engine (GEE) 
 
@@ -100,12 +100,13 @@ Using open source software allows other researchers to reproduce your work and i
       * [dplR](https://github.com/AndyBunn/dplR) - dendrochronology R tools
       * [lidR](https://jean-romain.github.io/lidRbook/) - lidar package for R
 
-### Geospatial Software
+### Geospatial Software Toolkits
 
-   * [CSIRO Data61](https://data61.csiro.au/en/Our-Research/Our-Work/Safety-and-Security/Disaster-Management/) - CSIRO fire modelling software
-   * [ESA STEP](http://step.esa.int/main/) - Scientific Toolbox Exploitation Platform 
+   * [CSIRO Data61](https://data61.csiro.au/en/Our-Research/Our-Work/Safety-and-Security/Disaster-Management/) - Australian CSIRO fire modelling software
+   * [ESA STEP](http://step.esa.int/main/) - European Scientific Toolbox Exploitation Platform 
    * [FRAMES](https://www.frames.gov/) - Fire Research and Management Exchange System
    * [USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program) - Rocky Mountain Research Station fire data and tools
+   * [WIFIRE](https://wifire.ucsd.edu/) - Workflows for wildland fire science applications, NSF funded
 
 ### General purpose software
    
@@ -118,11 +119,14 @@ Existing investments in research cyberinfrastructure are available for free to a
 
 Commercial cloud resources are available to all at a $$$.
 
-### Free Cloud and HPC resources
+### Public Cloud and HPC resources
 
    * [XSEDE](https://portal.xsede.org/) - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
    * [CyVerse](https://cyverse.org) - NSF supported cyberinfrastructure for life sciences
-   * [CloudBank](https://www.cloudbank.org/) - NSF supported cloud access
+
+### Commercial Cloud 
+
+   * [CloudBank](https://www.cloudbank.org/) - Resource for helping to manage commercial cloud credits with public research money (NSF)
 
    * [Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research) - free credits for research on Microsoft Azure
    * [Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none) - free credits for research on Google Cloud
