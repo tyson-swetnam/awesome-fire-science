@@ -68,8 +68,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on cloud and in [Google Earth Engine](https://earthengine.google.com/). 
 
-A curated list of community data sets in GEE:
-   * [![GEE Community Datasets](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://samapriya.github.io/awesome-gee-community-datasets) - Another awesome list of free datasets in GEE.
+   * [![GEE Apps](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/giswqs/Awesome-GEE) -List of Awesome GEE applications
+   * [![GEE Community Datasets](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://samapriya.github.io/awesome-gee-community-datasets) - Awesome List of Community Contributed Datasets
       * [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/)
       * [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/)
       * [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/)
