@@ -7,20 +7,20 @@ List of resources for wildfire data science applications.
 
 # Table of Contents
 
-## Free and Open Source Software (FOSS)
-
-Free and Open Source Software (FOSS) reduce the digital divide and allow everyone to work with open data. 
-
-Popular Integrated Development Environments (IDE) for data science:
-
-   * [Project Jupyter](https://jupyter.org/) - Browser based computational notebooks, focused on Python, but any computer kernel can be installed as add-ons 
-   * [RStudio](https://www.rstudio.com/) - IDE for the popular statistical computing language R
-   * [QGIS](https://qgis.org/en/site/) - Quantum GIS, an open source alternative to ESRI ArcGIS
-      * [GDAL](https://gdal.org/) - powerful tool for manipulating raster (2D) data
-      * [PDAL](https://pdal.io/) - powerful tool for manipulating point cloud (3d) data
-      * [GRASS-GIS](https://grass.osgeo.org/) - US Army Corps of Engineers GIS with numerous topographic and hyrdological algorithms
-      * [SAGA-GIS](http://www.saga-gis.org/) - European GIS with numerous topographic and hydrological algorithms
-   * [VS Code](https://code.visualstudio.com/) - Microsoft's free Visual Studio Code is the most popular and fully featured code editor in the world   
+- [Self Paced Data Science Training](#self-paced-data-science-training)
+- [Open Data](#open-data)
+  - [Google Earth Engine](#google-earth-engine)
+  - [Microsoft Planetary Computer](#microsoft-planetary-computer)
+  - [NASA Data](#nasa-data)
+- [Free and Open Source Software](#free-and-open-source-software)
+  - [Popular Integrated Development Environments](popular-integrated-development-environments)
+  - [Python](#python)
+  - [R](#r)
+  - [Geospatial Tools](#geospatial-tools)
+  - [General Purpose](#general-purpose)
+- [Cyberinfrastructure](#cyberinfrastructure)
+  - [Public Cloud and HPC](#public-cloud-and-hpc)
+  - [Commercial Cloud](#commercial-cloud) 
 
 ## Self-Paced Data Science Training
 
@@ -64,7 +64,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
    * [WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml) - Wildfire decision support system GIS data for fire modelling
    * [WIFIRE Data Commons](https://wifire-data.sdsc.edu/dataset) - ML and AI for wildland fire datasets centered in California
   
-### Google Earth Engine (GEE) 
+### Google Earth Engine
 
 Most major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on cloud and in [Google Earth Engine](https://earthengine.google.com/). 
 
@@ -80,27 +80,40 @@ Microsoft has just launched a sort-of-competitor to GEE called [Planetary Comput
 
    * [Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog)
 
-### NASA data special agreements
+### NASA Data
 
+   * [NASA](https://data.nasa.gov/)
    * [Planet Labs](https://www.planet.com/markets/nasa/) has signed a special use agreement with NASA to provide their data to researchers and academics. 
 
 ## Free and Open Source Software
 
 Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object) or data cube.
 
-### Python (Jupyter)
+### Popular Integrated Development Environments 
+
+   * [Project Jupyter](https://jupyter.org/) - Browser based computational notebooks, focused on Python, but any computer kernel can be installed as add-ons 
+   * [RStudio](https://www.rstudio.com/) - IDE for the popular statistical computing language R
+   * [QGIS](https://qgis.org/en/site/) - Quantum GIS, an open source alternative to ESRI ArcGIS
+      * [GDAL](https://gdal.org/) - powerful tool for manipulating raster (2D) data
+      * [PDAL](https://pdal.io/) - powerful tool for manipulating point cloud (3d) data
+      * [GRASS-GIS](https://grass.osgeo.org/) - US Army Corps of Engineers GIS with numerous topographic and hyrdological algorithms
+      * [SAGA-GIS](http://www.saga-gis.org/) - European GIS with numerous topographic and hydrological algorithms
+      * [WhiteBox Geospatial](https://www.whiteboxgeo.com/) - cross platform open-source tools 
+   * [VS Code](https://code.visualstudio.com/) - Microsoft's free Visual Studio Code is the most popular and fully featured code editor in the world   
+
+### Python 
  
    * [Pangeo](https://pangeo.io/) - community platform for big data geoscience
    * [GEEMap](https://geemap.org/) - collection of python notebooks for running Google Earth Engine
    * [Example Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples)
 
-### RStudio
+### R
    * [Forest Analysis in R App](https://atkinsjeff.shinyapps.io/ForestAnalysisInR/) - Shiny App with list of available packages for forestry analyses.
       * [BurnR](https://github.com/ltrr-arizona-edu/burnr) - Fire history analysis tools for R
       * [dplR](https://github.com/AndyBunn/dplR) - dendrochronology R tools
       * [lidR](https://jean-romain.github.io/lidRbook/) - lidar package for R
 
-### Geospatial Software Toolkits
+### Geospatial Tools
 
    * [CSIRO Data61](https://data61.csiro.au/en/Our-Research/Our-Work/Safety-and-Security/Disaster-Management/) - Australian CSIRO fire modelling software
    * [ESA STEP](http://step.esa.int/main/) - European Scientific Toolbox Exploitation Platform 
@@ -108,7 +121,7 @@ Using open source software allows other researchers to reproduce your work and i
    * [USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program) - Rocky Mountain Research Station fire data and tools
    * [WIFIRE](https://wifire.ucsd.edu/) - Workflows for wildland fire science applications, NSF funded
 
-### General purpose software
+### General purpose
    
    * [CyberDuck](https://cyberduck.io) - 3rd party software for getting data to and from the internet
    * [VS Code](https://code.visualstudio.com/) - Visual Studio Code is currently the most widely used code developer platform 
@@ -119,7 +132,7 @@ Existing investments in research cyberinfrastructure are available for free to a
 
 Commercial cloud resources are available to all at a $$$.
 
-### Public Cloud and HPC resources
+### Public Cloud and HPC
 
    * [XSEDE](https://portal.xsede.org/) - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
    * [CyVerse](https://cyverse.org) - NSF supported cyberinfrastructure for life sciences
