@@ -1,0 +1,137 @@
+site_name: 'Awesome-Fire-Science'
+site_description: 'Awesome List of Fire Science Tools'
+site_author: 'Tyson L Swetnam'
+site_url: https://tysonswetnam.com/awesome-fire-science
+
+# Repository
+repo_name: awesome-fire-science
+repo_url: https://github.com/tyson-swetnam/awesome-fire-science
+edit_uri: edit/main/docs/
+# Copyright
+copyright: 'Copyright &copy; 2023 Tyson Lee Swetnam'
+
+# Page tree
+nav:
+  - Home: index.md
+  - Data: data.md
+  - Software: software.md
+  - Computing: cyberinfrastructure.md   
+  - Training: training.md 
+  - Networks: networks.md
+
+# Configuration
+
+theme:
+  name: 'material'
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: youtube 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Montserrat
+    code: Regular
+  favicon: assets/favicon.png
+  icon:
+    logo: material/sunglasses
+    admonition:
+      note: material/map-marker-radius-outline
+  
+# downloading ipynb notebooks
+  custom_dir: "docs/overrides"
+  
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-6639-7181
+    - icon: fontawesome/brands/github
+      link: https://github.com/tyson-swetnam/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/tswetnam
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tyson-swetnam
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/tswetnam
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ
+  analytics:
+    provider: google
+    property: G-NYETZFD8DN
+  
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+    - search
+    - mkdocstrings
+    - git-revision-date
+    - mkdocs-jupyter:
+          include_source: True
+          ignore_h1_titles: True
+
+extra_css:
+  - stylesheets/extra.css
