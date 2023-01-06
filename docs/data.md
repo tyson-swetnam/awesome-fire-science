@@ -18,10 +18,15 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [Science](https://www.science.org/action/doSearch?AllField=wildland+fire)
 
-
 ## Incident Maps / Historical Fire Atlases
 
+[Canadian National Fire Database](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb)
+
 [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires){target=_blank} - Access wildfire data, live feeds, technology, and resources
+
+[GlobalFireData.org](https://www.globalfiredata.org/fireatlas.html)
+
+[NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z)
 
 [Wildfire Risk](https://wildfirerisk.org/){target=_blank} - Wildfire risk to communities, curated risk data from USFS Research.
 
@@ -84,6 +89,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 [:simple-planet: Planet Labs](https://www.planet.com/markets/nasa/){target=_blank} has signed a special use agreement with NASA to provide their data to researchers and academics.
 
 [RealEarth](https://www.ssec.wisc.edu/realearth/){target=_blank} - EOS data visualization
+
+[SERVIR Global](https://servirglobal.net)
 
 ## :material-layers-triple-outline: CyberGIS
 

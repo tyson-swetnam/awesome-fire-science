@@ -26,6 +26,8 @@
 
 [Northern Arizona University Fire Ecology and Management, Undergraduate Certificate](https://nau.edu/forestry/degrees-and-programs/certificates/fire-ecology-management-ucert/)
 
+* [NAU Ecological Restoration Institute](https://eri.nau.edu/)
+
 [Oregon State University Fire Ecology](https://www.forestry.oregonstate.edu/undergraduate-programs/natural-resources/wildland-fire-ecology)
 
 [Steven F. Austin University Fire Science](https://www.sfasu.edu/academics/colleges/forestry-agriculture)
