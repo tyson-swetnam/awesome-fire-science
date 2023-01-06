@@ -1,74 +1,84 @@
 
 ## Internet Communities, News, & Social Media
 
-[Cal Fire Ready for Wildfire](https://www.readyforwildfire.org/)
+[Cal Fire Ready for Wildfire](https://www.readyforwildfire.org/){target=_blank}
 
-[Fire Adapted Communties](https://fireadaptednetwork.org/)
+[Fire Adapted Communties](https://fireadaptednetwork.org/){target=_blank}
 
-[Fire & Aviation](https://fireaviation.com/)
+[Fire & Aviation](https://fireaviation.com/){target=_blank}
 
-[Firewise USA](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Firewise-USA)
+[Firewise USA](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Firewise-USA){target=_blank}
 
-[Frontline Fire Defense](https://www.frontlinewildfire.com/)
+[Frontline Fire Defense](https://www.frontlinewildfire.com/){target=_blank}
 
-[The Lookout](https://the-lookout.org/)
+[The Lookout](https://the-lookout.org/){target=_blank}
 
-[Wildfire Today](https://wildfiretoday.com/)
+[Wildfire Today](https://wildfiretoday.com/){target=_blank}
 
 ## International Professional Associations
 
-[Association for Fire Ecology](https://fireecology.org)
+[Association for Fire Ecology](https://fireecology.org){target=_blank}
 
-[International Association of Wildland Fire](https://www.iawfonline.org/)
+[International Association of Wildland Fire](https://www.iawfonline.org/){target=_blank}
 
-* [2023 International Wildland Fire Conference](https://www.wildfire2023.pt/)
+* [2023 International Wildland Fire Conference](https://www.wildfire2023.pt/){target=_blank}
 
-[International Fire Chiefs Association](https://www.iafc.org/home)
+[International Fire Chiefs Association](https://www.iafc.org/home){target=_blank}
 
 ### Global
 
-[Center for International Forestry Research](https://www.cifor.org/)
+[Center for International Forestry Research](https://www.cifor.org/){target=_blank}
 
-[Global Drought Observatory](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001)
+[Global Fire Monitoring Center (UN)](https://gfmc.online/){target=_blank}
+* [Community Based Fire Management](https://gfmc.online/manag/cbifm.html){target=_blank}
+
+
+[Global Drought Observatory](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001){target=_blank}
+
+[FAO Fire Management Actions Alliance](https://www.fao.org/forestry/firealliance/en/){target=_blank}
 
 ### :fontawesome-solid-earth-africa: Africa
 
 
 ### :fontawesome-solid-earth-europe: Europa 
 
-[European Forest Fire Information System](https://effis.jrc.ec.europa.eu/)
+[European Forest Fire Information System](https://effis.jrc.ec.europa.eu/){target=_blank}
 
-[European Forest Institute](https://efi.int/)
+[European Forest Institute](https://efi.int/){target=_blank}
 
-[ForestWISE (Portugal)](https://www.forestwise.pt/)
+[Forest Europe](https://foresteurope.org/){target=_blank}
+
+[ForestWISE (Portugal)](https://www.forestwise.pt/){target=_blank}
+
+[Master Fuego (Spain)](https://master-fuego.com/){target=_blank}
 
 ### :fontawesome-solid-earth-americas: North America
 
-[La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor)
+[La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor){target=_blank}
 
-[Natural Resources Canada](https://www.nrcan.gc.ca/home)
+[Natural Resources Canada](https://www.nrcan.gc.ca/home){target=_blank}
 
-* [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home)
+* [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home){target=_blank}
 
-[Joint Fire Science Program](https://www.firescience.gov/)
+[Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
 
-[USDA Forest Service Research](https://www.fs.usda.gov/research/)
+[USDA Forest Service Research](https://www.fs.usda.gov/research/){target=_blank}
 
-[USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science)
+[USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science){target=_blank}
 
 ### :fontawesome-solid-earth-americas: South America
 
 
 ### :fontawesome-solid-earth-oceania: Oceania
 
-[CSIRO Bushfire Research](https://www.csiro.au/en/research/natural-disasters/bushfires)
+[CSIRO Bushfire Research](https://www.csiro.au/en/research/natural-disasters/bushfires){target=_blank}
 
-[Geoscience Austrailia Bushfires](https://www.community-safety.ga.gov.au/hazards/bushfire)
+[Geoscience Austrailia Bushfires](https://www.community-safety.ga.gov.au/hazards/bushfire){target=_blank}
 
-[National Aerial Firefighting Association](https://www.nafc.org.au/)
+[National Aerial Firefighting Association](https://www.nafc.org.au/){target=_blank}
 
 ### :fontawesome-solid-earth-asia: Asia
 
-[State Key Laboratory of Fire Science (China)](http://en.sklfs.ustc.edu.cn/main.psp)
+[State Key Laboratory of Fire Science (China)](http://en.sklfs.ustc.edu.cn/main.psp){target=_blank}
 
-[Federal Agency for Forestry (Russia)](http://rosleshoz.gov.ru/)
+[Federal Agency for Forestry (Russia)](http://rosleshoz.gov.ru/){target=_blank}

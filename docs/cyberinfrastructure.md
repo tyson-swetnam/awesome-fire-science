@@ -8,7 +8,7 @@ Existing investments in research cyberinfrastructure are available for free to a
 
 [ACCESS](https://access-ci.org/){target=_blank} - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
 
-[Jetstream2](https://jetstream-cloud.org/) - NSF supported cyberinfrastructure (cloud), managed through ACCESS
+[Jetstream2](https://jetstream-cloud.org/){target=_blank} - NSF supported cyberinfrastructure (cloud), managed through ACCESS
 
 [CyVerse](https://cyverse.org){target=_blank} - NSF supported cyberinfrastructure for life sciences
 
