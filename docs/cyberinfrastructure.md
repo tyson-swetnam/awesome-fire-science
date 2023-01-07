@@ -1,8 +1,48 @@
-## Cyberinfrastructure
+??? Tip "Why use the Cloud?"
 
-"Cyberinfrastructure" is a term used in academic settings to describe computational resources. "Cloud" is now the dominant paradigm for working with computational data but the cyberinfrastructure term also includes high throughput and high performance computing (HTC/HPC) resources which are commonly found at large government labs and research universities. 
+    Big data are now a critical and valuable tool that can be used in wildland fire science. Working with big data require that you refocus your work on "the Cloud". "Data-proximate computing" means moving your work onto the cloud, both the data and the analyses, using "analysis-ready data" in "cloud optimized" formats. - [Abernathy et al. 2021](https://doi.org/10.1109/MCSE.2021.3059437){target=_blank}
 
-### Public Cloud
+    "Cyberinfrastructure" is a term used in academic settings to describe computational resources. 
+
+    The "Cloud" is now the dominant paradigm for working with computational big data. The cyberinfrastructure term also includes specialized high throughput and high performance computing (HTC/HPC) resources which are commonly found at large government labs and research universities. 
+
+### Development Environments
+
+??? Tip "What is a Dev Environment?"
+    
+    Development Environments are virtual machines which use containers to give users a fresh software environment on-demand. The following list are 'starter' level services which offer limited compute resources for limited amounts of time. These can all be expanded with paid license agreements.
+
+[:simple-googlecolab: Colab](https://colab.research.google.com/){target=_blank} - Google's CoLaboratory starts a Jupyter Notebook, limited in size but can be increased with subscription.                
+
+[:octicons-codespaces-24: CodeSpaces](https://github.com/features/codespaces){target=_blank} - GitHub's CodeSpaces starts a VS Code instance from a GitHub Repository which can be variabily sized (requires subscription)      
+
+[:simple-gitpod: GitPod](https://www.gitpod.io/){target=_blank} - starts a VS Code instance that can be variably sized 
+
+[:material-notebook: MyBinder.org](https://mybinder.org/){target=_blank} - starts a defined environment (RStudio, Jupyter, VS Code) from a GitHub Repository, limited in size.   
+
+### Commercial Clouds 
+
+[:simple-microsoftazure: Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research){target=_blank} - free credits for research on Microsoft Azure
+
+[:simple-googlecloud: Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none){target=_blank} - free credits for research on Google Cloud
+
+[:simple-amazonaws: AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank} - free credits for research on Amazon Web Services
+
+### :material-layers-triple-outline: CyberGIS
+
+There are numerous platforms available online for running computaitonal analyses (models), or for viewing public data sets.
+
+#### :simple-googleearth: Google Earth Engine
+
+All major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on commercial cloud 
+
+[:simple-googleearth: Google Earth Engine](https://earthengine.google.com/){target=_blank} is the most widel used cyberGIS for analysing EOS data. 
+
+#### :simple-microsoft: Microsoft Planetary Computer
+
+Microsoft has just launched a sort-of-competitor to GEE called [Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}. Planetary Computer runs on Microsoft Azure using a JupyterHub with PANGEO software.  
+
+### Public Clouds
 
 Existing investments in research cyberinfrastructure are available for free to all US based researchers. These resources can be used by non-US researchers under certain conditions. 
 
@@ -18,32 +58,8 @@ Existing investments in research cyberinfrastructure are available for free to a
 
 [CyVerse Discovery Environment](https://de.cyverse.org/){target=_blank} - multi-platform service for full-stack cloud data management 
 
-[DesignSafe CI](https://www.designsafe-ci.org/){target=_blank} - workbench for natural hazards research.
-
-[Google Earth Engine (GEE)](https://earthengine.google.com/){target=_blank} - planetary-scale platform for Earth science data & analysis.   
+[DesignSafe CI](https://www.designsafe-ci.org/){target=_blank} - workbench for natural hazards research. 
 
 [HydroShare](https://www.hydroshare.org/){target=_blank} - platform for hydrological science applications supported by CUAHSI 
 
-[Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank} - Microsoft Azure compute environment (JupyterHub) with PANGEO software.  
-
 [OSF.io](https://osf.io/){target=_blank} - is a free, open source web application that connects and supports the research workflow, enabling scientists to increase the efficiency and effectiveness of their research.
-
-### Commercial Cloud 
-
-Commercial cloud resources are available to all at a $$$.
-
-   * [Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research){target=_blank} - free credits for research on Microsoft Azure
-   * [Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none){target=_blank} - free credits for research on Google Cloud
-   * [AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank} - free credits for research on Amazon Web Services
-
-#### Development Environments
-
-Development Environments are virtual machines which use containers to give users a fresh software environment on-demand. 
-
-[Colab](https://colab.research.google.com/){target=_blank} - Google's CoLaboratory starts a Jupyter Notebook, limited in size but can be increased with subscription.                
-
-[CodeSpaces](https://github.com/features/codespaces){target=_blank} - GitHub's CodeSpaces starts a VS Code instance from a GitHub Repository which can be variabily sized (requires subscription)      
-
-[GitPod](https://www.gitpod.io/){target=_blank} - starts a VS Code instance that can be variably sized 
-
-[MyBinder.org](https://mybinder.org/){target=_blank} - starts a defined environment (RStudio, Jupyter, VS Code) from a GitHub Repository, limited in size.   

@@ -101,27 +101,11 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [SERVIR Global](https://servirglobal.net)
 
-## :material-layers-triple-outline: CyberGIS
-
-There are numerous platforms available online for running computaitonal analyses (models), or for viewing public data sets.
-
-#### :simple-googleearth: Google Earth Engine
-
-All major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on commercial cloud 
-
-[:simple-googleearth: Google Earth Engine](https://earthengine.google.com/){target=_blank} is the most widel used cyberGIS for analysing EOS data. 
-
 [:simple-awesomelists: Awesome Google Earth Engine Applications](https://github.com/giswqs/Awesome-GEE){target=_blank}
 
 [:simple-awesomelists: GEE Community Datasets](https://samapriya.github.io/awesome-gee-community-datasets){target=_blank} - Awesome List of Community Contributed Datasets
    * [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/){target=_blank}
    * [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/){target=_blank}
    * [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/){target=_blank}
-
-#### :simple-microsoft: Microsoft Planetary Computer
-
-Microsoft has just launched a sort-of-competitor to GEE called [Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}. 
-
-Planeteray computer is based on the Python language and supports Project Jupyter and distributed computing across Azure. 
 
 [Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog){target=_blank}

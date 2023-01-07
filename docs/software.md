@@ -1,47 +1,52 @@
-## Licensed Software
+## :material-license: Licensed Software
 
-Paying for software can give you the tools you need, with a minimal amount of effort required to learn how to use and maintain them. Selecting the right set of software to pay for can save the most valuable thing you posess: :fontawesome-regular-hourglass-half: your time! 
+??? Tip "Why pay for software?"
+      
+      Paying for software can give you the tools you need, with a minimal amount of effort required to learn how to use and maintain them. Selecting the right set of software to pay for can save the most valuable thing you posess: :fontawesome-regular-hourglass-half: your time!
 
-### Geographic Information Systems
+      That being said, expensive licensed software are often not available to international researchers from the Global South or underserved communities or institutions. 
 
-!!! Tip "ESRI Software"
+### :material-layers-triple-outline: Geographic Information Systems
+
+??? Tip "How I learned to stop worrying, and love the ArcGIS :bomb:"
+
       [ESRI's ArcGIS and ArcGIS Online](https://www.arcgis.com/index.html){target=_blank} are typically the first Geographic Information Systems (GIS) software taught to students at universities and community colleges. 
       
       ESRI products dominate the US market and are found in most government agencies. 
       
-      [ESRI products are widely used in Incident Management for Wildland Fire](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} in the US.
+      ESRI products are widely used in [wildland fire incident management](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} (in the US).
 
       Access to ArcGIS requires an expensive software license agreement. Normally this cost is paid for by contracting agreements through your agency or local government. If you're working for a smaller agency or non-governmental organization, these costs can be prohibitive.
 
-      ESRI products rely on open source software in some critical ways.
-
-      ArcGIS does have a Python library, and can be used with [:simple-jupyter: Jupyter Notebooks](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/){target=_blank}
+      ESRI's software products do rely on open source software like [GDAL](https://gdal.org/software_using_gdal.html), and Python which can be used with [:simple-jupyter: Jupyter Notebooks](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/){target=_blank}
 
 [ArcGIS Online Wildland Fire Applications](https://www.esri.com/en-us/industries/wildland-fire/community){target=_blank}
 
-[:simple-googlemaps: Google Maps Platform](https://mapsplatform.google.com/) - Leverage Google's Mapping APIs for web-based applications
+[:simple-googlemaps: Google Maps Platform](https://mapsplatform.google.com/){target=_blank} - Leverage Google's Web Mapping APIs for web-based applications
 
-#### Commercial Fire Behavior Models
+[:simple-mapbox: MapBox](https://www.mapbox.com/){target=_blank} - Popular Web map and location API
 
-[Green Forest Consulting](https://greeneforestconsulting.com/fire-behavior-modeling)
+#### :material-fire: Commercial Fire Behavior Models
 
-[PyroLogix](http://pyrologix.com/)
+[:material-pine-tree-fire: Green Forest Consulting](https://greeneforestconsulting.com/fire-behavior-modeling){target=_blank}
 
-* [Nexus 2.1](http://pyrologix.com/downloads/)
+[:material-pine-tree-fire: PyroLogix](http://pyrologix.com/){target=_blank}
 
-[First Street Foundation](https://firststreet.org/) support the [RiskFactor.com](https://riskfactor.com/) with a paid service and data access model
+* [Nexus 2.1](http://pyrologix.com/downloads/){target=_blank}
 
-* [ELMFIRE (Eulerian Level Set Model of Fire Spread)]
+[:fontawesome-solid-tree-city: First Street Foundation](https://firststreet.org/){target=_blank} support the [RiskFactor.com](https://riskfactor.com/){target=_blank} with a paid service and data access model
 
-[Wildfire Analyst](https://www.wildfireanalyst.com/)
+* [ELMFIRE (Eulerian Level Set Model of Fire Spread)](https://doi.org/10.1016/j.firesaf.2013.08.014){target=_blank}
 
-(Vaporware Future?)[NVIDIA Omniverse FARSITE press-release 2021](https://blogs.nvidia.com/blog/2021/11/09/lockheed-martin-wildfires-ai/)
+[:material-fire: Wildfire Analyst](https://www.wildfireanalyst.com/){target=_blank}
+
+(:material-smoke: vaporware)[NVIDIA Omniverse FARSITE press-release 2021](https://blogs.nvidia.com/blog/2021/11/09/lockheed-martin-wildfires-ai/){target=_blank}
 
 #### Structure from Motion Photogrammetry 
 
-[Agisoft Metashape](https://www.agisoft.com/){target=_blank} - Metashape is one of the most widely adopted software for survey-grade mapping applications
+[:octicons-image-24: Agisoft Metashape](https://www.agisoft.com/){target=_blank} - Metashape is one of the most widely adopted software for survey-grade mapping applications
 
-[Pix4D](https://www.pix4d.com/){target=_blank} - Pix4D offers a simple interface and hosted processing solutions
+[:octicons-image-24: Pix4D](https://www.pix4d.com/){target=_blank} - Pix4D offers a simple interface and hosted processing solutions
 
 [:material-quadcopter: DroneDeploy](https://www.dronedeploy.com/){target=_blank} - Drone Deploy offers hosted processing solutions
 
@@ -51,18 +56,18 @@ Paying for software can give you the tools you need, with a minimal amount of ef
 
 ### Productivity and Integrated Development Environments
 
-[:simple-github: GitHub](https://github.com) - the most widely used version control platform based on `git` 
+[:simple-github: GitHub](https://github.com){target=_blank} - the most widely used version control platform based on `git` 
 
-* [CodeSpaces](https://github.com/features/codespaces) - Cloud-based virtual machines that work with GitHub Repositories
-* [CoPilot]() - AI assisted code 
+* [:octicons-codespaces-24: CodeSpaces](https://github.com/features/codespaces){target=_blank} - Cloud-based virtual machines that work with GitHub Repositories
+* [:octicons-copilot-24: CoPilot](https://github.com/features/copilot) - AI assisted code 
 
-[ChatGPT](https://openai.com/blog/chatgpt/) - AI assisted code writing
+[:simple-openai: ChatGPT](https://openai.com/blog/chatgpt/){target=_blank} - AI assisted code writing
 
 ## :simple-opensourceinitiative: Free and Open Source Software
 
 Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object){target=_blank} or data cube.
 
-## Fire Behavior Models
+## :material-fire: Open Source Fire Behavior Models
 
 [Fire.org](https://www.fire.org/)
 
@@ -88,30 +93,41 @@ Using open source software allows other researchers to reproduce your work and i
 
 [Open Wildland Fire Modeling Wiki](https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki)
 
-### Ecosystem models
+### :material-earth-box: Ecosystem models
 
 [LANDIS-II](https://www.landis-ii.org/)
 
 [PEcAn](https://pecanproject.github.io/)
 
-### GIS
+### :material-layers-triple-outline: GIS
 
 The Open Source Geospatial Software Foundation ([OSGEO](https://www.osgeo.org/){target=_blank}) has broad support across Linux-based operating systems, making it cloud-ready for advanced fire applications. 
 
 [:material-cloud-tags: CloudCompare](https://www.danielgm.net/cc/){target=_blank} - 3D point cloud and mesh processing software
 Open Source Project
-
-[:material-cloud-tags: PDAL](https://pdal.io/){target=_blank} - the pointcloud data abstraction tool (PDAL) is the most powerful open source GIS for manipulating point cloud data
-
-[:simple-qgis: QGIS](https://qgis.org/en/site/){target=_blank} - Quantum GIS, an open source alternative to ESRI ArcGIS
-           
+       
 [:material-grid: GDAL](https://gdal.org/){target=_blank} - the geospatial data abstraction tool (GDAL) is the bedrock of open source GIS
 
 [:material-grass: GRASS-GIS](https://grass.osgeo.org/){target=_blank} - US Army Corps of Engineers GIS with numerous topographic and hyrdological algorithms
 
+[Kepler.gl](https://kepler.gl/){target=_blank} - is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets
+
+* [NASA FIRMS w/ Kepler.gl](https://www.bellingcat.com/resources/2022/10/04/scorched-earth-using-nasa-fire-data-to-monitor-war-zones/){target=_blank}
+
+[:material-quadcopter: Open Drone Map](https://opendronemap.org/){target=_blank} - Generate maps, point clouds, DEMs and 3D models from aerial images.
+
+[:simple-openstreetmap: Open Street Map](https://www.openstreetmap.org/#map=5/38.007/-95.844){target=_blank}
+
+[:material-layers-triple: Overture Maps](https://overturemaps.org/){target=_blank} - (future) FOSS competitor to Google Maps
+
+[:material-cloud-tags: PDAL](https://pdal.io/){target=_blank} - the pointcloud data abstraction tool (PDAL) is the most powerful open source GIS for manipulating point cloud data
+
+[:simple-qgis: QGIS](https://qgis.org/en/site/){target=_blank} - Quantum GIS, an open source alternative to ESRI ArcGIS
+    
 [:material-grid: SAGA-GIS](http://www.saga-gis.org/){target=_blank} - European GIS with numerous topographic and hydrological algorithms
 
 [:material-grid: WhiteBox Geospatial](https://www.whiteboxgeo.com/){target=_blank} - a cross platform open-source tool for raster analyses 
+
 
 ### :material-laptop: Popular Integrated Development Environments 
 
@@ -155,14 +171,14 @@ Open Source Project
 
 ### Productivity
 
+[:simnple-anaconda: Anaconda (`conda`)] - is a package management and deployment system for scientific software (mainly Python)
+
+* [simple-condaforge: Conda Forge] - is the largest repository for packages in `conda`
+
+[:simple-docker: Docker] - is the most common format for "containerizing" software environments
+
 [:simple-git: Git](https://git-scm.com/) - the `git` version control system
 
 [:material-gitlab: GitLab](https://gitlab.com) - GitLab is an open source, self-hosted, or web-hosted version control system
    
 [:material-duck: CyberDuck](https://cyberduck.io){target=_blank} - 3rd party software for getting data to and from the internet
-
-[:material-quadcopter: Open Drone Map](https://opendronemap.org/){target=_blank} - Generate maps, point clouds, DEMs and 3D models from aerial images.
-
-[:simple-openstreetmap: Open Street Map](https://www.openstreetmap.org/#map=5/38.007/-95.844){target=_blank}
-
-[:material-layers-triple: Overture Maps](https://overturemaps.org/){target=_blank} - FOSS competitor to Google Maps
