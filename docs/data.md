@@ -30,7 +30,6 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [PaleoFire DB](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
 
-
 [Wildfire Risk](https://wildfirerisk.org/){target=_blank} - Wildfire risk to communities, curated risk data from USFS Research.
 
 [WIFIRE Data Commons](https://wifire-data.sdsc.edu/dataset){target=_blank} - ML and AI for wildland fire datasets centered in California
@@ -40,6 +39,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 [NIFC Statistics](https://www.nifc.gov/fire-information/statistics){target=_blank}
 
 [NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank}
+
+[USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6) - Spatial wildfire occurrence data for the United States, 1992-2020
 
 ## :material-weather-partly-snowy-rainy: Weather
 

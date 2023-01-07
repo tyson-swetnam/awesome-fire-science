@@ -21,9 +21,23 @@ Paying for software can give you the tools you need, with a minimal amount of ef
 
 [:simple-googlemaps: Google Maps Platform](https://mapsplatform.google.com/) - Leverage Google's Mapping APIs for web-based applications
 
+#### Commercial Fire Behavior Models
+
+[Green Forest Consulting](https://greeneforestconsulting.com/fire-behavior-modeling)
+
+[PyroLogix](http://pyrologix.com/)
+
+* [Nexus 2.1](http://pyrologix.com/downloads/)
+
 [First Street Foundation](https://firststreet.org/) support the [RiskFactor.com](https://riskfactor.com/) with a paid service and data access model
 
-### Structure from Motion Photogrammetry 
+* [ELMFIRE (Eulerian Level Set Model of Fire Spread)]
+
+[Wildfire Analyst](https://www.wildfireanalyst.com/)
+
+(Vaporware Future?)[NVIDIA Omniverse FARSITE press-release 2021](https://blogs.nvidia.com/blog/2021/11/09/lockheed-martin-wildfires-ai/)
+
+#### Structure from Motion Photogrammetry 
 
 [Agisoft Metashape](https://www.agisoft.com/){target=_blank} - Metashape is one of the most widely adopted software for survey-grade mapping applications
 
@@ -35,7 +49,7 @@ Paying for software can give you the tools you need, with a minimal amount of ef
 
 [:material-quadcopter: DJI Terra](https://www.dji.com/dji-terra){target=_blank} - DJI structure from motion and lidar software
 
-### Productivity
+### Productivity and Integrated Development Environments
 
 [:simple-github: GitHub](https://github.com) - the most widely used version control platform based on `git` 
 
@@ -48,9 +62,41 @@ Paying for software can give you the tools you need, with a minimal amount of ef
 
 Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object){target=_blank} or data cube.
 
+## Fire Behavior Models
+
+[Fire.org](https://www.fire.org/)
+
+* [ArcFuels](https://www.firelab.org/project/arcfuels)
+
+* [BEHAVE+](https://www.frames.gov/behaveplus/home)
+
+* [FARSITE-2](https://www.firelab.org/project/farsite)
+
+* [FIREFAMILY+](https://www.firelab.org/project/firefamilyplus)
+
+* [FIREMON](https://www.frames.gov/firemon/home)
+
+* [FLAMMAP](https://www.firelab.org/project/flammap)
+
+* [FOFEM](https://www.firelab.org/project/fofem-fire-effects-model)
+
+* [FEIS](https://www.feis-crs.org/feis/)
+
+* [WFAS](https://www.wfas.net/)
+
+* [WindNinja](https://www.firelab.org/project/windninja)
+
+[Open Wildland Fire Modeling Wiki](https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki)
+
+### Ecosystem models
+
+[LANDIS-II](https://www.landis-ii.org/)
+
+[PEcAn](https://pecanproject.github.io/)
+
 ### GIS
 
-Open Source GIS software have improved greatly over the last ten years. Furthermore, The Open Source Geospatial Software Foundation ([OSGEO](https://www.osgeo.org/){target=_blank}) has broad support across Linux-based operating systems, making it cloud-ready. 
+The Open Source Geospatial Software Foundation ([OSGEO](https://www.osgeo.org/){target=_blank}) has broad support across Linux-based operating systems, making it cloud-ready for advanced fire applications. 
 
 [:material-cloud-tags: CloudCompare](https://www.danielgm.net/cc/){target=_blank} - 3D point cloud and mesh processing software
 Open Source Project
@@ -70,6 +116,8 @@ Open Source Project
 ### :material-laptop: Popular Integrated Development Environments 
 
 [:simple-jupyter: Project Jupyter](https://jupyter.org/){target=_blank} - Browser based computational notebooks, focused on Python, but any computer kernel can be installed as add-ons 
+
+* Example Jupyter Notebooks by [:simple-github: Abraham Coiman](https://github.com/acoiman/wildfire_modeling)
 
 [:simple-rstudio: Posit(RStudio)](https://posit.co/){target=_blank} - RStudio is the most popular IDE for working with the R-language
 
