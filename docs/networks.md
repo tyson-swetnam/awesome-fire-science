@@ -1,3 +1,4 @@
+# :octicons-globe-24: Networks
 
 ## Internet Communities, News, & Social Media
 
@@ -15,7 +16,7 @@
 
 [Wildfire Today](https://wildfiretoday.com/){target=_blank}
 
-## International Professional Associations
+## :octicons-globe-24: International Professional Associations
 
 [Association for Fire Ecology](https://fireecology.org){target=_blank}
 
@@ -25,17 +26,20 @@
 
 [International Fire Chiefs Association](https://www.iafc.org/home){target=_blank}
 
-### Global
+### :octicons-globe-24: Global
 
 [Center for International Forestry Research](https://www.cifor.org/){target=_blank}
 
-[Global Fire Monitoring Center (UN)](https://gfmc.online/){target=_blank}
-* [Community Based Fire Management](https://gfmc.online/manag/cbifm.html){target=_blank}
+[FAO Fire Management Actions Alliance](https://www.fao.org/forestry/firealliance/en/){target=_blank}
 
+[Global Fire Monitoring Center (UN)](https://gfmc.online/){target=_blank}
+
+* [Community Based Fire Management](https://gfmc.online/manag/cbifm.html){target=_blank}
 
 [Global Drought Observatory](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001){target=_blank}
 
-[FAO Fire Management Actions Alliance](https://www.fao.org/forestry/firealliance/en/){target=_blank}
+[International Paleofire Network](https://ipn.paleofire.org/){target=_blank}
+
 
 ### :fontawesome-solid-earth-africa: Africa
 
@@ -54,17 +58,31 @@
 
 ### :fontawesome-solid-earth-americas: North America
 
-[La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor){target=_blank}
+[:fontawesome-solid-flag-usa: US Bureau of Indian Affairs Division of Wildland Fire Management](https://www.bia.gov/bia/ots/dwfm){target=_blank}
 
-[Natural Resources Canada](https://www.nrcan.gc.ca/home){target=_blank}
+[:fontawesome-solid-flag-usa: US Bureau of Land Management Fire Program](https://www.blm.gov/programs/fire){target=_blank}
 
-* [Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home){target=_blank}
+[:fontawesome-solid-flag-usa: US National Association of State Foresters](https://www.stateforesters.org/){target=_blank}
 
-[Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
+[:fontawesome-solid-flag-usa: US National Park Service](https://www.nps.gov/subjects/fire/index.htm){target=_blank}
 
-[USDA Forest Service Research](https://www.fs.usda.gov/research/){target=_blank}
+[:fontawesome-solid-flag-usa: US Fish & Wildlife Service Fire Management](https://www.fws.gov/program/fire-management){target=_blank}
 
-[USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science){target=_blank}
+[:fontawesome-solid-flag-usa: US Forest Service](https://www.fs.usda.gov/managing-land/fire){target=_blank}
+
+* [:fontawesome-solid-flag-usa: USDA Forest Service Research](https://www.fs.usda.gov/research/){target=_blank}
+
+[:flag_mx: La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor){target=_blank}
+
+[:fontawesome-brands-canadian-maple-leaf: Natural Resources Canada](https://www.nrcan.gc.ca/home){target=_blank}
+
+* [:fontawesome-brands-canadian-maple-leaf: Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home){target=_blank}
+
+[:fontawesome-solid-flag-usa: US Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
+
+[:fontawesome-solid-flag-usa: US National Interagency Fire Center](https://www.nifc.gov/){target=_blank}
+
+[:fontawesome-solid-flag-usa: USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science){target=_blank}
 
 ### :fontawesome-solid-earth-americas: South America
 

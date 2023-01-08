@@ -1,3 +1,5 @@
+# :octicons-cloud-24: Computing
+
 ??? Tip "Why use the Cloud?"
 
     Big data are now a critical and valuable tool that can be used in wildland fire science. Working with big data require that you refocus your work on "the Cloud". "Data-proximate computing" means moving your work onto the cloud, both the data and the analyses, using "analysis-ready data" in "cloud optimized" formats. - [Abernathy et al. 2021](https://doi.org/10.1109/MCSE.2021.3059437){target=_blank}

@@ -1,3 +1,5 @@
+# :octicons-gear-24: Software
+
 ## :material-license: Licensed Software
 
 ??? Tip "Why pay for software?"
@@ -69,7 +71,9 @@ Using open source software allows other researchers to reproduce your work and i
 
 ## :material-fire: Open Source Fire Behavior Models
 
-[Fire.org](https://www.fire.org/)
+[Wildland Fire Decision Support System (WDFSS)](https://wfdss.usgs.gov/wfdss/WFDSS_Home.shtml) - system assists fire managers and analysts in making strategic and tactical decisions for fire incidents. 
+
+[:material-fire: Fire.org](https://www.fire.org/)
 
 * [ArcFuels](https://www.firelab.org/project/arcfuels)
 
@@ -89,9 +93,9 @@ Using open source software allows other researchers to reproduce your work and i
 
 * [WFAS](https://www.wfas.net/)
 
-* [WindNinja](https://www.firelab.org/project/windninja)
+* [:fontawesome-solid-wind: WindNinja](https://www.firelab.org/project/windninja)
 
-[Open Wildland Fire Modeling Wiki](https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki)
+[:simple-wikipedia: Open Wildland Fire Modeling Wiki](https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki)
 
 ### :material-earth-box: Ecosystem models
 

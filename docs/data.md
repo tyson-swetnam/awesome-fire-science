@@ -1,52 +1,67 @@
+# :octicons-database-24: Data
+
 Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principles/){target=_blank} and [CARE](https://www.go-fair.org/fair-principles/){target=_blank} data principles
 
 ## :material-file-document-edit-outline: Pre-Print & :material-file-document-check-outline: Peer Reviewed Journals
 
-[arXiv](https://arxiv.org/search/?query=wildland+fire&searchtype=all&source=header) - pre-print service
+[:material-file-document-edit-outline: arXiv](https://arxiv.org/search/?query=wildland+fire&searchtype=all&source=header){target=_blank} - general science pre-print service (query:`wildland fire`)
 
-[ESSOAr](https://essopenarchive.org/) - American Geophysical Union (AGU) pre-print service
+[:material-file-document-edit-outline: ESSOAr](https://essopenarchive.org/){target=_blank} - American Geophysical Union (AGU) pre-print service
 
-[Fire](https://www.mdpi.com/journal/fire)
+[:material-file-document-check-outline: Fire](https://www.mdpi.com/journal/fire){target=_blank}
 
-[Fire Ecology](https://fireecology.springeropen.com/)
+[:material-file-document-check-outline: Fire Ecology](https://fireecology.springeropen.com/){target=_blank}
 
-[International Journal of Wildland Fire](https://www.publish.csiro.au/wf)
+[:material-file-document-check-outline: International Journal of Wildland Fire](https://www.publish.csiro.au/wf){target=_blank}
 
-[Journal of Fire Science](https://journals.sagepub.com/home/jfs)
+[:material-file-document-check-outline: Journal of Fire Science](https://journals.sagepub.com/home/jfs){target=_blank}
 
-[Nature](https://www.nature.com/search?q=wildland+fire&journal=)
+[:material-file-document-check-outline: Nature](https://www.nature.com/search?q=wildland+fire&journal=){target=_blank} - (query:`wildland fire`)
 
-[Science](https://www.science.org/action/doSearch?AllField=wildland+fire)
+[:material-file-document-check-outline: Science](https://www.science.org/action/doSearch?AllField=wildland+fire){target=_blank} - (query:`wildland fire`)
 
 ## :material-layers-triple: Incident Maps / Historical Fire Atlases
 
-[Canadian National Fire Database](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb)
+[:fontawesome-brands-canadian-maple-leaf: Canadian National Fire Database](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb){target=_blank}
 
 [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires){target=_blank} - Access wildfire data, live feeds, technology, and resources
 
-[GlobalFireData.org](https://www.globalfiredata.org/fireatlas.html)
+[Global Fire Emissions Database](https://www.globalfiredata.org/index.html){target=_blank}
 
-[NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z)
+[:material-fire: InciWeb (USA)](https://inciweb.nwcg.gov/) - is an interagency all-risk incident information management system.
 
-[PaleoFire DB](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
+[:simple-nasa: NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z){target=_blank} - Fire Information for Resource Management System
+
+[:material-fire: NIFC Statistics](https://www.nifc.gov/fire-information/statistics){target=_blank}
+
+[:material-fire: NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank}
+
+[PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
+
+[USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6){target=_blank} - Spatial wildfire occurrence data for the United States, 1992-2020
 
 [Wildfire Risk](https://wildfirerisk.org/){target=_blank} - Wildfire risk to communities, curated risk data from USFS Research.
 
 [WIFIRE Data Commons](https://wifire-data.sdsc.edu/dataset){target=_blank} - ML and AI for wildland fire datasets centered in California
 
-[WFDSS](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml){target=_blank} - Wildfire decision support system GIS data for fire modelling
-
-[NIFC Statistics](https://www.nifc.gov/fire-information/statistics){target=_blank}
-
-[NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank}
-
-[USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6) - Spatial wildfire occurrence data for the United States, 1992-2020
+[Wildfire Decision Support System (WFDSS)](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml){target=_blank} - Wildfire decision support system GIS data for fire modelling
 
 ## :material-weather-partly-snowy-rainy: Weather
 
 [Ameriflux](https://ameriflux.lbl.gov/){target=_blank} - eddy covariance data
 
-[Geographic Area Coordination Center (GACC)](https://gacc.nifc.gov/)
+[Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/)
+
+* [Alaska (AICC)](https://fire.ak.blm.gov/)
+* [Eastern Area (EACC)](https://gacc.nifc.gov/eacc/)
+* [Great Basin (GBCC)](https://gacc.nifc.gov/gbcc/)
+* [Northern California (ONCC)](https://gacc.nifc.gov/oncc/)
+* [Northern Rockies (NRCC)](https://gacc.nifc.gov/nrcc/)
+* [Northwest (NWCC)](https://gacc.nifc.gov/nwcc/)
+* [Rocky Mountain (RMCC)](https://gacc.nifc.gov/rmcc/)
+* [Southern Area (SACC)](https://gacc.nifc.gov/sacc/)
+* [Southern California (OSCC)](https://gacc.nifc.gov/oscc/)
+* [Southwest (SWCC)](https://gacc.nifc.gov/swcc/)
 
 [Earth Null School](https://earth.nullschool.net/){target=_blank} - dynamic vizualizations of Earth model and weather data
 
@@ -72,7 +87,6 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [OpenTopography](https://opentopography.org/){target=_blank} - NSF supported lidar and global elevation data 
 
-
 ## :material-bird: Environmental
 
 [eBird](https://ebird.org/science/use-ebird-data){target=_blank} - citizen science for ornithology
@@ -85,27 +99,30 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [NEON](https://www.neonscience.org/data-samples){target=_blank} - National Ecological Observation Network (NEON) data and API
 
-[NeotomaDB](https://www.neotomadb.org/data){target=_blank} - Neotoma paleo ecology database
+[:rat: NeotomaDB](https://www.neotomadb.org/data){target=_blank} - Neotoma paleo ecology database
    
 [Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - Paleo data archives
 
 ## :material-satellite-variant: Earth Observation Systems
 
-[NASA LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time){target=_blank} - Land, Atmosphere Near real-time Capability for EOS (LANCE)
+[:simple-nasa: LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time){target=_blank} - Land, Atmosphere Near real-time Capability for EOS (LANCE)
 
-[NASA](https://data.nasa.gov/){target=_blank} 
+[:simple-nasa: NASA General Data Catalog](https://data.nasa.gov/){target=_blank} 
 
 [:simple-planet: Planet Labs](https://www.planet.com/markets/nasa/){target=_blank} has signed a special use agreement with NASA to provide their data to researchers and academics.
 
-[RealEarth](https://www.ssec.wisc.edu/realearth/){target=_blank} - EOS data visualization
+[RealEarth](https://www.ssec.wisc.edu/realearth/){target=_blank} - is a data discovery and visualization platform developed at SSEC/CIMSS at the University of Wisconsin-Madison to support outreach and collaboration efforts of scientists. 
 
-[SERVIR Global](https://servirglobal.net)
+[SERVIR Global](https://servirglobal.net){target=_blank}
 
-[:simple-awesomelists: Awesome Google Earth Engine Applications](https://github.com/giswqs/Awesome-GEE){target=_blank}
+[:simple-awesomelists: :simple-googleearth: Google Earth Engine Applications](https://github.com/giswqs/Awesome-GEE){target=_blank}
 
-[:simple-awesomelists: GEE Community Datasets](https://samapriya.github.io/awesome-gee-community-datasets){target=_blank} - Awesome List of Community Contributed Datasets
-   * [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/){target=_blank}
-   * [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/){target=_blank}
-   * [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/){target=_blank}
+[:simple-awesomelists: :simple-googleearth: Google Earth Engine Community Datasets](https://samapriya.github.io/awesome-gee-community-datasets){target=_blank} 
 
-[Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog){target=_blank}
+* [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/){target=_blank}
+
+* [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/){target=_blank}
+
+* [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/){target=_blank}
+
+[:simple-microsoft: Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog){target=_blank}

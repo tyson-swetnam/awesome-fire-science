@@ -1,3 +1,5 @@
+# :material-brain: Training
+
 ## Wildland Fire & Fire Science Training
 
 [National Wildfire Coordination Group Courses](https://www.nwcg.gov/publications/training-courses)
