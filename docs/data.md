@@ -100,6 +100,16 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [RAMMB](https://rammb2.cira.colostate.edu/){target=_blank} - Regional and Mesoscale Meteorology Branch (RAMMB) GOES-16/17 image animations. 
 
+## AI model training datasets
+
+[High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/)
+
+* [HPWREN Fire Ignition image Library (FIgLib)](http://hpwren.ucsd.edu/HPWREN-FIgLib/) - sequences of wildland fire images as seen from fixed cameras at HPWREN sites
+
+* [FIgLib & SmokeyNet (Dewangan et al. 2022)](https://doi.org/10.3390/rs14041007)
+
+[Wildfire smoke detections](https://public.roboflow.com/object-detection/wildfire-smoke)
+
 ## :material-weather-rainy: Hydrology
 
 [HydroShare](https://www.hydroshare.org/){target=_blank} - CUASHI's online collaboration environment for sharing data, models, and code

@@ -139,9 +139,7 @@ Open Source Project
 
 [:simple-jupyter: Project Jupyter](https://jupyter.org/){target=_blank} - Browser based computational notebooks, focused on Python, but any computer kernel can be installed as add-ons 
 
-* Example Jupyter Notebooks by [:simple-github: Abraham Coiman](https://github.com/acoiman/wildfire_modeling)
-
-[:simple-rstudio: Posit(RStudio)](https://posit.co/){target=_blank} - RStudio is the most popular IDE for working with the R-language
+[:simple-rstudio: Posit (RStudio)](https://posit.co/){target=_blank} - RStudio is the most popular IDE for working with the R-language
 
 [:simple-visualstudiocode: VS Code](https://code.visualstudio.com/){target=_blank} - Microsoft's free Visual Studio Code is the most popular and fully featured code editor in the world   
 
@@ -153,15 +151,35 @@ Open Source Project
 
 [:simple-microsoft: Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples){target=_blank}
 
+#### :simple-github: Repositories, :simple-jupyter: Notebooks, and :octicons-mortar-board-24: Short Courses
+
+[:simple-github: Agent-based Modeling](https://github.com/hildobby/fire-suppression-abm){target=_blank} - Agent-based modeling 2D wildfire suppression simulator tool built on the `mesa` framework in Python
+
+[:simple-github: Call for Code Spot Challenge for Wildfires](https://github.com/Call-for-Code/Spot-Challenge-Wildfires){target=_blank} - predict the wildfire/bushfire area for 7 regions in Australia for each day in February 2021
+
+[:simple-python: Wildfire Modelling in Yosemite](https://towardsdatascience.com/wildfire-modeling-in-yosemite-national-park-666f45c9a0a0){target=_blank}, ([:simple-github: Abraham Coiman](https://github.com/acoiman/wildfire_modeling){target=_blank})
+
+[:simple-kaggle: Predict the causes of wildland fires using Python](https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python){target=_blank}
+
+[:simple-python: Create interactive map of wildfire data using Folium in Python](https://towardsdatascience.com/creating-an-interactive-map-of-wildfire-data-using-folium-in-python-7d6373b6334a){target=_blank}
+
+[:simple-github: Wildfire Datascience (Andrew Mahon)](https://github.com/amahon/wildfire-datascience){target=_blank}
+
+[:octicons-mortar-board-24: Wildfire danger short course](https://zenodo.org/record/3859592){target=_blank} - First release, finalised for the 'Short Course on ECMWF and Copernicus data and service offering for monitoring and forecasting fire danger' (11-19 May 2020 EUMETSAT-ECMWF-Copernicus).
+
+[:simple-github: Wildfire Smoke Detection with AI](https://github.com/PaulinoMoskwa/Wildfire-Smoke-Detection)
+
 ### :simple-r: R
 
 [Forest Analysis in R App](https://atkinsjeff.shinyapps.io/ForestAnalysisInR/){target=_blank} - Shiny App with list of available packages for forestry analyses.
 
-[BurnR](https://github.com/ltrr-arizona-edu/burnr){target=_blank} - Fire history analysis tools for R
+[burnR](https://github.com/ltrr-arizona-edu/burnr){target=_blank} - Fire history analysis tools for R
 
 [dplR](https://github.com/AndyBunn/dplR){target=_blank} - dendrochronology R tools, now [OpenDendro](https://opendendro.org/){target=_blank}
 
-[lidR](https://jean-romain.github.io/lidRbook/){target=_blank} - lidar package for R
+[firebehavioR](https://github.com/EcoFire/firebehavioR){target=_blank} - R package for predicting fire behavior using the Rothermel modelling system or the Crown Fire Initiation & Spread modelling system.
+
+[lidR](https://jean-romain.github.io/lidRbook/){target=_blank} - R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications.
 
 ### :globe_with_meridians: Geospatial Frameworks
 
@@ -175,20 +193,20 @@ Open Source Project
 
 [:material-wifi: WIFIRE](https://wifire.ucsd.edu/){target=_blank} - Workflows for wildland fire science applications, NSF funded.
 
-* [BURNPRO3D](https://wifire.ucsd.edu/burnpro3d)
+* [BURNPRO3D](https://wifire.ucsd.edu/burnpro3d){target=_blank}
 
-* [FIREMAP](https://wifire.ucsd.edu/firemap)
+* [FIREMAP](https://wifire.ucsd.edu/firemap){target=_blank}
 
 ### Productivity
 
-[:simnple-anaconda: Anaconda (`conda`)] - is a package management and deployment system for scientific software (mainly Python)
+[:simnple-anaconda: Anaconda (`conda`)](https://www.anaconda.com/){target=_blank} - is a package management and deployment system for scientific software (mainly Python)
 
-* [simple-condaforge: Conda Forge] - is the largest repository for packages in `conda`
+[:simple-condaforge: Conda Forge](https://conda-forge.com){target=_blank} - is the largest repository for packages in `conda`
 
-[:simple-docker: Docker] - is the most common format for "containerizing" software environments
+[:simple-docker: Docker](https://docker.com){target=_blank} - is the most common format for "containerizing" software environments
 
-[:simple-git: Git](https://git-scm.com/) - the `git` version control system
+[:simple-git: Git](https://git-scm.com/){target=_blank} - the `git` version control system
 
-[:material-gitlab: GitLab](https://gitlab.com) - GitLab is an open source, self-hosted, or web-hosted version control system
+[:material-gitlab: GitLab](https://gitlab.com){target=_blank} - GitLab is an open source, self-hosted, or web-hosted version control system
    
 [:material-duck: CyberDuck](https://cyberduck.io){target=_blank} - 3rd party software for getting data to and from the internet
