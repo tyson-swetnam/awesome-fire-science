@@ -18,6 +18,8 @@
       
       ESRI products are widely used in [wildland fire incident management](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} (in the US).
 
+      [WFDSS NIFC ArcGIS](https://nifc.maps.arcgis.com/home/item.html?id=8e2b29eb0ae04e73801b08314b395b94)
+
       Access to ArcGIS requires an expensive software license agreement. Normally this cost is paid for by contracting agreements through your agency or local government. If you're working for a smaller agency or non-governmental organization, these costs can be prohibitive.
 
       ESRI's software products do rely on open source software like [GDAL](https://gdal.org/software_using_gdal.html), and Python which can be used with [:simple-jupyter: Jupyter Notebooks](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/){target=_blank}
@@ -172,6 +174,10 @@ Open Source Project
 [:material-pine-tree-fire: USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program){target=_blank} - Rocky Mountain Research Station fire data and tools
 
 [:material-wifi: WIFIRE](https://wifire.ucsd.edu/){target=_blank} - Workflows for wildland fire science applications, NSF funded.
+
+* [BURNPRO3D](https://wifire.ucsd.edu/burnpro3d)
+
+* [FIREMAP](https://wifire.ucsd.edu/firemap)
 
 ### Productivity
 

@@ -20,6 +20,16 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:material-file-document-check-outline: Science](https://www.science.org/action/doSearch?AllField=wildland+fire){target=_blank} - (query:`wildland fire`)
 
+## Books and Technical Reports
+
+[Rocky Mountain Research Station General Technical Reports](https://www.fs.usda.gov/rmrs/publications/series/general-technical-reports)
+
+[Fire ecology and management: Past Present and Future of US Forested ecosystems](https://www.srs.fs.usda.gov/compass/2022/01/13/new-book-on-fire-ecology-and-management-across-the-u-s/)
+
+[Fire Effects on Ecosystems](https://www.google.com/books/edition/_/cFxtriC2EDkC?hl=en&gbpv=0)
+
+[Fire on Earth: An Introduction](https://www.google.com/books/edition/Fire_on_Earth/iMOnAgAAQBAJ?hl=en&gbpv=0)
+
 ## :material-layers-triple: Incident Maps / Historical Fire Atlases
 
 [:fontawesome-brands-canadian-maple-leaf: Canadian National Fire Database](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb){target=_blank}
@@ -48,7 +58,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ## :material-weather-partly-snowy-rainy: Weather
 
-[Ameriflux](https://ameriflux.lbl.gov/){target=_blank} - eddy covariance data
+[:fontawesome-solid-tower-cell: Ameriflux](https://ameriflux.lbl.gov/){target=_blank} - eddy covariance data
 
 [Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/)
 
