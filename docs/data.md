@@ -60,6 +60,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
 
+[International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history)
+
 [USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6){target=_blank} - Spatial wildfire occurrence data for the United States, 1992-2020
 
 [Wildfire Risk](https://wildfirerisk.org/){target=_blank} - Wildfire risk to communities, curated risk data from USFS Research.
@@ -140,9 +142,9 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [NEON](https://www.neonscience.org/data-samples){target=_blank} - National Ecological Observation Network (NEON) data and API
 
-[:rat: NeotomaDB](https://www.neotomadb.org/data){target=_blank} - Neotoma paleo ecology database
-   
-[Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - Paleo data archives
+[:rat: NeotomaDB](https://www.neotomadb.org/data){target=_blank} - *Neotoma* paleo ecology database
+
+[National Centers for Environmental Information (NCEI) Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - NCEI offers search and download of Paleoclimatic proxy data and Paleoclimate Reconstructions from the NOAA/World Data Service for Paleoclimatology archives.
 
 ## :material-satellite-variant: Earth Observation Systems
 
