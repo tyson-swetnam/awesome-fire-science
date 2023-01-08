@@ -78,6 +78,8 @@
 
 * [:fontawesome-brands-canadian-maple-leaf: Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home){target=_blank}
 
+[National Fire Protection Association](https://www.nfpa.org/)
+
 [:fontawesome-solid-flag-usa: US Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
 
 [:fontawesome-solid-flag-usa: US National Interagency Fire Center](https://www.nifc.gov/){target=_blank}

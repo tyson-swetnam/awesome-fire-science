@@ -20,15 +20,27 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:material-file-document-check-outline: Science](https://www.science.org/action/doSearch?AllField=wildland+fire){target=_blank} - (query:`wildland fire`)
 
-## Books and Technical Reports
+## :simple-bookstack: Books and :material-file-document-multiple-outline: Technical Reports
 
-[Rocky Mountain Research Station General Technical Reports](https://www.fs.usda.gov/rmrs/publications/series/general-technical-reports)
+[:material-file-document-multiple-outline: Rocky Mountain Research Station General Technical Reports](https://www.fs.usda.gov/rmrs/publications/series/general-technical-reports){target=_blank}
 
-[Fire ecology and management: Past Present and Future of US Forested ecosystems](https://www.srs.fs.usda.gov/compass/2022/01/13/new-book-on-fire-ecology-and-management-across-the-u-s/)
+[Current International Perspectives on Wildland Fires, Mankind and the Environment](https://www.google.com/books/edition/Current_International_Perspectives_on_Wi/cn-zrQEACAAJ?hl=en){target=_blank}
 
-[Fire Effects on Ecosystems](https://www.google.com/books/edition/_/cFxtriC2EDkC?hl=en&gbpv=0)
+[Fire ecology and management: Past Present and Future of US Forested ecosystems](https://www.srs.fs.usda.gov/compass/2022/01/13/new-book-on-fire-ecology-and-management-across-the-u-s/){target=_blank}
 
-[Fire on Earth: An Introduction](https://www.google.com/books/edition/Fire_on_Earth/iMOnAgAAQBAJ?hl=en&gbpv=0)
+[Fire and Ecosystems](https://www.google.com/books/edition/Fire_and_Ecosystems/Nrg-EP-1oVcC?hl=en&gbpv=0){target=_blank}
+
+[:material-book-education: Fire Effects on Ecosystems](https://www.google.com/books/edition/_/cFxtriC2EDkC?hl=en&gbpv=0){target=_blank}
+
+[:material-book-education: Fire on Earth: An Introduction](https://www.google.com/books/edition/Fire_on_Earth/iMOnAgAAQBAJ?hl=en&gbpv=0){target=_blank}
+
+[Stephen J. Pyne, Fire Historian](https://www.stephenpyne.com/works.htm){target=_blank}
+
+[Tropical Fire Ecology](https://link.springer.com/book/10.1007/978-3-540-77381-8){target=_blank}
+
+[:material-book-education: Wildland Fire Behaviour](https://www.publish.csiro.au/book/7817/){target=_blank}
+
+[:material-book-education: Wildland Fire Management for Sub-Saharan Africa](https://www.google.com/books/edition/Wildland_Fire_Management_Handbook_for_Su/WmrvZqAB2UEC?hl=en){target=_blank}
 
 ## :material-layers-triple: Incident Maps / Historical Fire Atlases
 
@@ -38,7 +50,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [Global Fire Emissions Database](https://www.globalfiredata.org/index.html){target=_blank}
 
-[:material-fire: InciWeb (USA)](https://inciweb.nwcg.gov/) - is an interagency all-risk incident information management system.
+[:material-fire: InciWeb (USA)](https://inciweb.nwcg.gov/){target=_blank} - is an interagency all-risk incident information management system.
 
 [:simple-nasa: NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z){target=_blank} - Fire Information for Resource Management System
 
@@ -60,18 +72,27 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:fontawesome-solid-tower-cell: Ameriflux](https://ameriflux.lbl.gov/){target=_blank} - eddy covariance data
 
-[Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/)
+[Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/){target=_blank}
 
-* [Alaska (AICC)](https://fire.ak.blm.gov/)
-* [Eastern Area (EACC)](https://gacc.nifc.gov/eacc/)
-* [Great Basin (GBCC)](https://gacc.nifc.gov/gbcc/)
-* [Northern California (ONCC)](https://gacc.nifc.gov/oncc/)
-* [Northern Rockies (NRCC)](https://gacc.nifc.gov/nrcc/)
-* [Northwest (NWCC)](https://gacc.nifc.gov/nwcc/)
-* [Rocky Mountain (RMCC)](https://gacc.nifc.gov/rmcc/)
-* [Southern Area (SACC)](https://gacc.nifc.gov/sacc/)
-* [Southern California (OSCC)](https://gacc.nifc.gov/oscc/)
-* [Southwest (SWCC)](https://gacc.nifc.gov/swcc/)
+* [Alaska (AICC)](https://fire.ak.blm.gov/){target=_blank}
+
+* [Eastern Area (EACC)](https://gacc.nifc.gov/eacc/){target=_blank}
+
+* [Great Basin (GBCC)](https://gacc.nifc.gov/gbcc/){target=_blank}
+
+* [Northern California (ONCC)](https://gacc.nifc.gov/oncc/){target=_blank}
+
+* [Northern Rockies (NRCC)](https://gacc.nifc.gov/nrcc/){target=_blank}
+
+* [Northwest (NWCC)](https://gacc.nifc.gov/nwcc/){target=_blank}
+
+* [Rocky Mountain (RMCC)](https://gacc.nifc.gov/rmcc/){target=_blank}
+
+* [Southern Area (SACC)](https://gacc.nifc.gov/sacc/){target=_blank}
+
+* [Southern California (OSCC)](https://gacc.nifc.gov/oscc/){target=_blank}
+
+* [Southwest (SWCC)](https://gacc.nifc.gov/swcc/){target=_blank}
 
 [Earth Null School](https://earth.nullschool.net/){target=_blank} - dynamic vizualizations of Earth model and weather data
 
