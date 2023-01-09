@@ -75,7 +75,7 @@ Using open source software allows other researchers to reproduce your work and i
 
 [Wildland Fire Decision Support System (WDFSS)](https://wfdss.usgs.gov/wfdss/WFDSS_Home.shtml) - system assists fire managers and analysts in making strategic and tactical decisions for fire incidents. 
 
-[:material-fire: Fire.org](https://www.fire.org/)
+[:material-fire: Fire.org](https://www.fire.org/) - Free software for the wildland fire community 
 
 * [ArcFuels](https://www.firelab.org/project/arcfuels)
 
@@ -105,9 +105,9 @@ Using open source software allows other researchers to reproduce your work and i
 
 [FIREBGCv2](https://www.firelab.org/project/firebgcv2-landscape-fire-model) - modeling program and platform that mechanistically simulates fire, vegetation, climate, and fuels dynamics across multiple space and time scales.
 
-[LANDIS-II](https://www.landis-ii.org/)
+[LANDIS-II](https://www.landis-ii.org/) - landscape model simulates forests (both trees and shrubs) at decadal to multi-century time scales and spatial scales spanning hundreds to millions of hectares.
 
-[PEcAn](https://pecanproject.github.io/)
+[Predictive Ecosystem Analyzer (PEcAn)](https://pecanproject.github.io/) - is an integrated informatics toolbox for ecosystem modeling.
 
 ### :material-layers-triple-outline: GIS
 
