@@ -50,8 +50,6 @@ Explore these resources for gaining essential data science skills
 
 [CU Boulder EarthLab](https://www.earthdatascience.org/) - Earth science data science skills
 
-[geemap](https://geemap.org/) - Google Earth Engine Maps with over 360 free notebooks
-
 [JoVE](https://www.jove.com/) - videos of science protocols (e.g. [fire history](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from)) 
 
 [Protocols.io](https://www.protocols.io/) - Methods for doing science

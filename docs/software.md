@@ -101,6 +101,10 @@ Using open source software allows other researchers to reproduce your work and i
 
 ### :material-earth-box: Ecosystem models
 
+[Climate Toolbox](https://climatetoolbox.org/wildfire) - collection of web tools for visualizing past and projected climate and hydrology of the contiguous United States.
+
+[FIREBGCv2](https://www.firelab.org/project/firebgcv2-landscape-fire-model) - modeling program and platform that mechanistically simulates fire, vegetation, climate, and fuels dynamics across multiple space and time scales.
+
 [LANDIS-II](https://www.landis-ii.org/)
 
 [PEcAn](https://pecanproject.github.io/)
@@ -111,7 +115,9 @@ The Open Source Geospatial Software Foundation ([OSGEO](https://www.osgeo.org/){
 
 [:material-cloud-tags: CloudCompare](https://www.danielgm.net/cc/){target=_blank} - 3D point cloud and mesh processing software
 Open Source Project
-       
+
+[FUSION](http://forsys.sefs.uw.edu/fusion/fusionlatest.html){target=_blank} - providing fast, efficient, and flexible access to LIDAR, IFSAR, and terrain datasets
+
 [:material-grid: GDAL](https://gdal.org/){target=_blank} - the geospatial data abstraction tool (GDAL) is the bedrock of open source GIS
 
 [:material-grass: GRASS-GIS](https://grass.osgeo.org/){target=_blank} - US Army Corps of Engineers GIS with numerous topographic and hyrdological algorithms
@@ -147,15 +153,15 @@ Open Source Project
  
 [PANGEO](https://pangeo.io/){target=_blank} - community platform for big data geoscience
 
-[:simple-googleearth: GEEMap](https://geemap.org/){target=_blank} - collection of python notebooks for running Google Earth Engine
+[:simple-googleearth: GEEMap](https://geemap.org/){target=_blank} - collection of ove 360 :simple-jupyter: notebooks for Google Earth Engine ([:simple-github: Qiusheng Wu](https://github.com/giswqs){target=_blank})
 
 [:simple-microsoft: Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples){target=_blank}
 
 #### :simple-github: Repositories, :simple-jupyter: Notebooks, and :octicons-mortar-board-24: Short Courses
 
-[:simple-github: Agent-based Modeling](https://github.com/hildobby/fire-suppression-abm){target=_blank} - Agent-based modeling 2D wildfire suppression simulator tool built on the `mesa` framework in Python
+[:simple-python: Agent-based Modeling](https://github.com/hildobby/fire-suppression-abm){target=_blank} - Agent-based modeling 2D wildfire suppression simulator tool built on the `mesa` framework in Python
 
-[:simple-github: Call for Code Spot Challenge for Wildfires](https://github.com/Call-for-Code/Spot-Challenge-Wildfires){target=_blank} - predict the wildfire/bushfire area for 7 regions in Australia for each day in February 2021
+[:simple-python: Call for Code Spot Challenge for Wildfires](https://github.com/Call-for-Code/Spot-Challenge-Wildfires){target=_blank} - predict the wildfire/bushfire area for 7 regions in Australia for each day in February 2021
 
 [:simple-python: Wildfire Modelling in Yosemite](https://towardsdatascience.com/wildfire-modeling-in-yosemite-national-park-666f45c9a0a0){target=_blank}, ([:simple-github: Abraham Coiman](https://github.com/acoiman/wildfire_modeling){target=_blank})
 
@@ -163,11 +169,11 @@ Open Source Project
 
 [:simple-python: Create interactive map of wildfire data using Folium in Python](https://towardsdatascience.com/creating-an-interactive-map-of-wildfire-data-using-folium-in-python-7d6373b6334a){target=_blank}
 
-[:simple-github: Wildfire Datascience (Andrew Mahon)](https://github.com/amahon/wildfire-datascience){target=_blank}
+[:simple-python: Wildfire Datascience (Andrew Mahon)](https://github.com/amahon/wildfire-datascience){target=_blank}
 
 [:octicons-mortar-board-24: Wildfire danger short course](https://zenodo.org/record/3859592){target=_blank} - First release, finalised for the 'Short Course on ECMWF and Copernicus data and service offering for monitoring and forecasting fire danger' (11-19 May 2020 EUMETSAT-ECMWF-Copernicus).
 
-[:simple-github: Wildfire Smoke Detection with AI](https://github.com/PaulinoMoskwa/Wildfire-Smoke-Detection)
+[:simple-python: Wildfire Smoke Detection with AI](https://github.com/PaulinoMoskwa/Wildfire-Smoke-Detection) - ([:simple-github: Paulino Moskwa](https://github.com/PaulinoMoskwa){target=_blank})
 
 ### :simple-r: R
 
