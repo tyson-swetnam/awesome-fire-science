@@ -207,7 +207,7 @@ Open Source Project
 
 ### Productivity
 
-[:simnple-anaconda: Anaconda (`conda`)](https://www.anaconda.com/){target=_blank} - is a package management and deployment system for scientific software (mainly Python)
+[:simple-anaconda: Anaconda (`conda`)](https://www.anaconda.com/){target=_blank} - is a package management and deployment system for scientific software (mainly Python)
 
 [:simple-condaforge: Conda Forge](https://conda-forge.com){target=_blank} - is the largest repository for packages in `conda`
 
