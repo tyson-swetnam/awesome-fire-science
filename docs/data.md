@@ -104,13 +104,15 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ## AI model training datasets
 
-[High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/)
+[High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/){target=_blank}
 
-* [HPWREN Fire Ignition image Library (FIgLib)](http://hpwren.ucsd.edu/HPWREN-FIgLib/) - sequences of wildland fire images as seen from fixed cameras at HPWREN sites
+* [HPWREN Fire Ignition image Library (FIgLib)](http://hpwren.ucsd.edu/HPWREN-FIgLib/){target=_blank} - sequences of wildland fire images as seen from fixed cameras at HPWREN sites
 
-* [FIgLib & SmokeyNet (Dewangan et al. 2022)](https://doi.org/10.3390/rs14041007)
+* [FIgLib & SmokeyNet (Dewangan et al. 2022)](https://doi.org/10.3390/rs14041007){target=_blank}
 
-[Wildfire smoke detections](https://public.roboflow.com/object-detection/wildfire-smoke)
+[Wildfire smoke detections](https://public.roboflow.com/object-detection/wildfire-smoke){target=_blank}
+
+[Radiant Earth ML Hub](https://mlhub.earth/){target=_blank} - cloud-based open library dedicated to Earth observation training data and models for use with machine learning algorithms.
 
 ## :material-weather-rainy: Hydrology
 
