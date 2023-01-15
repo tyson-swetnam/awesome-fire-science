@@ -163,6 +163,8 @@ Open Source Project
 
 [:simple-python: Call for Code Spot Challenge for Wildfires](https://github.com/Call-for-Code/Spot-Challenge-Wildfires){target=_blank} - predict the wildfire/bushfire area for 7 regions in Australia for each day in February 2021
 
+[:simple-python: FIRe Event Delineation for python (FIREDpy)](https://github.com/earthlab/firedpy) - Command Line Interface for classifying fire events from the Collection 6 MODIS Burned Area Product
+
 [:simple-python: Wildfire Modelling in Yosemite](https://towardsdatascience.com/wildfire-modeling-in-yosemite-national-park-666f45c9a0a0){target=_blank}, ([:simple-github: Abraham Coiman](https://github.com/acoiman/wildfire_modeling){target=_blank})
 
 [:simple-kaggle: Predict the causes of wildland fires using Python](https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python){target=_blank}
