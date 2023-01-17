@@ -64,7 +64,7 @@ Explore these resources for gaining essential data science skills
 
 [:octicons-mortar-board-24: CyVerse Learning](https://learning.cyverse.org){target=_blank} - Life science data science skills
 
-[:material-forest: DendroHub](https://www.dendrohub.com/){target=_blank} - online community for current & aspiring dendrochronologists from around the world 
+[:material-forest: The Dendro Hub](https://www.dendrohub.com/){target=_blank} - online community for current & aspiring dendrochronologists from around the world 
 
 [:material-earth: Earth Lab (CU Boulder)](https://www.earthdatascience.org/){target=_blank} - Earth science data science skills
 
