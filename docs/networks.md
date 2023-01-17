@@ -91,6 +91,10 @@
 
 ### :fontawesome-solid-earth-oceania: Oceania
 
+[Australian Capital Territory Emergency Services Agency](https://esa.act.gov.au/be-emergency-ready/bushfires){target=_blank}
+
+[Australian Disaster Resilience Knowledge Hub](https://knowledge.aidr.org.au/resources/bushfire/){target=_blank}
+
 [CSIRO Bushfire Research](https://www.csiro.au/en/research/natural-disasters/bushfires){target=_blank}
 
 [Geoscience Austrailia Bushfires](https://www.community-safety.ga.gov.au/hazards/bushfire){target=_blank}
