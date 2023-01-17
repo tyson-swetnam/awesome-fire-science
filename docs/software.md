@@ -42,6 +42,10 @@
 
 * [ELMFIRE (Eulerian Level Set Model of Fire Spread)](https://doi.org/10.1016/j.firesaf.2013.08.014){target=_blank}
 
+[Pyregence](https://pyregence.org/) - Funded by the California Energy Commission, provides fire forecasting tools.
+
+* [PyreCast](https://pyrecast.org/)
+
 [:material-fire: Wildfire Analyst](https://www.wildfireanalyst.com/){target=_blank}
 
 (:material-smoke: vaporware)[NVIDIA Omniverse FARSITE press-release 2021](https://blogs.nvidia.com/blog/2021/11/09/lockheed-martin-wildfires-ai/){target=_blank}
