@@ -101,6 +101,10 @@
 
 [National Aerial Firefighting Association](https://www.nafc.org.au/){target=_blank}
 
+[New South Wales Rural Fire Service](http://www.rfs.nsw.gov.au/plan-and-prepare){target=_blank}
+
+[New Zealand Fire Weather](https://fireweather.niwa.co.nz/){target=_blank}
+
 ### :fontawesome-solid-earth-asia: Asia
 
 [State Key Laboratory of Fire Science (China)](http://en.sklfs.ustc.edu.cn/main.psp){target=_blank}
