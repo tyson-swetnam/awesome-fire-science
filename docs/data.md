@@ -136,9 +136,9 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [LANDFIRE](https://landfire.gov/version_alerts.php){target=_blank} - geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
 
-[Microsoft Building Footprints](https://www.microsoft.com/en-us/maps/building-footprints){target=_blank}
+[Microsoft Building Footprints](https://www.microsoft.com/en-us/maps/building-footprints){target=_blank} - building footprints identified using ML/AI for the entire planet. 
 
-[Microsoft Road Detectiions](https://github.com/microsoft/RoadDetections){target=_blank}
+[Microsoft Road Detectiions](https://github.com/microsoft/RoadDetections){target=_blank} - ML/AI identified roads for the entire planet. 
 
 [OpenTopography](https://opentopography.org/){target=_blank} - NSF supported lidar and global elevation data 
 
