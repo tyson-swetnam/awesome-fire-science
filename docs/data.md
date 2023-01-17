@@ -54,13 +54,17 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:simple-nasa: NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z){target=_blank} - Fire Information for Resource Management System
 
-[:material-fire: NIFC Statistics](https://www.nifc.gov/fire-information/statistics){target=_blank}
+[National Infrared Operations](https://fsapps.nwcg.gov/nirops/){target=_blank} - USDA Forest Service National Infrared Operations (NIROPS) Unit collects infrared imagery over current wildfire incidents
 
-[:material-fire: NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank}
+[National Interagency Coordination Center (NICC)](https://www.nifc.gov/nicc/){target=_blank} - is the focal point for coordinating the mobilization of resources for wildland fire and other incidents throughout the United States.
+
+[:material-fire: NIFC Statistics](https://www.nifc.gov/fire-information/statistics){target=_blank} - statistics of current and past wildfire seasons
+
+[:material-fire: NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank} - Federal interagency wildland fire maps and data for all
 
 [PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
 
-[International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history)
+* [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires. 
 
 [USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6){target=_blank} - Spatial wildfire occurrence data for the United States, 1992-2020
 
@@ -74,7 +78,7 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:fontawesome-solid-tower-cell: Ameriflux](https://ameriflux.lbl.gov/){target=_blank} - eddy covariance data
 
-[Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/){target=_blank}
+[Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/){target=_blank} - national interagency incident management coordination pages by region: 
 
 * [Alaska (AICC)](https://fire.ak.blm.gov/){target=_blank}
 
@@ -98,7 +102,13 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [Earth Null School](https://earth.nullschool.net/){target=_blank} - dynamic vizualizations of Earth model and weather data
 
+[USGS Fire Danger Forecast](https://www.usgs.gov/fire-danger-forecast){target=_blank} 
+
+* [GACC Forecast Graphs](https://firedanger.cr.usgs.gov/apps/gacc)
+
 [National Weather Service](https://www.weather.gov/fire/){target=_blank} 
+
+[National Fire Danger Rating System](https://www.nwcg.gov/publications/pms437/fire-danger/nfdrs-system-inputs-outputs){target=_blank} 
 
 [RAMMB](https://rammb2.cira.colostate.edu/){target=_blank} - Regional and Mesoscale Meteorology Branch (RAMMB) GOES-16/17 image animations. 
 
