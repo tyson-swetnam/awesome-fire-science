@@ -46,6 +46,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:fontawesome-brands-canadian-maple-leaf: Canadian National Fire Database](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb){target=_blank}
 
+[Digital Earth Australian Hotspots](https://hotspots.dea.ga.gov.au/#/){target=_blank}
+
 [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires){target=_blank} - Access wildfire data, live feeds, technology, and resources
 
 [Global Fire Emissions Database](https://www.globalfiredata.org/index.html){target=_blank}
