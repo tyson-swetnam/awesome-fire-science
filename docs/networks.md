@@ -58,21 +58,21 @@
 
 ### :fontawesome-solid-earth-americas: North America
 
-[:fontawesome-solid-flag-usa: US Bureau of Indian Affairs Division of Wildland Fire Management](https://www.bia.gov/bia/ots/dwfm){target=_blank}
+[US Bureau of Indian Affairs Division of Wildland Fire Management](https://www.bia.gov/bia/ots/dwfm){target=_blank}
 
-[:fontawesome-solid-flag-usa: US Bureau of Land Management Fire Program](https://www.blm.gov/programs/fire){target=_blank}
+[US Bureau of Land Management Fire Program](https://www.blm.gov/programs/fire){target=_blank}
 
-[:fontawesome-solid-flag-usa: US National Association of State Foresters](https://www.stateforesters.org/){target=_blank}
+[US National Association of State Foresters](https://www.stateforesters.org/){target=_blank}
 
-[:fontawesome-solid-flag-usa: US National Park Service](https://www.nps.gov/subjects/fire/index.htm){target=_blank}
+[US National Park Service](https://www.nps.gov/subjects/fire/index.htm){target=_blank}
 
-[:fontawesome-solid-flag-usa: US Fish & Wildlife Service Fire Management](https://www.fws.gov/program/fire-management){target=_blank}
+[US Fish & Wildlife Service Fire Management](https://www.fws.gov/program/fire-management){target=_blank}
 
-[:fontawesome-solid-flag-usa: US Forest Service](https://www.fs.usda.gov/managing-land/fire){target=_blank}
+[US Forest Service](https://www.fs.usda.gov/managing-land/fire){target=_blank}
 
-* [:fontawesome-solid-flag-usa: USDA Forest Service Research](https://www.fs.usda.gov/research/){target=_blank}
+* [USDA Forest Service Research](https://www.fs.usda.gov/research/){target=_blank}
 
-[:flag_mx: La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor){target=_blank}
+[La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor){target=_blank}
 
 [:fontawesome-brands-canadian-maple-leaf: Natural Resources Canada](https://www.nrcan.gc.ca/home){target=_blank}
 
@@ -80,13 +80,13 @@
 
 [National Fire Protection Association](https://www.nfpa.org/)
 
-[:fontawesome-solid-flag-usa: US Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
+[US Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
 
-[:fontawesome-solid-flag-usa: US National Interagency Fire Center](https://www.nifc.gov/){target=_blank}
+[US National Interagency Fire Center](https://www.nifc.gov/){target=_blank}
 
-[:fontawesome-solid-flag-usa: USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science){target=_blank}
+[USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science){target=_blank}
 
-[Tall Timbers](https://talltimbers.org/){target=_blank}
+[:material-forest: Tall Timbers](https://talltimbers.org/){target=_blank}
 
 ### :fontawesome-solid-earth-americas: South America
 
