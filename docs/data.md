@@ -162,9 +162,13 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [National Centers for Environmental Information (NCEI) Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - NCEI offers search and download of Paleoclimatic proxy data and Paleoclimate Reconstructions from the NOAA/World Data Service for Paleoclimatology archives.
 
+[Tall Timbers](https://talltimbers.org/information-resources/){target=_blank} - 
+
 ## :material-satellite-variant: Earth Observation Systems
 
 [Drought View (University of Arizona)](https://droughtview.arizona.edu/){target=_blank} - satellite based drought monitoring assessment tool, uses NASA VIIRS & MODIS
+
+[EarthMap](https://earthmap.org/){target=_blank} - user friendly tool for complex land monitoring powered by Google Earth Engine
 
 [:simple-nasa: LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time){target=_blank} - Land, Atmosphere Near real-time Capability for EOS (LANCE)
 
