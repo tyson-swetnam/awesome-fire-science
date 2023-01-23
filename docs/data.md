@@ -162,6 +162,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ## :material-satellite-variant: Earth Observation Systems
 
+[Drought View (University of Arizona)](https://droughtview.arizona.edu/){target=_blank} - satellite based drought monitoring assessment tool, uses NASA VIIRS & MODIS
+
 [:simple-nasa: LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time){target=_blank} - Land, Atmosphere Near real-time Capability for EOS (LANCE)
 
 [:simple-nasa: NASA General Data Catalog](https://data.nasa.gov/){target=_blank} 
