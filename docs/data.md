@@ -114,6 +114,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [RAMMB](https://rammb2.cira.colostate.edu/){target=_blank} - Regional and Mesoscale Meteorology Branch (RAMMB) GOES-16/17 image animations. 
 
+[Cyberinfrastructure for AI at the Edge (SAGE)](https://sagecontinuum.org/){target=_blank} - design and build a new kind of national-scale reusable cyberinfrastructure to enable AI at the edge
+
 ## AI model training datasets
 
 [High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/){target=_blank}
