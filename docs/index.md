@@ -2,6 +2,10 @@
 
 ### Welcome to my :simple-awesomelists: Awesome Wildland Fire Science :material-pine-tree-fire: pages!
 
+#### presentations
+
+[:material-google-drive: Google Slides for January 2023 M-580 Fire in Ecosystem Management Class](https://docs.google.com/presentation/d/1FHrRgW43NVSMsu3g95fE7ojGuPRh_t8d2uuIkDqi5So/edit?usp=sharing){target=_blank} 
+
 ## Contents
 
 [:octicons-database-24: Data](data.md)
