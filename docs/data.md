@@ -66,6 +66,10 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:material-fire: NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank} - Federal interagency wildland fire maps and data for all
 
+[:material-fire: NPS Wildland Fire Risk Assessments](https://wildfire-risk-assessments-nifc.hub.arcgis.com/)
+
+[:material-fire: NPS Wildland Fire Applications](https://wildfireapps-nifc.hub.arcgis.com/) 
+
 [PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
 
 * [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires. 
