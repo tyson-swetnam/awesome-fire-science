@@ -73,3 +73,11 @@ Explore these resources for gaining essential data science skills
 [:fontawesome-solid-syringe: Protocols.io](https://www.protocols.io/){target=_blank} - Methods for doing science
 
 [WholeTale](https://wholetale.org/){target=_blank} - create and publish your own transparent and reproducible research
+
+## Traditional Ecological Knowledge (TEK)
+
+[:material-leaf: US NPS Overview of TEK](https://www.nps.gov/subjects/tek/description.htm){target=_blank} - 
+
+[:material-leaf: Yale Environment 360 - Overview](https://e360.yale.edu/features/native-knowledge-what-ecologists-are-learning-from-indigenous-people){target=_blank} - 
+
+[Global Indigenous Data Alliance](https://www.gida-global.org/care){target=_blank}
