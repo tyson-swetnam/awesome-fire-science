@@ -28,6 +28,8 @@
 
 [ArcGIS Online Wildland Fire Applications](https://www.esri.com/en-us/industries/wildland-fire/community){target=_blank}
 
+[:material-fire: NIFC ArcGIS Online](https://nifc.maps.arcgis.com/home/index.html){target=_blank}
+
 [:simple-googlemaps: Google Maps Platform](https://mapsplatform.google.com/){target=_blank} - Leverage Google's Web Mapping APIs for web-based applications
 
 [:simple-mapbox: MapBox](https://www.mapbox.com/){target=_blank} - Popular Web map and location API
