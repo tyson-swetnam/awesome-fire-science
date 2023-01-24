@@ -18,6 +18,8 @@
       
       ESRI products are widely used in [wildland fire incident management](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} (in the US).
 
+      [Strategic Risk Assessment (SRA) and Strategic Operations Story Maps](https://storymaps.arcgis.com/stories/7e0b757bc6a4480cad008218d6448212){target=_blank} 
+      
       [Risk Management Assistance Dashboard](https://www.arcgis.com/apps/MapSeries/index.html?appid=c5bc811ee22e4da0bde8abec7c20b8b4){target=_blank} 
       
       [WFDSS NIFC ArcGIS](https://nifc.maps.arcgis.com/home/item.html?id=8e2b29eb0ae04e73801b08314b395b94){target=_blank} 
