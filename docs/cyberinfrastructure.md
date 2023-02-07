@@ -66,6 +66,8 @@ Existing investments in research cyberinfrastructure are available for free to a
 
 [OSF.io](https://osf.io/){target=_blank} - is a free, open source web application that connects and supports the research workflow, enabling scientists to increase the efficiency and effectiveness of their research.
 
+[WIFIRE](https://wifire.ucsd.edu/){target=_blank} - cyberinfrastructure tools running at UC San Diego Supercomputer Center, register for account.
+
 # Broadband
 
 Initiatives around improving rural broadband in the USA will bring the internet increasingly into the wildland fire space. The [Broadband Equity, Access, and Deployment (BEAD) Program](https://www.internetforall.gov/program/broadband-equity-access-and-deployment-bead-program){target=_blank} provides $42.45 Billion to expand high-speed Internet access by funding planning, infrastructure deployment and adoption programs in all 50 states, Washington D.C., Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
