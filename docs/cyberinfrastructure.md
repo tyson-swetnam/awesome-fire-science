@@ -74,4 +74,8 @@ Initiatives around improving rural broadband in the USA will bring the internet 
 
 [:simple-atandt: FirstNet](https://www.firstnet.com/){target=_blank} - nationwide network dedicated to public safety is ready to help law enforcement, fire service, and EMS do their jobs safely and effectively.
 
-[:simple-spacex: StarLink RV](https://www.starlink.com/rv){target=_blank} - the world's first and largest satellite constellation using a low Earth orbit to deliver broadband internet capable of supporting streaming, online gaming, video calls and more.
+# Satellite
+
+[:simple-spacex: StarLink](https://www.starlink.com/rv){target=_blank} - the world's first and largest low Earth orbit satellite constellation to deliver internet.
+
+[:simple-aws: AWS Kuiper](https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper){target=_blank} - Amazon Web Services (AWS) are launching their own low Earth orbit internet satellite constellation. 
