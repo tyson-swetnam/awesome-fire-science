@@ -78,4 +78,4 @@ Initiatives around improving rural broadband in the USA will bring the internet 
 
 [:simple-spacex: StarLink](https://www.starlink.com/rv){target=_blank} - the world's first and largest low Earth orbit satellite constellation to deliver internet.
 
-[:simple-aws: AWS Kuiper](https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper){target=_blank} - Amazon Web Services (AWS) are launching their own low Earth orbit internet satellite constellation. 
+[:material-aws: AWS Kuiper](https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper){target=_blank} - Amazon Web Services (AWS) are launching their own low Earth orbit internet satellite constellation. 
