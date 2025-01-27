@@ -4,7 +4,7 @@ flake8
 grip
 ipykernel
 livereload
-nbconvert==6.5
+nbconvert>=7
 pip
 sphinx
 tox
@@ -31,3 +31,4 @@ pymdown-extensions>=9.4
 
 # Requirements for plugins
 requests>=2.26
+cairosvg
