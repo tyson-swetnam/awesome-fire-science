@@ -25,6 +25,8 @@
       [Potential wildland fire operational delineations (PODs)](https://www.arcgis.com/apps/Cascade/index.html?appid=073b66277b6540328f40b772dfab7c6f){target=_blank} 
       
       [WFDSS NIFC ArcGIS](https://nifc.maps.arcgis.com/home/item.html?id=8e2b29eb0ae04e73801b08314b395b94){target=_blank} 
+
+      [Incident Strategic Alignment Process (ISAP)](https://experience.arcgis.com/experience/f9d7f7f920494c3db43a23a8dffe4664){target=_blank} 
       
       [Story Map example from 2020 Fire Affected Road System Risk Reduction Project](https://storymaps.arcgis.com/stories/841b9854be5346638c3c34291913fe31){target=_blank} 
 
