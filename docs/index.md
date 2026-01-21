@@ -4,7 +4,7 @@
 
 #### presentations
 
-[:material-google-drive: Google Slides for January 2025 M-580 Fire in Ecosystem Management Class](https://docs.google.com/presentation/d/16KM_HnJASaQ6rrJD-UOUD7neZwGeKH_L9ci9gWfTEFU/edit?usp=sharing){target=_blank} 
+[:material-google-drive: Google Slides for January 2026 M-580 Fire in Ecosystem Management Class](https://docs.google.com/presentation/d/17IUhqQuNoPYapIMQYkqQcbGFmcWnIQp-D245H2Pz8k8/edit?usp=sharing){target=_blank} 
 
 ## Contents
 

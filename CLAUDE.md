@@ -4,23 +4,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is an "Awesome List" style repository for wildland fire science resources, published as a documentation website using MkDocs Material. The repository organizes curated links to data sources, software tools, computing resources, training materials, and professional networks related to wildland fire research and management.
+This is an "Awesome List" style repository for wildland fire science resources, published as a documentation website using Zensical (a modern static site generator by the Material for MkDocs team). The repository organizes curated links to data sources, software tools, computing resources, training materials, and professional networks related to wildland fire research and management.
 
 ## Project Structure
 
 ```
 awesome-fire-science/
-├── docs/               # MkDocs documentation source files
+├── docs/               # Zensical documentation source files
 │   ├── index.md        # Home page
 │   ├── data.md         # Data sources and journals
 │   ├── software.md     # Licensed and open-source software tools
 │   ├── cyberinfrastructure.md  # Computing platforms and resources
 │   ├── training.md     # Educational resources
 │   ├── networks.md     # Professional networks and communities
-│   ├── overrides/      # MkDocs Material theme customizations
+│   ├── overrides/      # Theme customizations
 │   └── stylesheets/    # Custom CSS
-├── mkdocs.yml          # Main MkDocs configuration
-├── mkdocs.insiders.yaml # MkDocs Material Insiders config (inherits from mkdocs.yml)
+├── mkdocs.yml          # Main Zensical configuration (uses MkDocs-compatible format)
+├── mkdocs.insiders.yaml # Extended config (inherits from mkdocs.yml)
 └── requirements.txt    # Python dependencies
 ```
 
@@ -42,17 +42,18 @@ mkdocs build
 ### Deployment
 
 Documentation is automatically deployed to GitHub Pages via `.github/workflows/publish-docs.yml` when changes are pushed to the `main` branch. The workflow:
-1. Installs dependencies from `requirements.txt`
-2. Installs MkDocs Material Insiders (requires `GH_TOKEN` secret)
-3. Runs `mkdocs gh-deploy --force` to publish to gh-pages branch
+1. Installs dependencies from `requirements.txt` (including Zensical)
+2. Runs `mkdocs gh-deploy --force` to publish to gh-pages branch
+
+Note: Zensical is compatible with existing MkDocs workflows and commands.
 
 ## Content Architecture
 
-### MkDocs Configuration
+### Zensical Configuration
 
-- **Main config**: `mkdocs.yml` - Defines site structure, theme, plugins, and markdown extensions
-- **Insiders config**: `mkdocs.insiders.yaml` - Inherits from main config, adds social card generation and tag plugins
-- **Theme**: Material for MkDocs with custom color palette (YouTube scheme for light mode, Slate for dark mode)
+- **Main config**: `mkdocs.yml` - Defines site structure, theme, plugins, and markdown extensions (Zensical uses MkDocs-compatible configuration format)
+- **Extended config**: `mkdocs.insiders.yaml` - Inherits from main config, adds social card generation and tag plugins
+- **Theme**: Zensical with custom color palette (YouTube scheme for light mode, Slate for dark mode). Zensical is built by the Material for MkDocs team and supports both classic (Material-like) and modern theme variants.
 
 ### Markdown Extensions
 
@@ -107,7 +108,8 @@ The site navigation is defined in `mkdocs.yml` under the `nav:` key. To add new 
 - Jupyter notebooks can be included directly in documentation with `mkdocs-jupyter`
 - Social media links and author info are configured in `mkdocs.yml` under `extra:`
 - Custom CSS is in `docs/stylesheets/extra.css`
-- MkDocs Material Insiders features require authenticated access via `GH_TOKEN` secret
+- Zensical is compatible with existing MkDocs Material configurations and maintains the same HTML structure
+- Built with Rust and Python for improved performance
 
 ## Repository Context
 
