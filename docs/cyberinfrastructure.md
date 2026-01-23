@@ -8,7 +8,7 @@
 
     The "Cloud" is now the dominant paradigm for working with computational big data. The cyberinfrastructure term also includes specialized high throughput and high performance computing (HTC/HPC) resources which are commonly found at large government labs and research universities. 
 
-### Development Environments
+### Development Environments (Sandboxes)
 
 ??? Tip "What is a Dev Environment?"
     
@@ -24,11 +24,11 @@
 
 ### Commercial Clouds 
 
-[:simple-microsoftazure: Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research){target=_blank} - free credits for research on Microsoft Azure
+[:material-microsoft-azure: Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research){target=_blank} - free credits for research on Microsoft Azure
 
-[:simple-googlecloud: Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none){target=_blank} - free credits for research on Google Cloud
+[:material-google-cloud: Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none){target=_blank} - free credits for research on Google Cloud
 
-[:simple-amazonaws: AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank} - free credits for research on Amazon Web Services
+[:material-aws: AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank} - free credits for research on Amazon Web Services
 
 ### :material-layers-triple-outline: CyberGIS
 
@@ -40,9 +40,13 @@ All major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available
 
 [:simple-googleearth: Google Earth Engine](https://earthengine.google.com/){target=_blank} is the most widel used cyberGIS for analysing EOS data. 
 
-#### :simple-microsoft: Microsoft Planetary Computer
+#### :material-microsoft: Microsoft Planetary Computer
 
-Microsoft has just launched a sort-of-competitor to GEE called [Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}. Planetary Computer runs on Microsoft Azure using a JupyterHub with PANGEO software.  
+Microsoft has just launched a sort-of-competitor to GEE called [Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}. Planetary Computer runs on Microsoft Azure using a JupyterHub with PANGEO software.
+
+#### :material-earth: Earthmover
+
+[:material-earth: Earthmover](https://earthmover.io/){target=_blank} is a cloud-native platform purpose-built for tensor data, geospatial data cubes, and scientific AI. Designed for climate and weather analytics with scalable, high-performance data infrastructure optimized for large multidimensional datasets.
 
 ### Public Clouds
 
@@ -68,13 +72,13 @@ Existing investments in research cyberinfrastructure are available for free to a
 
 [WIFIRE](https://wifire.ucsd.edu/){target=_blank} - cyberinfrastructure tools running at UC San Diego Supercomputer Center, register for account.
 
-# Broadband
+# Broadband Internet
 
 Initiatives around improving rural broadband in the USA will bring the internet increasingly into the wildland fire space. The [Broadband Equity, Access, and Deployment (BEAD) Program](https://www.internetforall.gov/program/broadband-equity-access-and-deployment-bead-program){target=_blank} provides $42.45 Billion to expand high-speed Internet access by funding planning, infrastructure deployment and adoption programs in all 50 states, Washington D.C., Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 [:simple-atandt: FirstNet](https://www.firstnet.com/){target=_blank} - nationwide network dedicated to public safety is ready to help law enforcement, fire service, and EMS do their jobs safely and effectively.
 
-# Satellite
+# Satellite Internet
 
 [:simple-spacex: StarLink](https://www.starlink.com/rv){target=_blank} - the world's first and largest low Earth orbit satellite constellation to deliver internet.
 

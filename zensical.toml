@@ -1,0 +1,171 @@
+# Zensical Configuration
+# https://zensical.org/docs/
+
+[project]
+site_name = "Awesome-Fire-Science"
+site_description = "Awesome List of Fire Science Tools"
+site_author = "Tyson L Swetnam"
+site_url = "https://tysonswetnam.com/awesome-fire-science"
+copyright = "Copyright &copy; 2026 Tyson Lee Swetnam"
+
+# Repository
+repo_name = "awesome-fire-science"
+repo_url = "https://github.com/tyson-swetnam/awesome-fire-science"
+edit_uri = "edit/main/docs/"
+
+# Directory configuration
+docs_dir = "docs"
+site_dir = "site"
+
+# Additional CSS
+extra_css = ["stylesheets/extra.css"]
+
+# Navigation
+nav = [
+  {"Home" = "index.md"},
+  {"Data" = "data.md"},
+  {"Software" = "software.md"},
+  {"Computing" = "cyberinfrastructure.md"},
+  {"Training" = "training.md"},
+  {"Networks" = "networks.md"}
+]
+
+# Theme Configuration
+[project.theme]
+# Use classic variant for Material for MkDocs compatibility
+variant = "classic"
+language = "en"
+favicon = "material/pine-tree-fire"
+custom_dir = "docs/overrides"
+features = [
+  "navigation.instant",
+  "navigation.tabs",
+  "navigation.sections",
+  "navigation.expand",
+  "navigation.path",
+  "navigation.indexes"
+]
+
+# Logo configuration
+[project.theme.icon]
+logo = "material/sunglasses"
+
+[project.theme.icon.admonition]
+note = "material/map-marker-radius-outline"
+
+# Font configuration - USFS Brand Standards
+[project.theme.font]
+text = "Public Sans"
+code = "Roboto Mono"
+
+# Color palette with toggle support - USFS Theme
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+scheme = "default"
+toggle = {icon = "material/brightness-auto", name = "Switch to light mode"}
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "green"
+accent = "blue"
+toggle = {icon = "material/brightness-7", name = "Switch to dark mode"}
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "green"
+accent = "blue"
+toggle = {icon = "material/brightness-4", name = "Switch to system preference"}
+
+# Extra configuration
+[project.extra]
+
+[project.extra.analytics]
+provider = "google"
+property = "G-NYETZFD8DN"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/orcid"
+link = "https://orcid.org/0000-0002-6639-7181"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/tyson-swetnam/"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/twitter"
+link = "https://twitter.com/tswetnam"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/tyson-swetnam"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/docker"
+link = "https://hub.docker.com/u/tswetnam"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://www.youtube.com/channel/UC5xPt9KZHccC0ehMNEkINzQ"
+
+# Markdown Extensions - Core
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.meta]
+[project.markdown_extensions.md_in_html]
+
+[project.markdown_extensions.toc]
+permalink = true
+
+# PyMdown Extensions
+[project.markdown_extensions.pymdownx.arithmatex]
+generic = true
+
+[project.markdown_extensions.pymdownx.betterem]
+smart_enable = "all"
+
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.critic]
+[project.markdown_extensions.pymdownx.details]
+
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
+
+[project.markdown_extensions.pymdownx.highlight]
+[project.markdown_extensions.pymdownx.inlinehilite]
+[project.markdown_extensions.pymdownx.keys]
+
+[project.markdown_extensions.pymdownx.magiclink]
+repo_url_shorthand = true
+user = "squidfunk"
+repo = "mkdocs-material"
+
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.smartsymbols]
+
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+]
+
+[project.markdown_extensions.pymdownx.tabbed]
+
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
+
+[project.markdown_extensions.pymdownx.tilde]
+
+# Plugins
+[project.plugins.search]
+[project.plugins.git-revision-date]
+
+[project.plugins.mkdocs-jupyter]
+include_source = true
+ignore_h1_titles = true
+
+[project.plugins.mkdocstrings]

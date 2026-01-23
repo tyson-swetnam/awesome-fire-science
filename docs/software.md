@@ -60,7 +60,7 @@
 
 [:material-fire: Wildfire Analyst](https://www.wildfireanalyst.com/){target=_blank}
 
-(:material-smoke: vaporware)[NVIDIA Omniverse FARSITE press-release 2021](https://blogs.nvidia.com/blog/2021/11/09/lockheed-martin-wildfires-ai/){target=_blank}
+(:material-smoke: vaporware)[NVIDIA Omniverse FARSITE - Lockheed Martin GTC 2024 Presentation](https://www.nvidia.com/en-us/on-demand/session/gtc24-s63091/){target=_blank}
 
 #### Structure from Motion Photogrammetry 
 
@@ -76,12 +76,12 @@
 
 ### Productivity and Integrated Development Environments
 
-[:simple-github: GitHub](https://github.com){target=_blank} - the most widely used version control platform based on `git` 
+??? Tip "Looking for AI assistants?"
+    AI tools like ChatGPT, Claude, GitHub Copilot, and productivity AI have moved to the [:material-robot: AI Tools](ai-tools.md) page.
+
+[:simple-github: GitHub](https://github.com){target=_blank} - the most widely used version control platform based on `git`
 
 * [:octicons-codespaces-24: CodeSpaces](https://github.com/features/codespaces){target=_blank} - Cloud-based virtual machines that work with GitHub Repositories
-* [:octicons-copilot-24: CoPilot](https://github.com/features/copilot) - AI assisted code 
-
-[:simple-openai: ChatGPT](https://openai.com/blog/chatgpt/){target=_blank} - AI assisted code writing
 
 ## :simple-opensourceinitiative: Free and Open Source Software
 
@@ -171,7 +171,7 @@ Open Source Project
 
 [:simple-googleearth: GEEMap](https://geemap.org/){target=_blank} - collection of ove 360 :simple-jupyter: notebooks for Google Earth Engine ([:simple-github: Qiusheng Wu](https://github.com/giswqs){target=_blank})
 
-[:simple-microsoft: Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples){target=_blank}
+[:material-microsoft: Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples){target=_blank}
 
 #### :simple-github: Repositories, :simple-jupyter: Notebooks, and :octicons-mortar-board-24: Short Courses
 

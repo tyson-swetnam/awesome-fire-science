@@ -35,8 +35,11 @@
 [Global Fire Monitoring Center (UN)](https://gfmc.online/){target=_blank}
 
 * [Community Based Fire Management](https://gfmc.online/manag/cbifm.html){target=_blank}
+* [Global Fire Monitoring Center - Global Networks](https://gfmc.online/GlobalNetworks/globalNet.html){target=_blank}
 
 [Global Drought Observatory](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001){target=_blank}
+
+[Global Wildland Fire Network - Regional Networks](https://rfmrc-sea.org/global-wildland-fire-network/regional-wildland-fire-networks/){target=_blank}
 
 [International Paleofire Network](https://ipn.paleofire.org/){target=_blank}
 
@@ -90,6 +93,10 @@
 
 ### :fontawesome-solid-earth-americas: South America
 
+[Amazon Basin Countries Unite to Stop Forest Fires](https://www.fiap.gob.es/en/noticias/9-countries-of-the-amazon-basin-and-latin-america-and-the-caribbean-unite-to-stop-forest-fires/){target=_blank}
+
+[Global Wildfire Network - South America Regional Network (PDF)](https://www.gov.br/ibama/pt-br/hotsites/wildfire2019/pos-conferencia/arquivos/posteres/04_-_iwfc-7-gwfn-regional-poster-south-america.pdf){target=_blank}
+
 
 ### :fontawesome-solid-earth-oceania: Oceania
 
@@ -109,6 +116,13 @@
 
 ### :fontawesome-solid-earth-asia: Asia
 
+[Federal Agency for Forestry (Russia)](http://rosleshoz.gov.ru/){target=_blank}
+
 [State Key Laboratory of Fire Science (China)](http://en.sklfs.ustc.edu.cn/main.psp){target=_blank}
 
-[Federal Agency for Forestry (Russia)](http://rosleshoz.gov.ru/){target=_blank}
+#### Southeast Asia
+
+[Regional Fire Management Resource Center for Southeast Asia (RFMRC-SEA)](https://rfmrc-sea.org/){target=_blank}
+
+* [ASEAN Specialised Meteorological Centre (ASMC)](https://asmc.asean.org/){target=_blank}
+* [ASEAN Transboundary Haze Pollution Control](https://haze.asean.org/){target=_blank}

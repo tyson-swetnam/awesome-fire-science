@@ -166,9 +166,10 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [:rat: NeotomaDB](https://www.neotomadb.org/data){target=_blank} - *Neotoma* paleo ecology database
 
-[National Centers for Environmental Information (NCEI) Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - NCEI offers search and download of Paleoclimatic proxy data and Paleoclimate Reconstructions from the NOAA/World Data Service for Paleoclimatology archives.
+[:coral: National Centers for Environmental Information (NCEI) Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - NCEI offers search and download of Paleoclimatic proxy data and Paleoclimate Reconstructions from the NOAA/World Data Service for Paleoclimatology archives.
 
-[Tall Timbers](https://talltimbers.org/information-resources/){target=_blank} - 
+[:material-pine-tree: Tall Timbers](https://talltimbers.org/information-resources/){target=_blank} - a widely regarded information resource for the areas of fire ecology, prescribed fire science, game bird management, vertebrate ecology and forestry.
+
 
 ## :material-satellite-variant: Earth Observation Systems
 
@@ -186,14 +187,28 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [SERVIR Global](https://servirglobal.net){target=_blank}
 
-[:simple-awesomelists: :simple-googleearth: Google Earth Engine Applications](https://github.com/giswqs/Awesome-GEE){target=_blank}
+[:material-microsoft: Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog){target=_blank}
 
-[:simple-awesomelists: :simple-googleearth: Google Earth Engine Community Datasets](https://samapriya.github.io/awesome-gee-community-datasets){target=_blank} 
+## :simple-googleearth: Google Earth Engine
 
-* [Landfire Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/){target=_blank}
+[Google Earth Engine (GEE)](https://earthengine.google.com/){target=_blank} is a cloud-based geospatial analysis platform that combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. GEE provides access to decades of historical Earth observation data and enables researchers to detect changes, map trends, and quantify differences on the Earth's surface without requiring local computational infrastructure.
 
-* [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/){target=_blank}
+### Applications
 
-* [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/){target=_blank}
+The GEE community has developed hundreds of applications leveraging the platform's capabilities for wildland fire science, including fire detection algorithms, burn severity mapping tools, fuel moisture monitoring systems, and post-fire recovery assessments. These applications provide ready-to-use interfaces for analyzing fire-related phenomena across spatial and temporal scales.
 
-[:simple-microsoft: Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog){target=_blank}
+[:simple-awesomelists: Awesome GEE Applications](https://github.com/giswqs/Awesome-GEE){target=_blank} - curated list of Google Earth Engine applications, including fire monitoring tools, vegetation indices, and remote sensing workflows
+
+### Community Data Catalog
+
+The GEE Community Data Catalog extends the official Earth Engine data catalog by providing community-contributed datasets that are preprocessed, formatted, and ready for analysis within the GEE platform. For fire science, this includes specialized products not available in the standard catalog, such as high-resolution fuel maps, regional fire perimeters, and experimental fire danger indices.
+
+[:simple-awesomelists: Awesome GEE Community Datasets](https://samapriya.github.io/awesome-gee-community-datasets){target=_blank} - community-maintained catalog with 500+ datasets
+
+Fire-relevant datasets in the Community Catalog:
+
+* [LANDFIRE Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/){target=_blank} - comprehensive vegetation, fuel, and fire regime datasets for the United States
+
+* [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/){target=_blank} - weekly drought condition assessments affecting fire danger
+
+* [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/){target=_blank} - individual fire perimeters with size, duration, and daily spread characteristics
