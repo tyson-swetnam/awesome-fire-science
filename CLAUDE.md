@@ -19,8 +19,7 @@ awesome-fire-science/
 │   ├── networks.md     # Professional networks and communities
 │   ├── overrides/      # Theme customizations
 │   └── stylesheets/    # Custom CSS
-├── mkdocs.yml          # Main Zensical configuration (uses MkDocs-compatible format)
-├── mkdocs.insiders.yaml # Extended config (inherits from mkdocs.yml)
+├── zensical.toml       # Main Zensical configuration (native TOML format)
 └── requirements.txt    # Python dependencies
 ```
 
@@ -33,27 +32,24 @@ awesome-fire-science/
 pip install -r requirements.txt
 
 # Serve documentation locally with live reload
-mkdocs serve
+zensical serve
 
 # Build static site (outputs to site/ directory)
-mkdocs build
+zensical build
 ```
 
 ### Deployment
 
 Documentation is automatically deployed to GitHub Pages via `.github/workflows/publish-docs.yml` when changes are pushed to the `main` branch. The workflow:
 1. Installs dependencies from `requirements.txt` (including Zensical)
-2. Runs `mkdocs gh-deploy --force` to publish to gh-pages branch
-
-Note: Zensical is compatible with existing MkDocs workflows and commands.
+2. Runs `zensical gh-deploy --force` to publish to gh-pages branch
 
 ## Content Architecture
 
 ### Zensical Configuration
 
-- **Main config**: `mkdocs.yml` - Defines site structure, theme, plugins, and markdown extensions (Zensical uses MkDocs-compatible configuration format)
-- **Extended config**: `mkdocs.insiders.yaml` - Inherits from main config, adds social card generation and tag plugins
-- **Theme**: Zensical with custom color palette (YouTube scheme for light mode, Slate for dark mode). Zensical is built by the Material for MkDocs team and supports both classic (Material-like) and modern theme variants.
+- **Main config**: `zensical.toml` - Defines site structure, theme, plugins, and markdown extensions using native TOML format
+- **Theme**: Zensical classic variant with custom color palette (YouTube scheme for light mode, Slate for dark mode). Zensical is built by the Material for MkDocs team and supports both classic (Material-like) and modern theme variants.
 
 ### Markdown Extensions
 
@@ -96,9 +92,9 @@ Common icon patterns:
 
 ### Navigation Structure
 
-The site navigation is defined in `mkdocs.yml` under the `nav:` key. To add new pages:
+The site navigation is defined in `zensical.toml` under the `[project]` section's `nav` array. To add new pages:
 1. Create the markdown file in `docs/`
-2. Add the entry to `nav:` in `mkdocs.yml`
+2. Add the entry to `nav` in `zensical.toml` using TOML syntax: `{"Page Title" = "filename.md"}`
 3. Follow existing naming conventions (lowercase, hyphenated)
 
 ## Technical Notes
@@ -106,9 +102,9 @@ The site navigation is defined in `mkdocs.yml` under the `nav:` key. To add new 
 - The site uses Google Analytics (property: G-NYETZFD8DN)
 - Git revision dates are automatically added to pages via `git-revision-date` plugin
 - Jupyter notebooks can be included directly in documentation with `mkdocs-jupyter`
-- Social media links and author info are configured in `mkdocs.yml` under `extra:`
+- Social media links and author info are configured in `zensical.toml` under `[project.extra]`
 - Custom CSS is in `docs/stylesheets/extra.css`
-- Zensical is compatible with existing MkDocs Material configurations and maintains the same HTML structure
+- Zensical uses native TOML configuration format for improved clarity and type safety
 - Built with Rust and Python for improved performance
 
 ## Repository Context

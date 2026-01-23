@@ -1,5 +1,555 @@
-[data-md-color-scheme="youtube"] {
-    --md-primary-fg-color:        #EE0F0F;
-    --md-primary-fg-color--light: #ECB7B7;
-    --md-primary-fg-color--dark:  #90030C;
-  }
+/* ========================================
+   U.S. FOREST SERVICE BRAND STANDARDS
+   Based on USFS FS-1186 (May 2023)
+   PANTONE 343 CV (Forest Service Green)
+   PANTONE 288 CV (USFS Blue)
+   ======================================== */
+
+:root {
+    /* USFS Official Color Palette */
+    --usfs-green-primary:     #00502F;    /* PANTONE 343 CV (approx) */
+    --usfs-green-dark:        #003D24;    /* Darker shade */
+    --usfs-green-medium:      #00743F;    /* Medium shade */
+    --usfs-green-light:       #009954;    /* Lighter shade */
+    --usfs-blue-primary:      #004B87;    /* PANTONE 288 CV (approx) */
+    --usfs-blue-dark:         #003D70;    /* Darker blue */
+    --usfs-gold:              #C69214;    /* Secondary accent */
+    --usfs-earth-brown:       #8B7355;    /* Natural earth tone */
+
+    /* Neutrals - Federal design system inspired */
+    --usfs-gray-100:          #F9F9F9;
+    --usfs-gray-200:          #E8E8E8;
+    --usfs-gray-300:          #CFCFCF;
+    --usfs-gray-400:          #A0A0A0;
+    --usfs-gray-500:          #717171;
+    --usfs-gray-600:          #565656;
+    --usfs-gray-700:          #3A3A3A;
+    --usfs-gray-800:          #2A2A2A;
+    --usfs-gray-900:          #1A1A1A;
+
+    /* Status colors for alerts/warnings */
+    --usfs-alert-red:         #B91C1C;    /* Fire/emergency */
+    --usfs-warning-orange:    #EA580C;    /* Warning conditions */
+    --usfs-info-blue:         #0284C7;    /* Information */
+    --usfs-success-green:     #16A34A;    /* Success states */
+
+    /* Typography scale */
+    --usfs-font-display:      'Merriweather', Georgia, serif;
+    --usfs-font-body:         'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    --usfs-font-mono:         'Roboto Mono', 'Courier New', monospace;
+}
+
+/* LIGHT MODE - Official USFS Theme */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="forest"] {
+    /* Primary colors */
+    --md-primary-fg-color:        var(--usfs-green-primary);
+    --md-primary-fg-color--light: var(--usfs-green-medium);
+    --md-primary-fg-color--dark:  var(--usfs-green-dark);
+
+    /* Accent colors */
+    --md-accent-fg-color:         var(--usfs-blue-primary);
+    --md-accent-fg-color--light:  #0066B2;
+    --md-accent-fg-color--dark:   var(--usfs-blue-dark);
+
+    /* Background and text */
+    --md-default-bg-color:        #FFFFFF;
+    --md-default-fg-color:        var(--usfs-gray-700);
+    --md-default-fg-color--light: var(--usfs-gray-600);
+    --md-default-fg-color--dark:  var(--usfs-gray-900);
+
+    /* Links */
+    --md-typeset-a-color:         var(--usfs-blue-primary);
+
+    /* Code blocks */
+    --md-code-fg-color:           var(--usfs-gray-900);
+    --md-code-bg-color:           var(--usfs-gray-100);
+    --md-code-hl-color:           rgba(0, 75, 135, 0.1);
+
+    /* Tables and borders */
+    --md-typeset-table-color:     rgba(0, 80, 47, 0.12);
+}
+
+/* DARK MODE - Forest Night Theme */
+[data-md-color-scheme="slate"],
+[data-md-color-scheme="forest-night"] {
+    /* Primary colors - lighter for dark mode */
+    --md-primary-fg-color:        var(--usfs-green-medium);
+    --md-primary-fg-color--light: var(--usfs-green-light);
+    --md-primary-fg-color--dark:  var(--usfs-green-primary);
+
+    /* Accent colors */
+    --md-accent-fg-color:         #3B82F6;
+    --md-accent-fg-color--light:  #60A5FA;
+    --md-accent-fg-color--dark:   #2563EB;
+
+    /* Dark backgrounds */
+    --md-default-bg-color:        var(--usfs-gray-900);
+    --md-default-fg-color:        var(--usfs-gray-200);
+    --md-default-fg-color--light: var(--usfs-gray-100);
+    --md-default-fg-color--dark:  var(--usfs-gray-300);
+
+    /* Links - higher contrast */
+    --md-typeset-a-color:         #60A5FA;
+
+    /* Code blocks */
+    --md-code-bg-color:           var(--usfs-gray-800);
+    --md-code-fg-color:           #E5E7EB;
+    --md-code-hl-color:           rgba(59, 130, 246, 0.15);
+}
+
+/* ========================================
+   TYPOGRAPHY - Professional Hierarchy
+   ======================================== */
+
+/* Import official government-friendly fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700;900&family=Public+Sans:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap');
+
+.md-typeset {
+    font-family: var(--usfs-font-body);
+    font-size: 0.9rem;
+    line-height: 1.65;
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+    font-family: var(--usfs-font-display);
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: -0.015em;
+    color: var(--md-default-fg-color--dark);
+}
+
+.md-typeset h1 {
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 0 0 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--usfs-green-primary);
+}
+
+.md-typeset h2 {
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem;
+    padding-left: 0.75rem;
+    border-left: 4px solid var(--usfs-blue-primary);
+}
+
+.md-typeset h3 {
+    font-size: 1.25rem;
+    margin: 1.5rem 0 0.75rem;
+    color: var(--usfs-green-medium);
+}
+
+.md-typeset h4 {
+    font-size: 1rem;
+    margin: 1.25rem 0 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--usfs-gray-600);
+}
+
+/* Code typography */
+.md-typeset code,
+.md-typeset pre {
+    font-family: var(--usfs-font-mono);
+    font-size: 0.85em;
+}
+
+/* ========================================
+   HEADER & NAVIGATION - Federal Identity
+   ======================================== */
+
+.md-header {
+    background: linear-gradient(135deg, var(--usfs-green-primary) 0%, var(--usfs-green-dark) 100%);
+    box-shadow: 0 2px 8px rgba(0, 80, 47, 0.15), 0 4px 12px rgba(0, 80, 47, 0.1);
+    border-bottom: 2px solid var(--usfs-gold);
+}
+
+.md-header__title {
+    font-family: var(--usfs-font-display);
+    font-weight: 900;
+    font-size: 1.15rem;
+    letter-spacing: -0.02em;
+}
+
+.md-tabs {
+    background: linear-gradient(180deg, var(--usfs-green-dark) 0%, var(--usfs-green-primary) 100%);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.md-tabs__link {
+    font-family: var(--usfs-font-body);
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.85;
+    transition: all 0.2s ease;
+}
+
+.md-tabs__link:hover {
+    opacity: 1;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.md-tabs__link--active {
+    opacity: 1;
+    border-bottom: 3px solid var(--usfs-gold);
+}
+
+/* ========================================
+   CONTENT LAYOUT - Clean & Structured
+   ======================================== */
+
+.md-main__inner {
+    margin-top: 0;
+}
+
+.md-content {
+    padding: 2rem 1.5rem;
+    max-width: 1200px;
+}
+
+.md-content__inner {
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Add subtle texture to main content area */
+.md-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 300px;
+    background:
+        linear-gradient(180deg, var(--usfs-gray-100) 0%, transparent 100%),
+        repeating-linear-gradient(
+            45deg,
+            transparent,
+            transparent 10px,
+            rgba(0, 80, 47, 0.01) 10px,
+            rgba(0, 80, 47, 0.01) 20px
+        );
+    pointer-events: none;
+    z-index: -1;
+}
+
+[data-md-color-scheme="slate"] .md-content::before,
+[data-md-color-scheme="forest-night"] .md-content::before {
+    background:
+        linear-gradient(180deg, rgba(0, 116, 63, 0.05) 0%, transparent 100%);
+}
+
+/* ========================================
+   LINKS - Professional & Accessible
+   ======================================== */
+
+.md-typeset a {
+    color: var(--md-typeset-a-color);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
+    font-weight: 500;
+}
+
+.md-typeset a:hover {
+    color: var(--usfs-blue-dark);
+    border-bottom-color: var(--usfs-blue-primary);
+}
+
+.md-typeset a:focus {
+    outline: 2px solid var(--usfs-blue-primary);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+/* External link indicator */
+.md-typeset a[target="_blank"]::after {
+    content: '\2197';
+    display: inline-block;
+    margin-left: 0.25em;
+    font-size: 0.8em;
+    opacity: 0.6;
+}
+
+/* ========================================
+   ADMONITIONS - Status-Coded Alerts
+   ======================================== */
+
+.md-typeset .admonition {
+    border-radius: 4px;
+    border-left: 4px solid;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    background: var(--md-default-bg-color);
+}
+
+.md-typeset .admonition-title {
+    font-family: var(--usfs-font-body);
+    font-weight: 700;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: -1rem -1.25rem 0.75rem;
+    padding: 0.75rem 1.25rem;
+    border-radius: 4px 4px 0 0;
+}
+
+/* Tip - Forest Service Green */
+.md-typeset .admonition.tip {
+    border-left-color: var(--usfs-green-primary);
+}
+
+.md-typeset .admonition.tip > .admonition-title {
+    background: linear-gradient(90deg, rgba(0, 80, 47, 0.12) 0%, rgba(0, 80, 47, 0.06) 100%);
+    color: var(--usfs-green-dark);
+}
+
+/* Note - USFS Blue */
+.md-typeset .admonition.note {
+    border-left-color: var(--usfs-blue-primary);
+}
+
+.md-typeset .admonition.note > .admonition-title {
+    background: linear-gradient(90deg, rgba(0, 75, 135, 0.12) 0%, rgba(0, 75, 135, 0.06) 100%);
+    color: var(--usfs-blue-dark);
+}
+
+/* Warning - Fire Orange */
+.md-typeset .admonition.warning {
+    border-left-color: var(--usfs-warning-orange);
+}
+
+.md-typeset .admonition.warning > .admonition-title {
+    background: linear-gradient(90deg, rgba(234, 88, 12, 0.12) 0%, rgba(234, 88, 12, 0.06) 100%);
+    color: #C2410C;
+}
+
+/* Danger - Alert Red */
+.md-typeset .admonition.danger {
+    border-left-color: var(--usfs-alert-red);
+}
+
+.md-typeset .admonition.danger > .admonition-title {
+    background: linear-gradient(90deg, rgba(185, 28, 28, 0.12) 0%, rgba(185, 28, 28, 0.06) 100%);
+    color: #991B1B;
+}
+
+/* Info - Light Blue */
+.md-typeset .admonition.info {
+    border-left-color: var(--usfs-info-blue);
+}
+
+.md-typeset .admonition.info > .admonition-title {
+    background: linear-gradient(90deg, rgba(2, 132, 199, 0.12) 0%, rgba(2, 132, 199, 0.06) 100%);
+    color: #075985;
+}
+
+/* ========================================
+   CARDS & CONTENT BLOCKS
+   ======================================== */
+
+.md-typeset .md-button {
+    background: var(--usfs-green-primary);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 0.75rem 1.5rem;
+    font-family: var(--usfs-font-body);
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 80, 47, 0.2);
+}
+
+.md-typeset .md-button:hover {
+    background: var(--usfs-green-dark);
+    box-shadow: 0 4px 8px rgba(0, 80, 47, 0.3);
+    transform: translateY(-1px);
+}
+
+.md-typeset .md-button--primary {
+    background: var(--usfs-blue-primary);
+}
+
+.md-typeset .md-button--primary:hover {
+    background: var(--usfs-blue-dark);
+}
+
+/* ========================================
+   TABLES - Data Presentation
+   ======================================== */
+
+.md-typeset table:not([class]) {
+    border: 1px solid var(--usfs-gray-300);
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.md-typeset table:not([class]) thead {
+    background: linear-gradient(180deg, var(--usfs-green-primary) 0%, var(--usfs-green-dark) 100%);
+    color: white;
+}
+
+.md-typeset table:not([class]) th {
+    font-family: var(--usfs-font-body);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    padding: 1rem;
+    border: none;
+}
+
+.md-typeset table:not([class]) td {
+    padding: 0.875rem 1rem;
+    border-top: 1px solid var(--usfs-gray-200);
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+    background: rgba(0, 80, 47, 0.03);
+}
+
+/* ========================================
+   CODE BLOCKS - Technical Content
+   ======================================== */
+
+.md-typeset pre {
+    background: var(--md-code-bg-color);
+    border: 1px solid var(--usfs-gray-300);
+    border-radius: 4px;
+    border-left: 4px solid var(--usfs-blue-primary);
+    padding: 1rem;
+    overflow-x: auto;
+}
+
+.md-typeset code {
+    background: var(--md-code-bg-color);
+    color: var(--md-code-fg-color);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.875em;
+    border: 1px solid var(--usfs-gray-200);
+}
+
+.md-typeset pre > code {
+    border: none;
+    padding: 0;
+}
+
+/* ========================================
+   FOOTER - Federal Branding
+   ======================================== */
+
+.md-footer {
+    background: var(--usfs-gray-800);
+    color: var(--usfs-gray-200);
+    border-top: 3px solid var(--usfs-green-primary);
+}
+
+.md-footer-meta {
+    background: var(--usfs-gray-900);
+}
+
+.md-footer__link {
+    color: var(--usfs-gray-200);
+    transition: color 0.2s ease;
+}
+
+.md-footer__link:hover {
+    color: var(--usfs-green-light);
+}
+
+/* ========================================
+   SIDEBAR NAVIGATION
+   ======================================== */
+
+.md-sidebar {
+    background: var(--usfs-gray-100);
+}
+
+[data-md-color-scheme="slate"] .md-sidebar,
+[data-md-color-scheme="forest-night"] .md-sidebar {
+    background: var(--usfs-gray-800);
+}
+
+.md-nav__item--active > .md-nav__link {
+    color: var(--usfs-green-primary);
+    font-weight: 600;
+    border-left: 3px solid var(--usfs-green-primary);
+    padding-left: calc(1rem - 3px);
+}
+
+/* ========================================
+   RESPONSIVE DESIGN
+   ======================================== */
+
+@media screen and (max-width: 76.1875em) {
+    .md-content {
+        padding: 1.5rem 1rem;
+    }
+
+    .md-typeset h1 {
+        font-size: 1.65rem;
+    }
+
+    .md-typeset h2 {
+        font-size: 1.35rem;
+    }
+}
+
+@media screen and (max-width: 44.9375em) {
+    .md-header__title {
+        font-size: 1rem;
+    }
+
+    .md-tabs__link {
+        font-size: 0.75rem;
+        padding: 0.75rem 0.75rem;
+    }
+
+    .md-typeset h1 {
+        font-size: 1.5rem;
+    }
+}
+
+/* ========================================
+   PRINT STYLES
+   ======================================== */
+
+@media print {
+    .md-header,
+    .md-tabs,
+    .md-sidebar,
+    .md-footer {
+        display: none;
+    }
+
+    .md-content {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .md-typeset a {
+        color: var(--usfs-gray-900);
+        text-decoration: underline;
+    }
+
+    .md-typeset a[href^="http"]::after {
+        content: " (" attr(href) ")";
+        font-size: 0.875em;
+        color: var(--usfs-gray-600);
+    }
+}

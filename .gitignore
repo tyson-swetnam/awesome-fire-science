@@ -1,2 +1,9 @@
 # Claude Code files
 .claude/
+
+# Zensical build output
+site/
+
+# Python cache
+__pycache__/
+*.pyc

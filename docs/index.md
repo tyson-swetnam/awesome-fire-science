@@ -8,15 +8,31 @@
 
 ## Contents
 
-[:octicons-database-24: Data](data.md)
+### :material-tools: Tools & Resources
 
-[:octicons-gear-24: Software](software.md)
+[:fontawesome-solid-rocket: Getting Started](getting-started.md) - New to fire science tools? Start here!
 
-[:octicons-cloud-24: Computing](cyberinfrastructure.md)
+[:octicons-database-24: Data](data.md) - Data sources, journals, and fire atlases
 
-[:octicons-globe-24: Networks](networks.md)
+[:octicons-gear-24: Software](software.md) - Fire behavior models and GIS tools
 
-[:material-brain: Training](training.md)
+[:material-robot: AI Tools](ai-tools.md) - AI assistants and productivity tools
+
+[:octicons-cloud-24: Computing](cyberinfrastructure.md) - Cloud platforms and HPC resources
+
+[:fontawesome-solid-mobile-screen: Mobile Apps](mobile-apps.md) - Field apps for monitoring and data collection
+
+[:material-tools: Hardware](hardware.md) - Drones, weather stations, and field equipment
+
+[:material-database-cog: Data Management](data-management.md) - Organizing, backing up, and sharing data
+
+### :material-school: Learning & Community
+
+[:material-brain: Training](training.md) - Courses, tutorials, and educational resources
+
+[:octicons-globe-24: Networks](networks.md) - Professional networks and organizations
+
+[:material-account-group: Community](community.md) - Forums, discussions, and conferences
 
 ### Contributions
 
