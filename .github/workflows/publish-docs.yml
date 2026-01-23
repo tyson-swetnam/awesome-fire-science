@@ -1,13 +1,20 @@
-name: Publish docs via GitHub
+name: Publish docs via GitHub Pages
 on:
   push:
     branches:
       - main
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     if: github.event.repository.fork == false
     steps:
@@ -24,4 +31,20 @@ jobs:
             zensical-
       - run: sudo apt-get install pngquant -y
       - run: pip install -r requirements.txt
-      - run: zensical gh-deploy --force 
+      - name: Build with Zensical
+        run: zensical build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 
