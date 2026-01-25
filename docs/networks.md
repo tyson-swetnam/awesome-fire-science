@@ -6,8 +6,6 @@
 
 [Fire Adapted Communties](https://fireadaptednetwork.org/){target=_blank}
 
-[Fire & Aviation](https://fireaviation.com/){target=_blank}
-
 [Firewise USA](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Firewise-USA){target=_blank}
 
 [Frontline Fire Defense](https://www.frontlinewildfire.com/){target=_blank}
