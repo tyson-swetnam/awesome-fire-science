@@ -23,11 +23,23 @@ extra_css = ["stylesheets/extra.css"]
 # Navigation
 nav = [
   {"Home" = "index.md"},
-  {"Data" = "data.md"},
-  {"Software" = "software.md"},
-  {"Computing" = "cyberinfrastructure.md"},
-  {"Training" = "training.md"},
-  {"Networks" = "networks.md"}
+  {"Getting Started" = "getting-started.md"},
+  {"Tools" = [
+    {"Hardware" = "hardware.md"},
+    {"Mobile Apps" = "mobile-apps.md"}
+  ]},
+  {"Data" = [
+    {"Data Sources" = "data.md"},
+    {"Computing" = "cyberinfrastructure.md"},
+    {"AI Tools" = "ai-tools.md"},
+    {"Data Management" = "data-management.md"},
+    {"Software" = "software.md"}
+  ]},
+  {"Networks" = [
+    {"Networks" = "networks.md"},
+    {"Training" = "training.md"},
+    {"Community" = "community.md"}
+  ]}
 ]
 
 # Theme Configuration

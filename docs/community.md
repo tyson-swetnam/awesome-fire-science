@@ -16,23 +16,23 @@ Connect with wildland fire science communities, discussion forums, professional 
 
 [:material-stack-overflow: GIS StackExchange](https://gis.stackexchange.com){target=_blank} - Q&A site for GIS professionals with excellent technical support for geospatial analysis.
 
-## :simple-slack: Slack & Discord Communities
+## :material-slack: Slack & Discord Communities
 
-[:simple-slack: QGIS Community](https://qgis.org/en/site/getinvolved/index.html){target=_blank} - Slack workspace for QGIS users and developers with channels for technical support and plugin development.
+[:material-slack: QGIS Community](https://qgis.org/en/site/getinvolved/index.html){target=_blank} - Slack workspace for QGIS users and developers with channels for technical support and plugin development.
 
-[:simple-slack: Pangeo](https://pangeo.io/meeting-notes.html){target=_blank} - Community workspace for big data geoscience, cloud computing, and Python-based Earth science analysis.
+[:material-slack: Pangeo](https://pangeo.io/meeting-notes.html){target=_blank} - Community workspace for big data geoscience, cloud computing, and Python-based Earth science analysis.
 
-[:simple-slack: Software Underground (SWUNG)](https://softwareunderground.org){target=_blank} - Slack community for geoscientists who code, covering Python, remote sensing, and data science.
+[:material-slack: Software Underground (SWUNG)](https://softwareunderground.org){target=_blank} - Slack community for geoscientists who code, covering Python, remote sensing, and data science.
 
 [:simple-discord: Earth Science Discord](https://discord.gg/earth-science){target=_blank} - Discord server for Earth science discussions, including fire science, meteorology, and geology.
 
-[:simple-slack: Remote Sensing Community](https://www.grss-ieee.org){target=_blank} - IEEE Geoscience and Remote Sensing Society community channels and working groups.
+[:material-slack: Remote Sensing Community](https://www.grss-ieee.org){target=_blank} - IEEE Geoscience and Remote Sensing Society community channels and working groups.
 
-[:simple-slack: Open Science Community](https://opensciencemooc.eu){target=_blank} - Slack workspace focused on open science practices, reproducibility, and FAIR data.
+[:material-slack: Open Science Community](https://opensciencemooc.eu){target=_blank} - Slack workspace focused on open science practices, reproducibility, and FAIR data.
 
 ## :simple-x: Social Media & Twitter/X
 
-### Key Hashtags to Follow
+### Key Hashtags
 
 - **#FireTwitter** - Real-time wildfire updates, incident photos, and community discussion
 - **#WildlandFire** - Professional fire management and science discussions
@@ -42,17 +42,58 @@ Connect with wildland fire science communities, discussion forums, professional 
 - **#PrescribedFire** - Prescribed burning and cultural fire practices
 - **#FireEcology** - Ecological research and fire effects
 
-### Organizations & Agencies to Follow
+### BlueSky Networks
 
-[:simple-x: @NASAFIRE](https://twitter.com/NASAFIRE){target=_blank} - NASA Fire and Smoke Updates
+[:simple-bluesky: BlueSky Fire Science Community](https://bsky.app){target=_blank} - Growing community of fire scientists, managers, and researchers migrating from Twitter/X.
 
-[:simple-x: @NIFCFIRE](https://twitter.com/NIFCFIRE){target=_blank} - National Interagency Fire Center
+**Key Hashtags:**
 
-[:simple-x: @CALFIRE_PIO](https://twitter.com/CALFIRE_PIO){target=_blank} - CAL FIRE Public Information
+- [**#FireScience**](https://bsky.app/search?q=%23FireScience){target=_blank} - Fire research and management discussions
+- [**#WildlandFire**](https://bsky.app/search?q=%23WildlandFire){target=_blank} - Professional fire management community
+- [**#FireWeather**](https://bsky.app/search?q=%23FireWeather){target=_blank} - Meteorological conditions and forecasting
+- [**#PrescribedFire**](https://bsky.app/search?q=%23PrescribedFire){target=_blank} - Prescribed burning and cultural fire practices
 
-[:simple-x: @USFS_WildlandFire](https://twitter.com/USFS_WildlandFire){target=_blank} - US Forest Service Fire Management
+**Organizations on BlueSky:**
 
-[:simple-x: @WatchDutyApp](https://twitter.com/WatchDutyApp){target=_blank} - Watch Duty wildfire alerts and updates
+- Many fire science organizations and researchers are establishing presence on BlueSky
+- Search for fire-related hashtags and starter packs to find relevant accounts
+- Follow researchers and agencies as they migrate to the platform
+
+### Instagram & Visual Storytelling
+
+[:simple-instagram: Instagram](https://www.instagram.com){target=_blank} - Visual platform featuring fire photography, incident documentation, and behind-the-scenes firefighting stories.
+
+**Fire Photographers & Journalists:**
+
+[:simple-instagram: @stuartpalley](https://www.instagram.com/stuartpalley){target=_blank} - Award-winning photographer documenting wildfires across the American West, known for long-exposure fire imagery.
+
+**Key Hashtags:**
+
+- [**#WildlandFire**](https://www.instagram.com/explore/search/keyword/?q=%23wildlandfire){target=_blank} - General wildland fire content
+- [**#Wildfire**](https://www.instagram.com/explore/search/keyword/?q=%23wildfire){target=_blank} - Active incident coverage
+- [**#FirePhotography**](https://www.instagram.com/explore/search/keyword/?q=%23firephotography){target=_blank} - Fire imagery and documentation
+- [**#Firefighters**](https://www.instagram.com/explore/search/keyword/?q=%23firefighters){target=_blank} - Firefighter stories and operations
+- [**#Hotshots**](https://www.instagram.com/explore/search/keyword/?q=%23hotshots){target=_blank} - Hotshot crews and elite wildland firefighting teams
+- [**#PrescribedBurn**](https://www.instagram.com/explore/search/keyword/?q=%23prescribedburn){target=_blank} - Prescribed fire operations
+- [**#FireSeason**](https://www.instagram.com/explore/search/keyword/?q=%23fireseason){target=_blank} - Seasonal fire activity and preparedness
+
+### Threads by Meta
+
+[:simple-threads: Threads](https://www.threads.net){target=_blank} - Text-based social platform from Meta, integrated with Instagram, featuring real-time fire discussions and updates.
+
+**Features:**
+
+- Real-time incident updates from photographers and journalists
+- Integration with Instagram accounts for cross-platform following
+- Growing community of fire professionals and researchers
+- Thread discussions on fire policy, management, and science
+
+**Key Topics:**
+
+- Follow Instagram fire photographers and agencies who cross-post to Threads
+- Real-time incident commentary and analysis
+- Fire weather discussions and forecasts
+- Policy and management debates
 
 ## :material-calendar-month: Conferences & Events
 
