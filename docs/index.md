@@ -4,7 +4,9 @@
 
 #### presentations
 
-[:material-google-drive: Google Slides for January 2026 M-580 Fire in Ecosystem Management Class](https://docs.google.com/presentation/d/17IUhqQuNoPYapIMQYkqQcbGFmcWnIQp-D245H2Pz8k8/edit?usp=sharing){target=_blank} 
+[:material-google-drive: Google Slides for January 2026 M-580 Fire in Ecosystem Management Class](https://docs.google.com/presentation/d/17IUhqQuNoPYapIMQYkqQcbGFmcWnIQp-D245H2Pz8k8/edit?usp=sharing){target=_blank}
+
+[:material-map-marker-multiple: 2026 Course Locations](https://tyson-swetnam.github.io/m580-2026/){target=_blank}
 
 ## Contents
 
