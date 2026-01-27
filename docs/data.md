@@ -72,7 +72,9 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
 
-* [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires. 
+* [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires.
+
+* [North American Tree Ring Fire Scar Network](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=noaa-fire-34853){target=_blank} - NOAA database of tree ring fire scar data for North America
 
 [USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6){target=_blank} - Spatial wildfire occurrence data for the United States, 1992-2020
 
