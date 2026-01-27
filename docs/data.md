@@ -154,6 +154,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ## :material-bird: Environmental
 
+[Dead Trees Earth](https://deadtrees.earth/){target=_blank} - tree mortality data
+
 [eBird](https://ebird.org/science/use-ebird-data){target=_blank} - citizen science for ornithology
 
 [EcoSML](https://ecosml.org/){target=_blank} - NASA supported Ecological Spectral Model Library (EcoSML), a useful tool for finding spectral models.
@@ -163,6 +165,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network){target=_blank} - citizen science data for vegetation phenology
 
 [NEON](https://www.neonscience.org/data-samples){target=_blank} - National Ecological Observation Network (NEON) data and API
+
+[Open Forest Observatory](https://openforestobservatory.org/){target=_blank} - open-source forest structure data from lidar and photogrammetry
 
 [:rat: NeotomaDB](https://www.neotomadb.org/data){target=_blank} - *Neotoma* paleo ecology database
 
