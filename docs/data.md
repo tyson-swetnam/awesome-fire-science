@@ -158,6 +158,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [eBird](https://ebird.org/science/use-ebird-data){target=_blank} - citizen science for ornithology
 
+[USFS Fire and Tree Mortality Database](https://research.fs.usda.gov/firelab/products/dataandtools/fire-and-tree-mortality-database){target=_blank} - USDA Forest Service database linking fire effects to tree mortality
+
 [EcoSML](https://ecosml.org/){target=_blank} - NASA supported Ecological Spectral Model Library (EcoSML), a useful tool for finding spectral models.
 
 [Environmental Data Initiative](https://environmentaldatainitiative.org/){target=_blank} - access to LTER and LTAR datasets online
