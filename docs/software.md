@@ -97,6 +97,8 @@ Using open source software allows other researchers to reproduce your work and i
 
 * [BEHAVE+](https://www.frames.gov/behaveplus/home)
 
+* [BEHAVE7](https://research.fs.usda.gov/firelab/articles/behave7-improvements-behave-fire-modeling-system){target=_blank} - Improvements to the BEHAVE fire modeling system
+
 * [FARSITE-2](https://www.firelab.org/project/farsite)
 
 * [FIREFAMILY+](https://www.firelab.org/project/firefamilyplus)
@@ -106,6 +108,8 @@ Using open source software allows other researchers to reproduce your work and i
 * [FLAMMAP](https://www.firelab.org/project/flammap)
 
 * [FOFEM](https://www.firelab.org/project/fofem-fire-effects-model)
+
+* [SpatialFOFEM](https://research.fs.usda.gov/firelab/products/dataandtools/fofem/spatialfofem-fire-effects-model){target=_blank} - Spatial fire effects model
 
 * [FEIS](https://www.feis-crs.org/feis/)
 
