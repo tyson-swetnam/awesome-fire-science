@@ -22,6 +22,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ## :simple-bookstack: Books and :material-file-document-multiple-outline: Technical Reports
 
+[:material-fire: Fire Library](https://firelibrary.org/){target=_blank} - Comprehensive digital library of wildland fire research, technical reports, and publications
+
 [:material-file-document-multiple-outline: Rocky Mountain Research Station General Technical Reports](https://www.fs.usda.gov/rmrs/publications/series/general-technical-reports){target=_blank}
 
 [Current International Perspectives on Wildland Fires, Mankind and the Environment](https://www.google.com/books/edition/Current_International_Perspectives_on_Wi/cn-zrQEACAAJ?hl=en){target=_blank}

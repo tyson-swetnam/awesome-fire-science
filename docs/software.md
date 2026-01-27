@@ -10,33 +10,35 @@
 
 ### :material-layers-triple-outline: Geographic Information Systems
 
-??? Tip "How I learned to stop worrying, and love the ArcGIS :bomb:"
+#### ESRI ArcGIS
 
-      [ESRI's ArcGIS and ArcGIS Online](https://www.arcgis.com/index.html){target=_blank} are typically the first Geographic Information Systems (GIS) software taught to students at universities and community colleges. 
-      
-      ESRI products dominate the US market and are found in most government agencies. 
-      
-      ESRI products are widely used in [wildland fire incident management](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} (in the US).
+[ESRI's ArcGIS and ArcGIS Online](https://www.arcgis.com/index.html){target=_blank} are typically the first Geographic Information Systems (GIS) software taught to students at universities and community colleges. ESRI products dominate the US market and are found in most government agencies.
 
-      [Strategic Risk Assessment (SRA) and Strategic Operations Story Maps](https://storymaps.arcgis.com/stories/7e0b757bc6a4480cad008218d6448212){target=_blank} 
-      
-      [Risk Management Assistance Dashboard](https://www.arcgis.com/apps/MapSeries/index.html?appid=c5bc811ee22e4da0bde8abec7c20b8b4){target=_blank} 
-      
-      [Potential wildland fire operational delineations (PODs)](https://www.arcgis.com/apps/Cascade/index.html?appid=073b66277b6540328f40b772dfab7c6f){target=_blank} 
-      
-      [WFDSS NIFC ArcGIS](https://nifc.maps.arcgis.com/home/item.html?id=8e2b29eb0ae04e73801b08314b395b94){target=_blank} 
+ESRI products are widely used in [wildland fire incident management](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} (in the US). Access to ArcGIS requires an expensive software license agreement, normally paid for by contracting agreements through your agency or local government. For smaller agencies or non-governmental organizations, these costs can be prohibitive.
 
-      [Incident Strategic Alignment Process (ISAP)](https://experience.arcgis.com/experience/f9d7f7f920494c3db43a23a8dffe4664){target=_blank} 
-      
-      [Story Map example from 2020 Fire Affected Road System Risk Reduction Project](https://storymaps.arcgis.com/stories/841b9854be5346638c3c34291913fe31){target=_blank} 
-
-      Access to ArcGIS requires an expensive software license agreement. Normally this cost is paid for by contracting agreements through your agency or local government. If you're working for a smaller agency or non-governmental organization, these costs can be prohibitive.
-
-      ESRI's software products do rely on open source software like [GDAL](https://gdal.org/software_using_gdal.html), and Python which can be used with [:simple-jupyter: Jupyter Notebooks](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/){target=_blank}
+**Wildland Fire Applications:**
 
 [ArcGIS Online Wildland Fire Applications](https://www.esri.com/en-us/industries/wildland-fire/community){target=_blank}
 
 [:material-fire: NIFC ArcGIS Online](https://nifc.maps.arcgis.com/home/index.html){target=_blank}
+
+[Strategic Risk Assessment (SRA) and Strategic Operations Story Maps](https://storymaps.arcgis.com/stories/7e0b757bc6a4480cad008218d6448212){target=_blank}
+
+[Risk Management Assistance Dashboard](https://www.arcgis.com/apps/MapSeries/index.html?appid=c5bc811ee22e4da0bde8abec7c20b8b4){target=_blank}
+
+[Potential wildland fire operational delineations (PODs)](https://www.arcgis.com/apps/Cascade/index.html?appid=073b66277b6540328f40b772dfab7c6f){target=_blank}
+
+[WFDSS NIFC ArcGIS](https://nifc.maps.arcgis.com/home/item.html?id=8e2b29eb0ae04e73801b08314b395b94){target=_blank}
+
+[Incident Strategic Alignment Process (ISAP)](https://experience.arcgis.com/experience/f9d7f7f920494c3db43a23a8dffe4664){target=_blank}
+
+[Story Map example from 2020 Fire Affected Road System Risk Reduction Project](https://storymaps.arcgis.com/stories/841b9854be5346638c3c34291913fe31){target=_blank}
+
+**Integration with Open Source Tools:**
+
+ESRI's software products rely on open source software like [GDAL](https://gdal.org/software_using_gdal.html), and Python which can be used with [:simple-jupyter: Jupyter Notebooks](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/){target=_blank}
+
+#### Other Commercial GIS Platforms
 
 [:simple-googlemaps: Google Maps Platform](https://mapsplatform.google.com/){target=_blank} - Leverage Google's Web Mapping APIs for web-based applications
 
