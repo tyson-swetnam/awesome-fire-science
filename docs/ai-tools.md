@@ -23,6 +23,8 @@ General-purpose large language models (LLMs) that can assist with code generatio
 
 As AI tools continue to evolve, watch for specialized applications in wildland fire science. Current examples include:
 
+[:material-brain: Allen AI Wildlands](https://allenai.org/wildlands){target=_blank} - AI research initiative focused on wildfire prediction, detection, and management using machine learning.
+
 [:material-wifi: WIFIRE Firemap](https://wifire.ucsd.edu/firemap){target=_blank} - Near real-time fire mapping using AI and satellite imagery.
 
 ## :material-briefcase: Productivity & Automation Tools
