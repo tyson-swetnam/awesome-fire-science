@@ -10,6 +10,8 @@
 
 [Frontline Fire Defense](https://www.frontlinewildfire.com/){target=_blank}
 
+[Oak Fire Science](https://oakfirescience.com/){target=_blank}
+
 [The Lookout](https://the-lookout.org/){target=_blank}
 
 [Wildfire Today](https://wildfiretoday.com/){target=_blank}
