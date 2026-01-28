@@ -150,6 +150,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [3DEP](https://usgs.entwine.io/){target=_blank} - USGS 3DEP lidar point clouds on AWS
 
+[USGS Lidar Explorer](https://usgs-lidar.gishub.org/){target=_blank} - Interactive web application for exploring and downloading USGS 3DEP lidar data
+
 [LANDFIRE](https://landfire.gov/version_alerts.php){target=_blank} - geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
 
 [Landscape Explorer](https://www.landscapeexplorer.org/){target=_blank} - Interactive geospatial visualization and data exploration tool for landscape analysis
