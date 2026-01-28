@@ -54,6 +54,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires){target=_blank} - Access wildfire data, live feeds, technology, and resources
 
+[ezESRI Directory](https://www.ezesri.com/directory){target=_blank} - Comprehensive directory of ESRI and ArcGIS resources, applications, and data portals
+
 [Global Fire Emissions Database](https://www.globalfiredata.org/index.html){target=_blank}
 
 [:material-fire: InciWeb (USA)](https://inciweb.nwcg.gov/){target=_blank} - is an interagency all-risk incident information management system.
