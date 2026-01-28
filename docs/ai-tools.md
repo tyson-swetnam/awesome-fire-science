@@ -89,7 +89,7 @@ As AI tools continue to evolve, watch for specialized applications in wildland f
 
 [:material-earth: Clay](https://clay-foundation.github.io/model){target=_blank} - Open-source foundation model for Earth observation with temporal and multi-modal capabilities.
 
-[:material-vector-polygon: Segment Anything (SAM)](https://segment-anything.com){target=_blank} - Meta's foundation model for image segmentation, applicable to satellite imagery analysis.
+[:material-vector-polygon: Segment Anything (SAM)](https://aidemos.meta.com/segment-anything/){target=_blank} - Meta's foundation model for image segmentation, applicable to satellite imagery analysis.
 
 [:material-vector-polygon: SAM-Adapter](https://github.com/tianrun-chen/SAM-Adapter-PyTorch){target=_blank} - Adaptation of Segment Anything Model specifically for remote sensing applications.
 
