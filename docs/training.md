@@ -483,7 +483,7 @@ Hands-on training programs from nonprofit organizations emphasizing field experi
 
 ??? Tip "The Nature Conservancy Fire Programs"
 
-    [TREX (Prescribed Fire Training Exchanges)](https://www.conservationgateway.org/ConservationPractices/FireLandscapes/TREX/Pages/default.aspx){target=_blank} - 150+ events since 2009, 4,300+ participants, 175,000+ acres treated. Provides NWCG taskbook training for Squad Boss, Engine Boss, Burn Boss, Public Information Officer, and Fire Effects Monitor positions.
+    [TREX (Prescribed Fire Training Exchanges)](https://www.nature.org/en-us/what-we-do/our-priorities/protect-water-and-land/land-and-water-stories/fire-training-exchanges-expand-controlled-burns/){target=_blank} - 150+ events since 2009, 4,300+ participants, 175,000+ acres treated. Provides NWCG taskbook training for Squad Boss, Engine Boss, Burn Boss, Public Information Officer, and Fire Effects Monitor positions.
 
     [Fire Learning Network](https://www.conservationgateway.org/ConservationPractices/FireLandscapes/FireLearningNetwork/Pages/fire-learning-network.aspx){target=_blank} - 47 landscapes nationwide since 2002 in cooperation with federal agencies, promoting landscape-scale prescribed fire.
 

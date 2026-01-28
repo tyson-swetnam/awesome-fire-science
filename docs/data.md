@@ -22,6 +22,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 ## :simple-bookstack: Books and :material-file-document-multiple-outline: Technical Reports
 
+[:material-fire: Fire Library](https://firelibrary.org/){target=_blank} - Comprehensive digital library of wildland fire research, technical reports, and publications
+
 [:material-file-document-multiple-outline: Rocky Mountain Research Station General Technical Reports](https://www.fs.usda.gov/rmrs/publications/series/general-technical-reports){target=_blank}
 
 [Current International Perspectives on Wildland Fires, Mankind and the Environment](https://www.google.com/books/edition/Current_International_Perspectives_on_Wi/cn-zrQEACAAJ?hl=en){target=_blank}
@@ -52,6 +54,8 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires){target=_blank} - Access wildfire data, live feeds, technology, and resources
 
+[ezESRI Directory](https://www.ezesri.com/directory){target=_blank} - Comprehensive directory of ESRI and ArcGIS resources, applications, and data portals
+
 [Global Fire Emissions Database](https://www.globalfiredata.org/index.html){target=_blank}
 
 [:material-fire: InciWeb (USA)](https://inciweb.nwcg.gov/){target=_blank} - is an interagency all-risk incident information management system.
@@ -72,7 +76,9 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
 
-* [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires. 
+* [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires.
+
+* [North American Tree Ring Fire Scar Network](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=noaa-fire-34853){target=_blank} - NOAA database of tree ring fire scar data for North America
 
 [USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6){target=_blank} - Spatial wildfire occurrence data for the United States, 1992-2020
 
@@ -144,7 +150,11 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 
 [3DEP](https://usgs.entwine.io/){target=_blank} - USGS 3DEP lidar point clouds on AWS
 
+[USGS Lidar Explorer](https://usgs-lidar.gishub.org/){target=_blank} - Interactive web application for exploring and downloading USGS 3DEP lidar data
+
 [LANDFIRE](https://landfire.gov/version_alerts.php){target=_blank} - geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
+
+[Landscape Explorer](https://www.landscapeexplorer.org/){target=_blank} - Interactive geospatial visualization and data exploration tool for landscape analysis
 
 [Microsoft Building Footprints](https://www.microsoft.com/en-us/maps/building-footprints){target=_blank} - building footprints identified using ML/AI for the entire planet. 
 
@@ -157,6 +167,10 @@ Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principl
 [Dead Trees Earth](https://deadtrees.earth/){target=_blank} - tree mortality data
 
 [eBird](https://ebird.org/science/use-ebird-data){target=_blank} - citizen science for ornithology
+
+[USFS Fire and Tree Mortality Database](https://research.fs.usda.gov/firelab/products/dataandtools/fire-and-tree-mortality-database){target=_blank} - USDA Forest Service database linking fire effects to tree mortality
+
+[USFS RMRS Understanding Post-Fire Tree Mortality](https://research.fs.usda.gov/rmrs/products/dataandtools/understanding-post-fire-tree-mortality-resources-research){target=_blank} - Rocky Mountain Research Station resources and research on post-fire tree mortality
 
 [EcoSML](https://ecosml.org/){target=_blank} - NASA supported Ecological Spectral Model Library (EcoSML), a useful tool for finding spectral models.
 
