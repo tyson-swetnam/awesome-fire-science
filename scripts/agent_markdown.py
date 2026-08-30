@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Copy source markdown into the built site and generate llms.txt.
+"""Copy source markdown into the built site; generate llms.txt and llms-full.txt.
 
 Makes the site agent-ready: every rendered page at <site_url>/<path>/ has
-its raw markdown source served at <site_url>/<path>.md, and /llms.txt
-(https://llmstxt.org/) indexes them for AI agents.
+its raw markdown source served at <site_url>/<path>.md, /llms.txt
+(https://llmstxt.org/) indexes them for AI agents, and /llms-full.txt
+holds the full markdown content of every page in one file.
 
 Run from the repo root after `zensical build`:
     python3 scripts/agent_markdown.py
@@ -60,6 +61,17 @@ lines = [
 ]
 for rel, title in sorted(entries, key=lambda e: e[0]):
     lines.append(f"- [{title}]({site_url}/{rel})")
+lines.append("")
+lines.append(f"Full content of every page in one file: {site_url}/llms-full.txt")
 with open(os.path.join(SITE, "llms.txt"), "w", encoding="utf-8") as f:
     f.write("\n".join(lines) + "\n")
-print(f"agent_markdown: copied {len(entries)} markdown files, wrote llms.txt")
+
+full = [f"# {name}", "", f"> {desc}", "",
+        "Full markdown content of every page on this site.", ""]
+for rel, title in sorted(entries, key=lambda e: e[0]):
+    with open(os.path.join(DOCS, rel), encoding="utf-8") as fh:
+        content = fh.read().rstrip()
+    full += ["-" * 72, "", f"## {title}", f"URL: {site_url}/{rel}", "", content, ""]
+with open(os.path.join(SITE, "llms-full.txt"), "w", encoding="utf-8") as f:
+    f.write("\n".join(full) + "\n")
+print(f"agent_markdown: copied {len(entries)} markdown files, wrote llms.txt and llms-full.txt")
