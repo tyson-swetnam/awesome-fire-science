@@ -29,6 +29,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Build with Zensical
         run: zensical build
+      - name: Add agent-readable markdown and llms.txt
+        run: python3 scripts/agent_markdown.py
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
