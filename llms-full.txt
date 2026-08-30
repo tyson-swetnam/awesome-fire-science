@@ -1,0 +1,2329 @@
+# Awesome-Fire-Science
+
+> Awesome List of Fire Science Tools
+
+Full markdown content of every page on this site.
+
+------------------------------------------------------------------------
+
+## :material-robot: AI & Productivity Tools
+URL: https://tyson-swetnam.github.io/awesome-fire-science/ai-tools.md
+
+# :material-robot: AI & Productivity Tools
+
+AI assistants and productivity tools can enhance research workflows, automate repetitive tasks, and accelerate data analysis. This page covers general-purpose AI tools, productivity software, and specialized geospatial AI models relevant to wildland fire science.
+
+??? Tip "Important: Privacy & Security"
+    Always check your agency or institution's IT policy before using AI tools with work data. Do not upload sensitive, proprietary, or confidential information to public AI services. Verify all AI-generated outputs for accuracy and do not rely on them without validation.
+
+## :fontawesome-brands-openai: Generative AI Assistants
+
+General-purpose large language models (LLMs) that can assist with code generation, data analysis, writing, and research tasks.
+
+[:fontawesome-brands-openai: ChatGPT](https://chat.openai.com){target=_blank} - OpenAI's conversational AI with advanced reasoning capabilities, code generation, and creative writing. 🆓 Free tier available, 💰 $20/mo Plus with GPT-4 and extended capabilities.
+
+[:simple-anthropic: Claude](https://claude.ai){target=_blank} - Anthropic's AI assistant with 200k token context window, excellent for long document analysis, research synthesis, and technical writing.
+
+[:simple-google: Google Gemini](https://gemini.google.com){target=_blank} - Google's multimodal AI with deep integration into Google Workspace, supporting text, image, and data analysis.
+
+[:material-microsoft: Microsoft Copilot](https://copilot.microsoft.com){target=_blank} - Microsoft's AI assistant integrated into Windows, Edge browser, and Office 365 applications.
+
+[:material-magnify: Perplexity](https://www.perplexity.ai){target=_blank} - AI-powered search engine that provides sourced answers with citations, useful for research and fact-checking.
+
+### Fire Science-Specific AI Applications
+
+As AI tools continue to evolve, watch for specialized applications in wildland fire science. Current examples include:
+
+[:material-brain: Allen AI Wildlands](https://allenai.org/wildlands){target=_blank} - AI research initiative focused on wildfire prediction, detection, and management using machine learning.
+
+[:material-wifi: WIFIRE Firemap](https://wifire.ucsd.edu/firemap){target=_blank} - Near real-time fire mapping using AI and satellite imagery.
+
+## :material-briefcase: Productivity & Automation Tools
+
+### :material-microsoft: Microsoft Office 365 & Copilot
+
+[:material-microsoft: Microsoft 365](https://www.microsoft.com/microsoft-365){target=_blank} - Enterprise productivity suite with AI capabilities.
+
+* [:material-microsoft-word: Word Copilot](https://www.microsoft.com/microsoft-365/word){target=_blank} - AI writing assistance, document drafting, and editing suggestions
+* [:material-microsoft-excel: Excel Copilot](https://www.microsoft.com/microsoft-365/excel){target=_blank} - Data analysis, formula generation, and chart creation
+* [:material-microsoft-powerpoint: PowerPoint Copilot](https://www.microsoft.com/microsoft-365/powerpoint){target=_blank} - Slide design, content generation, and presentation creation
+* [:material-microsoft-outlook: Outlook Copilot](https://www.microsoft.com/microsoft-365/outlook){target=_blank} - Email drafting, scheduling, and inbox management
+
+### :simple-google: Google Workspace & Gemini
+
+[:simple-google: Google Workspace](https://workspace.google.com){target=_blank} - Cloud-based productivity suite with integrated AI.
+
+* [:simple-googledocs: Docs](https://docs.google.com){target=_blank} - Collaborative writing with AI assistance
+* [:simple-googlesheets: Sheets](https://sheets.google.com){target=_blank} - Spreadsheet analysis with Gemini integration
+* [:simple-googleslides: Slides](https://slides.google.com){target=_blank} - Presentation creation with AI-powered design
+* [:simple-gmail: Gmail](https://mail.google.com){target=_blank} - Smart compose and email organization
+
+### :octicons-code-24: Automation & Scripting
+
+[:simple-anthropic: Claude Desktop](https://claude.ai/download){target=_blank} - Desktop app with extended context, file analysis, and MCP (Model Context Protocol) integration for connecting to local tools and data sources. 🆓 Free tier available.
+
+[:octicons-copilot-24: GitHub Copilot](https://github.com/features/copilot){target=_blank} - AI pair programmer that suggests code completions and entire functions. 💰 $10/mo individual, free for students and educators.
+
+[:material-cursor-default-click: Cursor](https://cursor.sh){target=_blank} - AI-first code editor built on VS Code with intelligent code generation and chat interface.
+
+[:material-lightning-bolt: Zapier](https://zapier.com){target=_blank} - Workflow automation connecting 5,000+ apps, from simple triggers to complex multi-step workflows.
+
+[:material-microsoft: Power Automate](https://powerautomate.microsoft.com){target=_blank} - Microsoft's automation platform for creating workflows across Office 365 and other services.
+
+[:material-connection: IFTTT](https://ifttt.com){target=_blank} - "If This Then That" automation for connecting web services, smart home devices, and apps.
+
+### :material-note-text: Note-Taking & Knowledge Management
+
+[:simple-notion: Notion AI](https://notion.so){target=_blank} - All-in-one workspace with AI writing assistant, database management, and project tracking.
+
+[:simple-obsidian: Obsidian](https://obsidian.md){target=_blank} - Local-first markdown note-taking with powerful linking, plugins, and AI integrations.
+
+[:simple-google: NotebookLM](https://notebooklm.google){target=_blank} - Google's AI research assistant that can analyze uploaded documents and generate insights.
+
+[:material-brain: Mem](https://mem.ai){target=_blank} - AI-powered note-taking that automatically organizes and surfaces relevant information.
+
+## :material-microphone: Voice & Transcription
+
+[:fontawesome-solid-otter: Otter.ai](https://otter.ai){target=_blank} - Real-time meeting transcription with speaker identification and searchable notes. 🆓 Free tier with 300 monthly minutes.
+
+[:wind_blowing_face: Whisper](https://openai.com/research/whisper){target=_blank} - OpenAI's open-source speech recognition model with high accuracy across languages.
+
+[:material-waveform: Descript](https://www.descript.com){target=_blank} - Audio/video editing with automatic transcription, overdub voice synthesis, and collaborative editing.
+
+## :material-earth: AI for Geospatial & Remote Sensing
+
+### :material-satellite-variant: Foundation Models for Earth Observation
+
+[:material-satellite-variant: MOSAIKS](https://www.mosaiks.org/){target=_blank} - is a system that allows users to quickly transform vast amounts of imagery into maps of new variables, using their own training data.
+
+[:material-satellite-variant: Prithvi](https://huggingface.co/ibm-nasa-geospatial){target=_blank} - IBM-NASA geospatial foundation model trained on NASA satellite imagery for various Earth science tasks.
+
+[:material-earth: Clay](https://clay-foundation.github.io/model){target=_blank} - Open-source foundation model for Earth observation with temporal and multi-modal capabilities.
+
+[:material-vector-polygon: Segment Anything (SAM)](https://segment-anything.com){target=_blank} - Meta's foundation model for image segmentation, applicable to satellite imagery analysis.
+
+[:material-vector-polygon: SAM-Adapter](https://github.com/tianrun-chen/SAM-Adapter-PyTorch){target=_blank} - Adaptation of Segment Anything Model specifically for remote sensing applications.
+
+### :material-map: AI-Powered GIS Tools
+
+[:simple-esri: Esri GeoAI](https://www.esri.com/en-us/arcgis/products/arcgis-geoai){target=_blank} - ArcGIS integrated AI/ML tools for spatial analysis, image classification, and predictive modeling.
+
+[:material-layers: Picterra](https://picterra.ch){target=_blank} - Cloud-based AI platform for geospatial object detection with custom model training.
+
+[:material-grid: Azavea Raster Vision](https://rastervision.io){target=_blank} - Open-source framework for deep learning on satellite and aerial imagery.
+
+[:simple-pytorch: TorchGeo](https://torchgeo.readthedocs.io){target=_blank} - PyTorch library for geospatial data with pre-trained models and datasets for remote sensing.
+
+### :material-fire: Wildfire-Specific ML Models
+
+[:material-wifi: WIFIRE Firemap](https://wifire.ucsd.edu/firemap){target=_blank} - Near real-time wildfire detection and mapping using satellite imagery and machine learning.
+
+[:material-fire: FireCast](https://pyregence.org/firecast){target=_blank} - Pyregence's ML-powered fire behavior forecasting system for California.
+
+[:material-pine-tree-fire: Stanford Next Day Wildfire Spread](https://stanfordmlgroup.github.io/projects/next-day-wildfire-spread){target=_blank} - Deep learning model for predicting next-day wildfire spread using weather and terrain data.
+
+[:simple-github: HPWREN SmokeyNet](https://github.com/DesAnshuJoshi/HPWREN-Wildfire-Smoke-Dataset){target=_blank} - Wildfire smoke detection using HPWREN camera network and convolutional neural networks.
+
+## Additional Resources
+
+[:material-school: AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth){target=_blank} - Microsoft's program providing cloud computing resources and AI tools for environmental research.
+
+[:simple-google: Google Earth Engine](https://earthengine.google.com){target=_blank} - Cloud-based planetary-scale geospatial analysis with integrated ML capabilities (see also [Computing](cyberinfrastructure.md)).
+
+[:simple-kaggle: Kaggle](https://www.kaggle.com/search?q=wildfire){target=_blank} - Datasets, competitions, and notebooks related to wildfire prediction and analysis.
+
+------------------------------------------------------------------------
+
+## :material-account-group: Community & Collaboration
+URL: https://tyson-swetnam.github.io/awesome-fire-science/community.md
+
+# :material-account-group: Community & Collaboration
+
+Connect with wildland fire science communities, discussion forums, professional networks, and collaborative platforms.
+
+## :material-forum: Discussion Forums
+
+[:material-fire: Wildland Fire Lessons Learned Center](https://wildfirelessons.net){target=_blank} - Forum for sharing experiences, lessons learned, and best practices in wildland fire management.
+
+[:simple-reddit: r/Wildfire](https://www.reddit.com/r/Wildfire){target=_blank} - Reddit community for wildland firefighters, managers, and researchers. Active discussions on current incidents, careers, and policy.
+
+[:simple-reddit: r/GIS](https://www.reddit.com/r/gis){target=_blank} - GIS professionals community with frequent fire-related geospatial discussions and technical support.
+
+[:simple-reddit: r/RemoteSensing](https://www.reddit.com/r/RemoteSensing){target=_blank} - Satellite imagery analysis, Earth observation, and remote sensing science discussions.
+
+[:simple-reddit: r/FireEcology](https://www.reddit.com/r/FireEcology){target=_blank} - Academic and scientific discussions on fire ecology, prescribed burning, and fire management.
+
+[:material-stack-overflow: GIS StackExchange](https://gis.stackexchange.com){target=_blank} - Q&A site for GIS professionals with excellent technical support for geospatial analysis.
+
+## :material-slack: Slack & Discord Communities
+
+[:material-slack: QGIS Community](https://qgis.org/en/site/getinvolved/index.html){target=_blank} - Slack workspace for QGIS users and developers with channels for technical support and plugin development.
+
+[:material-slack: Pangeo](https://pangeo.io/meeting-notes.html){target=_blank} - Community workspace for big data geoscience, cloud computing, and Python-based Earth science analysis.
+
+[:material-slack: Software Underground (SWUNG)](https://softwareunderground.org){target=_blank} - Slack community for geoscientists who code, covering Python, remote sensing, and data science.
+
+[:simple-discord: Earth Science Discord](https://discord.gg/earth-science){target=_blank} - Discord server for Earth science discussions, including fire science, meteorology, and geology.
+
+[:material-slack: Remote Sensing Community](https://www.grss-ieee.org){target=_blank} - IEEE Geoscience and Remote Sensing Society community channels and working groups.
+
+[:material-slack: Open Science Community](https://opensciencemooc.eu){target=_blank} - Slack workspace focused on open science practices, reproducibility, and FAIR data.
+
+## :simple-x: Social Media & Twitter/X
+
+### Key Hashtags
+
+- **#FireTwitter** - Real-time wildfire updates, incident photos, and community discussion
+- **#WildlandFire** - Professional fire management and science discussions
+- **#GISChat** - Geographic information systems and mapping
+- **#RemoteSensing** - Satellite imagery and Earth observation
+- **#FireWeather** - Meteorological conditions affecting fire behavior
+- **#PrescribedFire** - Prescribed burning and cultural fire practices
+- **#FireEcology** - Ecological research and fire effects
+
+### BlueSky Networks
+
+[:simple-bluesky: BlueSky Fire Science Community](https://bsky.app){target=_blank} - Growing community of fire scientists, managers, and researchers migrating from Twitter/X.
+
+**Key Hashtags:**
+
+- [**#FireScience**](https://bsky.app/search?q=%23FireScience){target=_blank} - Fire research and management discussions
+- [**#WildlandFire**](https://bsky.app/search?q=%23WildlandFire){target=_blank} - Professional fire management community
+- [**#FireWeather**](https://bsky.app/search?q=%23FireWeather){target=_blank} - Meteorological conditions and forecasting
+- [**#PrescribedFire**](https://bsky.app/search?q=%23PrescribedFire){target=_blank} - Prescribed burning and cultural fire practices
+
+**Organizations on BlueSky:**
+
+- Many fire science organizations and researchers are establishing presence on BlueSky
+- Search for fire-related hashtags and starter packs to find relevant accounts
+- Follow researchers and agencies as they migrate to the platform
+
+### Instagram & Visual Storytelling
+
+[:simple-instagram: Instagram](https://www.instagram.com){target=_blank} - Visual platform featuring fire photography, incident documentation, and behind-the-scenes firefighting stories.
+
+**Fire Photographers & Journalists:**
+
+[:simple-instagram: @stuartpalley](https://www.instagram.com/stuartpalley){target=_blank} - Award-winning photographer documenting wildfires across the American West, known for long-exposure fire imagery.
+
+**Key Hashtags:**
+
+- [**#WildlandFire**](https://www.instagram.com/explore/search/keyword/?q=%23wildlandfire){target=_blank} - General wildland fire content
+- [**#Wildfire**](https://www.instagram.com/explore/search/keyword/?q=%23wildfire){target=_blank} - Active incident coverage
+- [**#FirePhotography**](https://www.instagram.com/explore/search/keyword/?q=%23firephotography){target=_blank} - Fire imagery and documentation
+- [**#Firefighters**](https://www.instagram.com/explore/search/keyword/?q=%23firefighters){target=_blank} - Firefighter stories and operations
+- [**#Hotshots**](https://www.instagram.com/explore/search/keyword/?q=%23hotshots){target=_blank} - Hotshot crews and elite wildland firefighting teams
+- [**#PrescribedBurn**](https://www.instagram.com/explore/search/keyword/?q=%23prescribedburn){target=_blank} - Prescribed fire operations
+- [**#FireSeason**](https://www.instagram.com/explore/search/keyword/?q=%23fireseason){target=_blank} - Seasonal fire activity and preparedness
+
+### Threads by Meta
+
+[:simple-threads: Threads](https://www.threads.net){target=_blank} - Text-based social platform from Meta, integrated with Instagram, featuring real-time fire discussions and updates.
+
+**Features:**
+
+- Real-time incident updates from photographers and journalists
+- Integration with Instagram accounts for cross-platform following
+- Growing community of fire professionals and researchers
+- Thread discussions on fire policy, management, and science
+
+**Key Topics:**
+
+- Follow Instagram fire photographers and agencies who cross-post to Threads
+- Real-time incident commentary and analysis
+- Fire weather discussions and forecasts
+- Policy and management debates
+
+## :material-calendar-month: Conferences & Events
+
+### Annual Conferences
+
+[:material-fire: International Association of Wildland Fire (IAWF)](https://www.iawfonline.org/events){target=_blank} - International Wildland Fire Conference held every 4 years, plus regional symposia.
+
+[:material-tree: Association for Fire Ecology (AFE)](https://fireecology.org){target=_blank} - International Fire Ecology & Management Congress, biennial conference on fire science.
+
+[:simple-esri: Esri User Conference](https://www.esri.com/en-us/about/events/uc){target=_blank} - Annual conference for GIS professionals with wildland fire application tracks.
+
+[:material-earth: American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/fall-meeting){target=_blank} - Major Earth science conference with fire-related sessions on remote sensing, climate, and ecology.
+
+[:material-earth: Ecological Society of America (ESA)](https://www.esa.org/events){target=_blank} - Annual meeting with fire ecology sessions and workshops.
+
+[:material-satellite-variant: IEEE International Geoscience and Remote Sensing Symposium (IGARSS)](https://www.igarss2024.org){target=_blank} - Premier remote sensing conference with Earth observation applications.
+
+### Regional & Specialized Events
+
+[:material-fire: National Fire Behavior Analyst Workshop](https://www.nwcg.gov){target=_blank} - Annual workshop for fire behavior analysts and incident management teams.
+
+[:material-pine-tree-fire: Tall Timbers Fire Ecology Conference](https://talltimbers.org){target=_blank} - Long-running conference series focused on fire ecology and management.
+
+[:material-weather-cloudy: Fire Weather Forecast Workshop](https://www.weather.gov/fire){target=_blank} - National Weather Service workshops on fire weather forecasting.
+
+## :material-school: Professional Organizations
+
+[:material-fire: International Association of Wildland Fire (IAWF)](https://www.iawfonline.org){target=_blank} - Global professional organization advancing wildland fire science and management.
+
+[:material-tree: Association for Fire Ecology (AFE)](https://fireecology.org){target=_blank} - Promotes use of fire science in management and policy decisions.
+
+[:material-pine-tree: Society of American Foresters (SAF)](https://www.eforester.org){target=_blank} - Professional organization for foresters with fire management working groups.
+
+[:material-earth: Ecological Society of America (ESA)](https://www.esa.org){target=_blank} - Professional society for ecologists with fire ecology section.
+
+[:simple-esri: URISA GIS-Pro](https://www.urisa.org){target=_blank} - Professional organization for GIS practitioners with emergency management focus.
+
+## :material-handshake: Collaborative Platforms
+
+[:simple-github: GitHub](https://github.com){target=_blank} - Code collaboration, version control, and open-source project hosting. Explore fire-related repositories.
+
+[:simple-gitlab: GitLab](https://gitlab.com){target=_blank} - Alternative to GitHub with built-in CI/CD and DevOps tools.
+
+[:simple-jupyter: Jupyter Community](https://jupyter.org/community){target=_blank} - Computational notebook community with forums, workshops, and contributor channels.
+
+[:simple-openstreetmap: OpenStreetMap](https://www.openstreetmap.org){target=_blank} - Collaborative mapping project with humanitarian response teams for disaster mapping.
+
+[:material-crowd: Zooniverse](https://www.zooniverse.org){target=_blank} - Citizen science platform hosting projects like identifying wildlife in post-fire landscapes.
+
+## :material-email: Mailing Lists & Newsletters
+
+[:material-email: FRAMES Mailing Lists](https://www.frames.gov/subscribe){target=_blank} - Fire Research and Management Exchange System newsletters and announcements.
+
+[:material-email: NASA ARSET Training Notices](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset){target=_blank} - Applied Remote Sensing Training program announcements.
+
+[:material-email: PANGEO Newsletter](https://pangeo.io){target=_blank} - Updates on cloud-native geoscience tools and community events.
+
+[:material-email: AGU Eos Newsletter](https://eos.org){target=_blank} - Earth and space science news and research highlights.
+
+## :material-newspaper: Blogs & Podcasts
+
+[:material-post: InciWeb News](https://inciweb.nwcg.gov){target=_blank} - Incident information and updates from all-risk incidents across agencies.
+
+[:material-post: Fire Science Brief](https://www.firescience.gov/Digest.cfm){target=_blank} - Digestible summaries of fire science research from the Joint Fire Science Program.
+
+[:material-microphone: Nature Podcast](https://www.nature.com/nature/articles?type=nature-podcast){target=_blank} - Science news including occasional fire and climate episodes.
+
+[:material-microphone: AGU Podcast](https://www.agu.org/learn-and-develop/learn/podcasts){target=_blank} - Earth and space science storytelling and research highlights.
+
+## :material-book-open: Working Groups & Committees
+
+[:material-fire: NWCG Data Management Committee](https://www.nwcg.gov/committees/data-management-committee){target=_blank} - National Wildfire Coordinating Group data standards and systems.
+
+[:material-earth: GOFC-GOLD Fire Implementation Team](https://www.fao.org/gtos/gofc-gold/fire-it){target=_blank} - Global fire monitoring and information systems coordination.
+
+[:material-satellite-variant: CEOS Working Group on Calibration & Validation](https://lpvs.gsfc.nasa.gov/){target=_blank} - Satellite data validation including burned area products.
+
+[:material-pine-tree-fire: Joint Fire Science Program (JFSP)](https://www.firescience.gov){target=_blank} - Funds and coordinates fire science research across agencies.
+
+## :material-hand-heart: Contributing to Open Science
+
+Many fire science tools and datasets are open source and welcome contributions:
+
+- Report bugs and request features via GitHub Issues
+- Contribute code, documentation, or tutorials
+- Share your datasets and workflows
+- Peer review open manuscripts on platforms like PREreview
+- Participate in hackathons and code sprints
+- Answer questions on forums and StackExchange
+- Organize or present at local user groups and meetups
+
+See [Getting Started](getting-started.md) for pathways to participate in collaborative fire science!
+
+------------------------------------------------------------------------
+
+## :octicons-cloud-24: Computing
+URL: https://tyson-swetnam.github.io/awesome-fire-science/cyberinfrastructure.md
+
+# :octicons-cloud-24: Computing
+
+??? Tip "Why use the Cloud?"
+
+    Big data are now a critical and valuable tool that can be used in wildland fire science. Working with big data require that you refocus your work on "the Cloud". "Data-proximate computing" means moving your work onto the cloud, both the data and the analyses, using "analysis-ready data" in "cloud optimized" formats. - [Abernathy et al. 2021](https://doi.org/10.1109/MCSE.2021.3059437){target=_blank}
+
+    "Cyberinfrastructure" is a term used in academic settings to describe computational resources. 
+
+    The "Cloud" is now the dominant paradigm for working with computational big data. The cyberinfrastructure term also includes specialized high throughput and high performance computing (HTC/HPC) resources which are commonly found at large government labs and research universities. 
+
+### Development Environments (Sandboxes)
+
+??? Tip "What is a Dev Environment?"
+    
+    Development Environments are virtual machines which use containers to give users a fresh software environment on-demand. The following list are 'starter' level services which offer limited compute resources for limited amounts of time. These can all be expanded with paid license agreements.
+
+[:simple-googlecolab: Colab](https://colab.research.google.com/){target=_blank} - Google's CoLaboratory starts a Jupyter Notebook, limited in size but can be increased with subscription.                
+
+[:octicons-codespaces-24: CodeSpaces](https://github.com/features/codespaces){target=_blank} - GitHub's CodeSpaces starts a VS Code instance from a GitHub Repository which can be variabily sized (requires subscription)      
+
+[:simple-gitpod: GitPod](https://www.gitpod.io/){target=_blank} - starts a VS Code instance that can be variably sized 
+
+[:material-notebook: MyBinder.org](https://mybinder.org/){target=_blank} - starts a defined environment (RStudio, Jupyter, VS Code) from a GitHub Repository, limited in size.   
+
+### Commercial Clouds 
+
+[:material-microsoft-azure: Azure](https://www.microsoft.com/en-us/education/higher-education/academic-research){target=_blank} - free credits for research on Microsoft Azure
+
+[:material-google-cloud: Google Cloud](https://edu.google.com/programs/credits/research/?modal_active=none){target=_blank} - free credits for research on Google Cloud
+
+[:material-aws: AWS](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/){target=_blank} - free credits for research on Amazon Web Services
+
+### :material-layers-triple-outline: CyberGIS
+
+There are numerous platforms available online for running computaitonal analyses (models), or for viewing public data sets.
+
+#### :simple-googleearth: Google Earth Engine
+
+All major Earth Observation System (EOS) datasets (e.g. ESA, NASA) are available on commercial cloud 
+
+[:simple-googleearth: Google Earth Engine](https://earthengine.google.com/){target=_blank} is the most widel used cyberGIS for analysing EOS data. 
+
+#### :material-microsoft: Microsoft Planetary Computer
+
+Microsoft has just launched a sort-of-competitor to GEE called [Planetary Computer](https://planetarycomputer.microsoft.com/){target=_blank}. Planetary Computer runs on Microsoft Azure using a JupyterHub with PANGEO software.
+
+#### :material-earth: Earthmover
+
+[:material-earth: Earthmover](https://earthmover.io/){target=_blank} is a cloud-native platform purpose-built for tensor data, geospatial data cubes, and scientific AI. Designed for climate and weather analytics with scalable, high-performance data infrastructure optimized for large multidimensional datasets.
+
+### Public Clouds
+
+Existing investments in research cyberinfrastructure are available for free to all US based researchers. These resources can be used by non-US researchers under certain conditions. 
+
+[ACCESS](https://access-ci.org/){target=_blank} - NSF supported cyberinfrastructure network (HPC, HTC, research clouds)
+
+[Jetstream2](https://jetstream-cloud.org/){target=_blank} - NSF supported cyberinfrastructure (cloud), managed through ACCESS
+
+[CyVerse](https://cyverse.org){target=_blank} - NSF supported cyberinfrastructure for life sciences
+
+#### Public Workbenches
+
+[CyberGIS](https://cybergis.illinois.edu/){target=_blank} - HPC and Cloud service for geospatial data anlayses
+
+[CyVerse Discovery Environment](https://de.cyverse.org/){target=_blank} - multi-platform service for full-stack cloud data management 
+
+[DesignSafe CI](https://www.designsafe-ci.org/){target=_blank} - workbench for natural hazards research. 
+
+[HydroShare](https://www.hydroshare.org/){target=_blank} - platform for hydrological science applications supported by CUAHSI 
+
+[OSF.io](https://osf.io/){target=_blank} - is a free, open source web application that connects and supports the research workflow, enabling scientists to increase the efficiency and effectiveness of their research.
+
+[WIFIRE](https://wifire.ucsd.edu/){target=_blank} - cyberinfrastructure tools running at UC San Diego Supercomputer Center, register for account.
+
+# Broadband Internet
+
+Initiatives around improving rural broadband in the USA will bring the internet increasingly into the wildland fire space. The [Broadband Equity, Access, and Deployment (BEAD) Program](https://www.internetforall.gov/program/broadband-equity-access-and-deployment-bead-program){target=_blank} provides $42.45 Billion to expand high-speed Internet access by funding planning, infrastructure deployment and adoption programs in all 50 states, Washington D.C., Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+[:simple-atandt: FirstNet](https://www.firstnet.com/){target=_blank} - nationwide network dedicated to public safety is ready to help law enforcement, fire service, and EMS do their jobs safely and effectively.
+
+# Satellite Internet
+
+[:simple-spacex: StarLink](https://www.starlink.com/rv){target=_blank} - the world's first and largest low Earth orbit satellite constellation to deliver internet.
+
+[:material-aws: AWS Kuiper](https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper){target=_blank} - Amazon Web Services (AWS) are launching their own low Earth orbit internet satellite constellation.
+
+------------------------------------------------------------------------
+
+## :material-database-cog: Data Management
+URL: https://tyson-swetnam.github.io/awesome-fire-science/data-management.md
+
+# :material-database-cog: Data Management
+
+Tools and practices for organizing, storing, backing up, and sharing research data in wildland fire science.
+
+## :material-cloud-upload: Cloud Storage
+
+[:material-microsoft: OneDrive](https://www.microsoft.com/microsoft-365/onedrive){target=_blank} - Microsoft's cloud storage with Office 365 integration. 🆓 5GB free, 💰 1TB with Microsoft 365 subscription.
+
+[:simple-googledrive: Google Drive](https://www.google.com/drive){target=_blank} - Cloud storage with Google Workspace integration. 🆓 15GB free, 💰 100GB+ paid plans.
+
+[:simple-dropbox: Dropbox](https://www.dropbox.com){target=_blank} - Cloud storage with strong sync capabilities and file versioning. 🆓 2GB free, 💰 2TB+ paid plans.
+
+[:simple-box: Box](https://www.box.com){target=_blank} - Enterprise cloud storage with advanced security and compliance features. 💰 Paid plans, free accounts for some educational institutions.
+
+[:simple-nextcloud: Nextcloud](https://nextcloud.com){target=_blank} - Self-hosted open-source cloud storage and collaboration platform. 🆓 Free (self-hosted).
+
+## :material-backup-restore: Backup Solutions
+
+[:material-cloud-sync: Backblaze](https://www.backblaze.com){target=_blank} - Unlimited cloud backup for computers with automatic continuous backup. 💰 $7/mo per computer.
+
+[:material-backup-restore: Arq Backup](https://www.arqbackup.com){target=_blank} - Backup software that stores to your choice of cloud provider (AWS, Google Cloud, etc.). 💰 $50 one-time + cloud storage costs.
+
+[:simple-duplicati: Duplicati](https://www.duplicati.com){target=_blank} - Free open-source backup software supporting multiple cloud storage backends. 🆓 Free.
+
+[:material-harddisk: Time Machine (macOS)](https://support.apple.com/en-us/HT201250){target=_blank} - Built-in macOS backup to external drives. 🆓 Free with macOS.
+
+[:material-content-copy: Acronis Cyber Protect](https://www.acronis.com){target=_blank} - Enterprise backup and recovery with ransomware protection. 💰 Paid plans.
+
+??? Tip "3-2-1 Backup Rule"
+    Keep **3** copies of your data, on **2** different types of media, with **1** copy offsite. This protects against hardware failure, disasters, and accidental deletion. Critical research data should always follow this rule.
+
+## :material-file-send: Large File Transfer
+
+[:material-fast-forward: Globus](https://www.globus.org){target=_blank} - High-performance file transfer for research data, optimized for large datasets and institutional repositories. 🆓 Free for researchers.
+
+[:material-upload: WeTransfer](https://wetransfer.com){target=_blank} - Send files up to 2GB free, 200GB with Pro. Simple browser-based transfer. 🆓 Free up to 2GB, 💰 Pro for larger files.
+
+[:material-share: Send Anywhere](https://send-anywhere.com){target=_blank} - Direct device-to-device file transfer without cloud storage. 🆓 Free with limits, 💰 paid plans.
+
+[:simple-dropbox: Dropbox Transfer](https://www.dropbox.com/transfer){target=_blank} - Send up to 2GB free, 100GB with paid plans, files expire after set time. 💰 Paid plans for large files.
+
+[:material-folder-network: Aspera](https://www.ibm.com/products/aspera){target=_blank} - Ultra-fast file transfer for scientific data, used by NASA and other agencies. 💰 Enterprise licensing.
+
+## :material-database-edit: Metadata & Documentation
+
+[:material-image-album: Tropy](https://tropy.org){target=_blank} - Research photo management with metadata organization for field photos and historical documents. 🆓 Free.
+
+[:simple-zotero: Zotero](https://www.zotero.org){target=_blank} - Reference manager with PDF storage and annotation, excellent for research papers. 🆓 Free with 300MB storage, 💰 paid storage plans.
+
+[:simple-mendeley: Mendeley](https://www.mendeley.com){target=_blank} - Reference manager with collaboration features and built-in PDF reader. 🆓 Free with 2GB storage.
+
+[:simple-obsidian: Obsidian](https://obsidian.md){target=_blank} - Local-first markdown note-taking with linking for building personal knowledge bases. 🆓 Free, 💰 optional cloud sync.
+
+[:simple-notion: Notion](https://www.notion.so){target=_blank} - All-in-one workspace for notes, databases, and project management. 🆓 Free personal use, 💰 team plans.
+
+[:material-file-document-outline: README Files](https://www.makeareadme.com){target=_blank} - Best practices for documenting code and data with README files in your repositories.
+
+## :material-shield-check: Data Repositories & Archiving
+
+[:simple-zenodo: Zenodo](https://zenodo.org){target=_blank} - General-purpose open repository for research data, software, and publications with DOI assignment. 🆓 Free, up to 50GB per dataset.
+
+[:simple-figshare: Figshare](https://figshare.com){target=_blank} - Research data repository with visualizations, unlimited public storage. 🆓 Free public storage.
+
+[:material-dna: Dryad](https://datadryad.org){target=_blank} - Curated repository for scientific datasets, often required by journals. 💰 Submission fees apply.
+
+[:simple-osf: Open Science Framework (OSF)](https://osf.io){target=_blank} - Free project management and data sharing for research with DOI minting. 🆓 Free.
+
+[:simple-github: GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github){target=_blank} - Version and archive code with DOI integration via Zenodo. 🆓 Free for public repositories.
+
+[:material-database: Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org){target=_blank} - Repository for ecological and environmental research data. 🆓 Free.
+
+## :material-file-table: Data Organization Best Practices
+
+??? Tip "Folder Structure"
+    Use consistent, hierarchical folder structures:
+    ```
+    ProjectName/
+    ├── data/
+    │   ├── raw/          # Original, unmodified data
+    │   ├── processed/    # Cleaned and processed data
+    │   └── metadata/     # Data documentation
+    ├── code/             # Analysis scripts
+    ├── results/          # Outputs, figures, tables
+    ├── documents/        # Papers, reports
+    └── README.md         # Project documentation
+    ```
+
+??? Tip "File Naming Conventions"
+    Use descriptive, consistent file names with dates:
+    - Use ISO date format: `YYYYMMDD` or `YYYY-MM-DD`
+    - Avoid spaces (use underscores or hyphens): `fire_perimeter_20230615.shp`
+    - Include version numbers: `analysis_v02.py`
+    - Be descriptive: `modis_burned_area_california_2020.tif`
+
+??? Tip "Version Control"
+    Use Git for code and text files. Don't version control large binary files directly; instead use Git LFS or store in data repositories with version tags.
+
+## :material-database-export: Data Formats
+
+### Recommended Open Formats
+
+- **Tabular data**: CSV, Apache Parquet (for large datasets)
+- **Geospatial vector**: GeoJSON, GeoPackage (`.gpkg`), Shapefile (`.shp`)
+- **Geospatial raster**: GeoTIFF (`.tif`), Cloud Optimized GeoTIFF (COG), NetCDF (`.nc`)
+- **Point clouds**: LAS, LAZ (compressed)
+- **Documents**: Markdown (`.md`), plain text (`.txt`), PDF/A (archival)
+- **Images**: JPEG, PNG, TIFF (uncompressed for archival)
+
+### Avoid Proprietary Formats When Possible
+
+While software like Excel (`.xlsx`) and ArcGIS (`.mxd`, `.lyrx`) are common, save copies in open formats for long-term accessibility and interoperability.
+
+## :material-lock: Data Security & Privacy
+
+??? Tip "Sensitive Data"
+    - Never commit passwords, API keys, or credentials to Git repositories
+    - Use `.gitignore` to exclude sensitive files
+    - Encrypt sensitive data at rest and in transit
+    - Follow institutional IRB and data protection policies
+    - Check FAIR and CARE data principles for ethical sharing
+
+??? Tip "License Your Data"
+    Apply open licenses to your data and code:
+    - **Creative Commons (CC BY 4.0)** for data and documents
+    - **MIT or Apache 2.0** for code
+    - **CC0 (Public Domain)** for maximum openness
+
+    See [Choose a License](https://choosealicense.com){target=_blank} for guidance.
+
+## :material-school: Training Resources
+
+[:material-book-open: FAIR Data Principles](https://www.go-fair.org/fair-principles){target=_blank} - Make data Findable, Accessible, Interoperable, Reusable.
+
+[:material-book-open: CARE Principles](https://www.gida-global.org/care){target=_blank} - Collective Benefit, Authority to Control, Responsibility, Ethics for Indigenous data.
+
+[:simple-github: Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510){target=_blank} - Practical advice for data management and reproducible research.
+
+[:material-database: Data Management Planning](https://dmptool.org){target=_blank} - Tool for creating data management plans required by funding agencies.
+
+------------------------------------------------------------------------
+
+## :octicons-database-24: Data
+URL: https://tyson-swetnam.github.io/awesome-fire-science/data.md
+
+# :octicons-database-24: Data
+
+Data should be open, and follow the [FAIR](https://www.go-fair.org/fair-principles/){target=_blank} and [CARE](https://www.go-fair.org/fair-principles/){target=_blank} data principles
+
+## :material-file-document-edit-outline: Pre-Print & :material-file-document-check-outline: Peer Reviewed Journals
+
+[:material-file-document-edit-outline: arXiv](https://arxiv.org/search/?query=wildland+fire&searchtype=all&source=header){target=_blank} - general science pre-print service (query:`wildland fire`)
+
+[:material-file-document-edit-outline: ESSOAr](https://essopenarchive.org/){target=_blank} - American Geophysical Union (AGU) pre-print service
+
+[:material-file-document-check-outline: Fire](https://www.mdpi.com/journal/fire){target=_blank}
+
+[:material-file-document-check-outline: Fire Ecology](https://fireecology.springeropen.com/){target=_blank}
+
+[:material-file-document-check-outline: International Journal of Wildland Fire](https://www.publish.csiro.au/wf){target=_blank}
+
+[:material-file-document-check-outline: Journal of Fire Science](https://journals.sagepub.com/home/jfs){target=_blank}
+
+[:material-file-document-check-outline: Nature](https://www.nature.com/search?q=wildland+fire&journal=){target=_blank} - (query:`wildland fire`)
+
+[:material-file-document-check-outline: Science](https://www.science.org/action/doSearch?AllField=wildland+fire){target=_blank} - (query:`wildland fire`)
+
+## :simple-bookstack: Books and :material-file-document-multiple-outline: Technical Reports
+
+[:material-fire: Fire Library](https://firelibrary.org/){target=_blank} - Comprehensive digital library of wildland fire research, technical reports, and publications
+
+[:material-file-document-multiple-outline: Rocky Mountain Research Station General Technical Reports](https://www.fs.usda.gov/rmrs/publications/series/general-technical-reports){target=_blank}
+
+[Current International Perspectives on Wildland Fires, Mankind and the Environment](https://www.google.com/books/edition/Current_International_Perspectives_on_Wi/cn-zrQEACAAJ?hl=en){target=_blank}
+
+[Fire ecology and management: Past Present and Future of US Forested ecosystems](https://www.srs.fs.usda.gov/compass/2022/01/13/new-book-on-fire-ecology-and-management-across-the-u-s/){target=_blank}
+
+[Fire and Ecosystems](https://www.google.com/books/edition/Fire_and_Ecosystems/Nrg-EP-1oVcC?hl=en&gbpv=0){target=_blank}
+
+[:material-book-education: Fire Effects on Ecosystems](https://www.google.com/books/edition/_/cFxtriC2EDkC?hl=en&gbpv=0){target=_blank}
+
+[:material-book-education: Fire on Earth: An Introduction](https://www.google.com/books/edition/Fire_on_Earth/iMOnAgAAQBAJ?hl=en&gbpv=0){target=_blank}
+
+[Stephen J. Pyne, Fire Historian](https://www.stephenpyne.com/works.htm){target=_blank}
+
+[Tropical Fire Ecology](https://link.springer.com/book/10.1007/978-3-540-77381-8){target=_blank}
+
+[:material-book-education: Wildland Fire Behaviour](https://www.publish.csiro.au/book/7817/){target=_blank}
+
+[:material-book-education: Wildland Fire Management for Sub-Saharan Africa](https://www.google.com/books/edition/Wildland_Fire_Management_Handbook_for_Su/WmrvZqAB2UEC?hl=en){target=_blank}
+
+## :material-layers-triple: Incident Maps / Historical Fire Atlases
+
+[:fontawesome-brands-canadian-maple-leaf: Canadian National Fire Database](https://cwfis.cfs.nrcan.gc.ca/ha/nfdb){target=_blank}
+
+[CONAFOR Fire Atlases](https://snigf.cnf.gob.mx/incendios/) - National Forestry Commission of Mexico (CONAFOR) fire statitics and fire atlases
+
+[Digital Earth Australian Hotspots](https://hotspots.dea.ga.gov.au/#/){target=_blank}
+
+[ESRI Fire Maps](https://www.esri.com/en-us/disaster-response/disasters/wildfires){target=_blank} - Access wildfire data, live feeds, technology, and resources
+
+[ezESRI Directory](https://www.ezesri.com/directory){target=_blank} - Comprehensive directory of ESRI and ArcGIS resources, applications, and data portals
+
+[Global Fire Emissions Database](https://www.globalfiredata.org/index.html){target=_blank}
+
+[:material-fire: InciWeb (USA)](https://inciweb.nwcg.gov/){target=_blank} - is an interagency all-risk incident information management system.
+
+[:simple-nasa: NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3z){target=_blank} - Fire Information for Resource Management System
+
+[National Infrared Operations](https://fsapps.nwcg.gov/nirops/){target=_blank} - USDA Forest Service National Infrared Operations (NIROPS) Unit collects infrared imagery over current wildfire incidents
+
+[National Interagency Coordination Center (NICC)](https://www.nifc.gov/nicc/){target=_blank} - is the focal point for coordinating the mobilization of resources for wildland fire and other incidents throughout the United States.
+
+[:material-fire: NIFC Statistics](https://www.nifc.gov/fire-information/statistics){target=_blank} - statistics of current and past wildfire seasons
+
+[:material-fire: NIFC Wildland Fire Data](https://data-nifc.opendata.arcgis.com/){target=_blank} - Federal interagency wildland fire maps and data for all
+
+[:material-fire: NPS Wildland Fire Risk Assessments](https://wildfire-risk-assessments-nifc.hub.arcgis.com/)
+
+[:material-fire: NPS Wildland Fire Applications](https://wildfireapps-nifc.hub.arcgis.com/) 
+
+[PaleoFire Database](https://www.paleofire.org/index.php){target=_blank} - Global paleofire databse
+
+* [International Multiproxy Paleofire Database (IMPD)](https://www.ncei.noaa.gov/products/paleoclimatology/fire-history) - paleo proxy (tree ring) data of past climate and wildfires.
+
+* [North American Tree Ring Fire Scar Network](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=noaa-fire-34853){target=_blank} - NOAA database of tree ring fire scar data for North America
+
+[USFS Fire Occurance 1990-2020](https://doi.org/10.2737/RDS-2013-0009.6){target=_blank} - Spatial wildfire occurrence data for the United States, 1992-2020
+
+[Wildfire Risk](https://wildfirerisk.org/){target=_blank} - Wildfire risk to communities, curated risk data from USFS Research.
+
+[WIFIRE Data Commons](https://wifire-data.sdsc.edu/dataset){target=_blank} - ML and AI for wildland fire datasets centered in California
+
+[Wildfire Decision Support System (WFDSS)](https://wfdss.usgs.gov/wfdss/WFDSS_Data.shtml){target=_blank} - Wildfire decision support system GIS data for fire modelling
+
+## :material-weather-partly-snowy-rainy: Weather
+
+[:fontawesome-solid-tower-cell: Ameriflux](https://ameriflux.lbl.gov/){target=_blank} - eddy covariance data
+
+[Geographic Area Coordination Centers (GACC)](https://gacc.nifc.gov/){target=_blank} - national interagency incident management coordination pages by region: 
+
+* [Alaska (AICC)](https://fire.ak.blm.gov/){target=_blank}
+
+* [Eastern Area (EACC)](https://gacc.nifc.gov/eacc/){target=_blank}
+
+* [Great Basin (GBCC)](https://gacc.nifc.gov/gbcc/){target=_blank}
+
+* [Northern California (ONCC)](https://gacc.nifc.gov/oncc/){target=_blank}
+
+* [Northern Rockies (NRCC)](https://gacc.nifc.gov/nrcc/){target=_blank}
+
+* [Northwest (NWCC)](https://gacc.nifc.gov/nwcc/){target=_blank}
+
+* [Rocky Mountain (RMCC)](https://gacc.nifc.gov/rmcc/){target=_blank}
+
+* [Southern Area (SACC)](https://gacc.nifc.gov/sacc/){target=_blank}
+
+* [Southern California (OSCC)](https://gacc.nifc.gov/oscc/){target=_blank}
+
+* [Southwest (SWCC)](https://gacc.nifc.gov/swcc/){target=_blank}
+
+[Earth Null School](https://earth.nullschool.net/){target=_blank} - dynamic vizualizations of Earth model and weather data
+
+[USGS Fire Danger Forecast](https://www.usgs.gov/fire-danger-forecast){target=_blank} 
+
+* [GACC Forecast Graphs](https://firedanger.cr.usgs.gov/apps/gacc)
+
+[National Weather Service](https://www.weather.gov/fire/){target=_blank} 
+
+[National Fire Danger Rating System](https://www.nwcg.gov/publications/pms437/fire-danger/nfdrs-system-inputs-outputs){target=_blank} 
+
+[RAMMB](https://rammb2.cira.colostate.edu/){target=_blank} - Regional and Mesoscale Meteorology Branch (RAMMB) GOES-16/17 image animations. 
+
+[Cyberinfrastructure for AI at the Edge (SAGE)](https://sagecontinuum.org/){target=_blank} - design and build a new kind of national-scale reusable cyberinfrastructure to enable AI at the edge
+
+## AI model training datasets
+
+[High Performance Wireless Research and Education Network (HPWREN)](http://hpwren.ucsd.edu/){target=_blank}
+
+* [HPWREN Fire Ignition image Library (FIgLib)](http://hpwren.ucsd.edu/HPWREN-FIgLib/){target=_blank} - sequences of wildland fire images as seen from fixed cameras at HPWREN sites
+
+* [FIgLib & SmokeyNet (Dewangan et al. 2022)](https://doi.org/10.3390/rs14041007){target=_blank}
+
+[Wildfire smoke detections](https://public.roboflow.com/object-detection/wildfire-smoke){target=_blank}
+
+[Radiant Earth ML Hub](https://mlhub.earth/){target=_blank} - cloud-based open library dedicated to Earth observation training data and models for use with machine learning algorithms.
+
+## :material-weather-rainy: Hydrology
+
+[HydroShare](https://www.hydroshare.org/){target=_blank} - CUASHI's online collaboration environment for sharing data, models, and code
+
+* [CZO](https://czo-archive.criticalzone.org/national/data/){target=_blank} - Critical Zone Observatory data (archived on HydroShare).
+
+## :material-layers-triple-outline: Geospatial Data (infrastructure, fuels, topography)
+
+[3DEP](https://usgs.entwine.io/){target=_blank} - USGS 3DEP lidar point clouds on AWS
+
+[USGS Lidar Explorer](https://usgs-lidar.gishub.org/){target=_blank} - Interactive web application for exploring and downloading USGS 3DEP lidar data
+
+[LANDFIRE](https://landfire.gov/version_alerts.php){target=_blank} - geospatial data and databases that describe vegetation, wildland fuel, and fire regimes across the United States
+
+[Landscape Explorer](https://www.landscapeexplorer.org/){target=_blank} - Interactive geospatial visualization and data exploration tool for landscape analysis
+
+[Microsoft Building Footprints](https://www.microsoft.com/en-us/maps/building-footprints){target=_blank} - building footprints identified using ML/AI for the entire planet. 
+
+[Microsoft Road Detectiions](https://github.com/microsoft/RoadDetections){target=_blank} - ML/AI identified roads for the entire planet. 
+
+[OpenTopography](https://opentopography.org/){target=_blank} - NSF supported lidar and global elevation data 
+
+## :material-bird: Environmental
+
+[Dead Trees Earth](https://deadtrees.earth/){target=_blank} - tree mortality data
+
+[eBird](https://ebird.org/science/use-ebird-data){target=_blank} - citizen science for ornithology
+
+[USFS Fire and Tree Mortality Database](https://research.fs.usda.gov/firelab/products/dataandtools/fire-and-tree-mortality-database){target=_blank} - USDA Forest Service database linking fire effects to tree mortality
+
+[USFS RMRS Understanding Post-Fire Tree Mortality](https://research.fs.usda.gov/rmrs/products/dataandtools/understanding-post-fire-tree-mortality-resources-research){target=_blank} - Rocky Mountain Research Station resources and research on post-fire tree mortality
+
+[EcoSML](https://ecosml.org/){target=_blank} - NASA supported Ecological Spectral Model Library (EcoSML), a useful tool for finding spectral models.
+
+[Environmental Data Initiative](https://environmentaldatainitiative.org/){target=_blank} - access to LTER and LTAR datasets online
+
+[National Phenology Network](https://www.usanpn.org/usa-national-phenology-network){target=_blank} - citizen science data for vegetation phenology
+
+[NEON](https://www.neonscience.org/data-samples){target=_blank} - National Ecological Observation Network (NEON) data and API
+
+[Open Forest Observatory](https://openforestobservatory.org/){target=_blank} - open-source forest structure data from lidar and photogrammetry
+
+[:rat: NeotomaDB](https://www.neotomadb.org/data){target=_blank} - *Neotoma* paleo ecology database
+
+[:coral: National Centers for Environmental Information (NCEI) Paleo Data Search](https://www.ncdc.noaa.gov/paleo-search/){target=_blank} - NCEI offers search and download of Paleoclimatic proxy data and Paleoclimate Reconstructions from the NOAA/World Data Service for Paleoclimatology archives.
+
+[:material-pine-tree: Tall Timbers](https://talltimbers.org/information-resources/){target=_blank} - a widely regarded information resource for the areas of fire ecology, prescribed fire science, game bird management, vertebrate ecology and forestry.
+
+
+## :material-satellite-variant: Earth Observation Systems
+
+[Drought View (University of Arizona)](https://droughtview.arizona.edu/){target=_blank} - satellite based drought monitoring assessment tool, uses NASA VIIRS & MODIS
+
+[EarthMap](https://earthmap.org/){target=_blank} - user friendly tool for complex land monitoring powered by Google Earth Engine
+
+[:simple-nasa: LANCE](https://earthdata.nasa.gov/earth-observation-data/near-real-time){target=_blank} - Land, Atmosphere Near real-time Capability for EOS (LANCE)
+
+[:simple-nasa: NASA General Data Catalog](https://data.nasa.gov/){target=_blank} 
+
+[:simple-planet: Planet Labs](https://www.planet.com/markets/nasa/){target=_blank} has signed a special use agreement with NASA to provide their data to researchers and academics.
+
+[RealEarth](https://www.ssec.wisc.edu/realearth/){target=_blank} - is a data discovery and visualization platform developed at SSEC/CIMSS at the University of Wisconsin-Madison to support outreach and collaboration efforts of scientists. 
+
+[SERVIR Global](https://servirglobal.net){target=_blank}
+
+[:material-microsoft: Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog){target=_blank}
+
+## :simple-googleearth: Google Earth Engine
+
+[Google Earth Engine (GEE)](https://earthengine.google.com/){target=_blank} is a cloud-based geospatial analysis platform that combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. GEE provides access to decades of historical Earth observation data and enables researchers to detect changes, map trends, and quantify differences on the Earth's surface without requiring local computational infrastructure.
+
+### Applications
+
+The GEE community has developed hundreds of applications leveraging the platform's capabilities for wildland fire science, including fire detection algorithms, burn severity mapping tools, fuel moisture monitoring systems, and post-fire recovery assessments. These applications provide ready-to-use interfaces for analyzing fire-related phenomena across spatial and temporal scales.
+
+[:simple-awesomelists: Awesome GEE Applications](https://github.com/giswqs/Awesome-GEE){target=_blank} - curated list of Google Earth Engine applications, including fire monitoring tools, vegetation indices, and remote sensing workflows
+
+### Community Data Catalog
+
+The GEE Community Data Catalog extends the official Earth Engine data catalog by providing community-contributed datasets that are preprocessed, formatted, and ready for analysis within the GEE platform. For fire science, this includes specialized products not available in the standard catalog, such as high-resolution fuel maps, regional fire perimeters, and experimental fire danger indices.
+
+[:simple-awesomelists: Awesome GEE Community Datasets](https://samapriya.github.io/awesome-gee-community-datasets){target=_blank} - community-maintained catalog with 500+ datasets
+
+Fire-relevant datasets in the Community Catalog:
+
+* [LANDFIRE Mosaics LF v2.0.0](https://samapriya.github.io/awesome-gee-community-datasets/projects/landfire/){target=_blank} - comprehensive vegetation, fuel, and fire regime datasets for the United States
+
+* [United States Drought Monitor](https://samapriya.github.io/awesome-gee-community-datasets/projects/usdm/){target=_blank} - weekly drought condition assessments affecting fire danger
+
+* [Global Fire Atlas (2003-2016)](https://samapriya.github.io/awesome-gee-community-datasets/projects/gfa/){target=_blank} - individual fire perimeters with size, duration, and daily spread characteristics
+
+------------------------------------------------------------------------
+
+## :fontawesome-solid-rocket: Getting Started
+URL: https://tyson-swetnam.github.io/awesome-fire-science/getting-started.md
+
+# :fontawesome-solid-rocket: Getting Started
+
+New to wildland fire science tools and resources? This page provides pathways to help you quickly find the right tools and tutorials for your specific goals.
+
+## :material-target: "I want to..."
+
+### Improve my daily efficiency with AI
+
+Start using AI assistants to enhance your research workflow:
+
+- **ChatGPT or Claude** - Writing assistance, code generation, data analysis → [AI Tools](ai-tools.md#generative-ai-assistants)
+- **Microsoft Copilot** - Integrated into Office 365 for document creation → [AI Tools](ai-tools.md#microsoft-office-365-copilot)
+- **GitHub Copilot** - AI pair programming for code development → [AI Tools](ai-tools.md#automation-scripting)
+- **Perplexity** - AI-powered research with citations → [AI Tools](ai-tools.md#generative-ai-assistants)
+
+### Analyze satellite imagery and remote sensing data
+
+Work with Earth observation data for fire monitoring and analysis:
+
+- **Google Earth Engine** - Cloud-based planetary-scale analysis with 50+ year satellite archive → [Computing](cyberinfrastructure.md#google-earth-engine)
+- **GEEMap Python Package** - 360+ Jupyter notebooks for GEE tutorials → [Software](software.md#python)
+- **Microsoft Planetary Computer** - Open Earth observation data and analysis tools → [Computing](cyberinfrastructure.md#microsoft-planetary-computer)
+- **NASA FIRMS** - Real-time global fire detections from MODIS and VIIRS → [Data Sources](data.md#earth-observation-systems)
+- **QGIS** - Free desktop GIS for satellite imagery analysis → [Software](software.md#gis)
+
+### Run fire behavior models
+
+Simulate fire spread and behavior:
+
+- **FARSITE** - 2D fire growth simulation model → [Software](software.md#open-source-fire-behavior-models)
+- **FlamMap** - Landscape-scale fire behavior mapping → [Software](software.md#open-source-fire-behavior-models)
+- **BehavePlus** - Point-based fire behavior prediction → [Software](software.md#open-source-fire-behavior-models)
+- **WFDSS** - Wildland Fire Decision Support System with integrated models → [Data Sources](data.md#incident-maps-historical-fire-atlases) | [Software](software.md#open-source-fire-behavior-models)
+
+### Monitor active fires in real-time
+
+Track current fire incidents and get alerts:
+
+- **Watch Duty** - Community-driven fire alerts and scanner audio → [Mobile Apps](mobile-apps.md#fire-monitoring-alerts)
+- **InciWeb** - Official incident information → [Data Sources](data.md#incident-maps-historical-fire-atlases)
+- **NASA FIRMS** - Near real-time satellite fire detections → [Data Sources](data.md#earth-observation-systems)
+- **NIFC Open Data** - Current fire perimeters and statistics → [Data Sources](data.md#incident-maps-historical-fire-atlases)
+- **GACC Pages** - Regional coordination center updates → [Data Sources](data.md#incident-maps-historical-fire-atlases)
+
+### Work with lidar and point cloud data
+
+Process and analyze 3D point clouds:
+
+- **PDAL** - Point cloud processing library → [Software](software.md#geospatial-frameworks)
+- **CloudCompare** - 3D point cloud visualization and editing → [Software](software.md#free-and-open-source-software)
+- **FUSION** - Lidar processing and analysis → [Software](software.md#free-and-open-source-software)
+- **OpenTopography** - Access to lidar datasets → [Data Sources](data.md#geospatial-data-infrastructure-fuels-topography)
+- **USGS 3DEP** - National lidar coverage → [Data Sources](data.md#geospatial-data-infrastructure-fuels-topography)
+
+### Contribute to open science
+
+Learn collaborative research workflows:
+
+- **GitHub** - Version control and code sharing → [Software](software.md#repositories-notebooks-and-short-courses)
+- **Jupyter Notebooks** - Reproducible computational narratives → [Software](software.md#repositories-notebooks-and-short-courses)
+- **Zenodo** - Archive research data and code with DOIs → [Data Management](data-management.md#data-repositories-archiving)
+- **FAIR Data Principles** - Make research findable, accessible, interoperable, reusable → [Data Management](data-management.md#metadata-documentation)
+
+### Get weather and environmental data
+
+Access meteorological and ecological datasets:
+
+- **RAWS Stations** - Remote Automated Weather Stations → [Data Sources](data.md#weather)
+- **NOAA Weather** - Forecasts and fire weather → [Data Sources](data.md#weather)
+- **NEON** - National Ecological Observatory Network → [Data Sources](data.md#environmental)
+- **Ameriflux** - Eddy covariance flux tower data → [Data Sources](data.md#environmental)
+
+### Learn fire ecology and management
+
+Educational resources and training:
+
+- **Wildland Fire Management RD&A** - USFS Research and Development → [Data Sources](data.md#books-and-technical-reports)
+- **FRAMES** - Fire Research and Management Exchange System → [Data Sources](data.md#books-and-technical-reports)
+- **Fire Ecology Journal** - Open access research → [Data Sources](data.md#pre-print-peer-reviewed-journals)
+- **Online Courses** - MOOCs and webinars → [Training](training.md#online-self-paced-learning)
+
+## :material-school: Learning Pathways
+
+### For Students & Early Career Researchers
+
+1. Start with **QGIS** for basic GIS skills → [Software](software.md#gis)
+2. Learn **Google Earth Engine** for cloud-based analysis → [Computing](cyberinfrastructure.md#google-earth-engine)
+3. Explore **Python or R** for data science → [Software](software.md#python) | [Software](software.md#r)
+4. Join communities on **Slack/Discord** → [Community](community.md#slack-discord-communities)
+5. Attend conferences like **AFE or IAWF** → [Community](community.md#conferences-events)
+6. Explore **training courses and certifications** → [Training](training.md#getting-started-in-wildland-fire)
+
+### For Fire Managers & Practitioners
+
+1. Access **WFDSS** for decision support → [Software](software.md#open-source-fire-behavior-models)
+2. Use **mobile apps** for field operations → [Mobile Apps](mobile-apps.md#fire-monitoring-alerts)
+3. Monitor **GACC pages** for regional coordination → [Data Sources](data.md#incident-maps-historical-fire-atlases)
+4. Subscribe to **InciWeb** for incident updates → [Data Sources](data.md#incident-maps-historical-fire-atlases)
+5. Connect with **professional networks** → [Networks](networks.md#international-professional-associations)
+6. Take **NWCG training courses** → [Training](training.md#federal-agency-training)
+
+### For Remote Sensing Specialists
+
+1. Master **Google Earth Engine** or **Microsoft Planetary Computer** → [Computing](cyberinfrastructure.md#google-earth-engine) | [Computing](cyberinfrastructure.md#microsoft-planetary-computer)
+2. Learn **AI/ML tools** for image analysis → [AI Tools](ai-tools.md#ai-for-geospatial-remote-sensing)
+3. Explore **WIFIRE** tools and datasets → [Data Sources](data.md#earth-observation-systems) | [Software](software.md#python)
+4. Use **TorchGeo or Raster Vision** for deep learning → [AI Tools](ai-tools.md#foundation-models-for-earth-observation)
+5. Contribute to **open-source projects** on GitHub → [Software](software.md#repositories-notebooks-and-short-courses)
+6. Take **NASA ARSET remote sensing courses** → [Training](training.md#specialized-training)
+
+## :material-help-circle: Need More Help?
+
+- **Browse by category** - Use the navigation menu to explore Tools, Data, and Networks
+- **Join the conversation** - Connect with fire science communities → [Community](community.md#discussion-forums)
+- **Take a course** - Find training and educational resources → [Training](training.md#getting-started-in-wildland-fire)
+- **Professional networks** - Connect with organizations and working groups → [Networks](networks.md#international-professional-associations)
+- **Manage your data** - Learn best practices for organizing and sharing research → [Data Management](data-management.md#data-organization-best-practices)
+- **Hardware & field tools** - Explore drones, sensors, and field equipment → [Hardware](hardware.md)
+- **Suggest additions** - Open an issue on [:simple-github: GitHub](https://github.com/tyson-swetnam/awesome-fire-science/issues){target=_blank} with questions or suggestions
+
+------------------------------------------------------------------------
+
+## :material-tools: Hardware & Equipment
+URL: https://tyson-swetnam.github.io/awesome-fire-science/hardware.md
+
+# :material-tools: Hardware & Equipment
+
+Physical tools and equipment for wildland fire research, monitoring, and field operations.
+
+## :material-battery-charging: Portable Power
+
+[:material-battery-high: Jackery](https://www.jackery.com){target=_blank} - Portable power stations from 240Wh to 3kWh capacity for charging laptops, drones, and equipment in the field. 💰 \$200-\$4,000 depending on capacity.
+
+[:material-solar-power: Goal Zero](https://www.goalzero.com){target=_blank} - Solar generators and portable power banks with integrated solar panels. 💰 \$100-\$3,500.
+
+[:material-lightning-bolt: EcoFlow](https://www.ecoflow.com){target=_blank} - Fast-charging portable power stations with high output capacity for power-hungry devices. 💰 \$200-\$4,000.
+
+[:material-battery-charging-high: Anker](https://www.anker.com){target=_blank} - Compact USB power banks and portable chargers for phones, tablets, and small electronics. 💰 \$20-\$200.
+
+[:material-car-battery: Titan Solar Generator](https://www.titan-solargenerator.com){target=_blank} - High-capacity off-grid power systems with lithium battery banks. 💰 \$3,000-\$10,000+.
+
+## :material-satellite-variant: Satellite Communication
+
+[:material-satellite-uplink: Starlink](https://www.starlink.com){target=_blank} - SpaceX satellite internet with portable and mobile options for high-bandwidth field connectivity. 💰 \$599 hardware + \$150/mo service.
+
+[:material-satellite-variant: Iridium GO!](https://www.iridiummobilecomm.com){target=_blank} - Satellite hotspot enabling voice calls, texts, and limited data anywhere on Earth. 💰 \$800-\$1,200 + monthly service.
+
+[:material-satellite-variant: Garmin inReach](https://discover.garmin.com/inreach){target=_blank} - Two-way satellite communicators with SOS, messaging, and tracking. 💰 \$300-\$500 + monthly service.
+
+[:material-satellite-variant: Zoleo](https://www.zoleo.com){target=_blank} - Satellite messaging device for SMS and email when cellular coverage unavailable. 💰 \$200 + \$20-\$50/mo.
+
+[:material-satellite-variant: SPOT](https://www.findmespot.com){target=_blank} - Satellite GPS messenger with SOS and tracking features. 💰 \$150-\$250 + annual service.
+
+## :material-weather-partly-cloudy: Weather Stations
+
+[:material-weather-cloudy: Tempest Weather System](https://tempestwx.com){target=_blank} - Wireless all-in-one weather station with haptic rain sensor, no moving parts, solar powered. 💰 \$329    .
+
+[:material-weather-partly-rainy: Davis Vantage Pro2](https://www.davisinstruments.com){target=_blank} - Professional-grade weather station with wind, temperature, humidity, rainfall, and optional sensors. 💰 \$700-\$1,500.
+
+[:material-thermometer: Ambient Weather](https://ambientweather.com){target=_blank} - Consumer weather stations with WiFi connectivity and online dashboards. 💰 \$150-\$600.
+
+[:material-weather-windy: Kestrel Weather Meters](https://kestrelmeters.com){target=_blank} - Handheld weather meters for wind, temperature, humidity, and heat stress measurements. 💰 \$150-\$800.
+
+[:material-thermometer-lines: HOBO Data Loggers](https://www.onsetcomp.com){target=_blank} - Temperature, humidity, and environmental data loggers for long-term monitoring. 💰 \$100-\$500.
+
+## :material-quadcopter: Drones & UAVs
+
+[:material-quadcopter: DJI Mavic 3](https://www.dji.com/mavic-3){target=_blank} - Compact drone with 4/3 CMOS camera, 46-min flight time, and obstacle avoidance. 💰 \$2,000-\$5,000 depending on configuration.
+
+[:material-quadcopter: DJI Matrice 30T](https://www.dji.com/matrice-30){target=_blank} - Enterprise drone with thermal imaging, zoom camera, and laser rangefinder for fire operations. 💰 \$10,000-\$14,000.
+
+[:material-quadcopter: Autel EVO II](https://www.autelrobotics.com){target=_blank} - 8K camera drone with 40-min flight time and thermal imaging options. 💰 \$1,500-\$7,000.
+
+[:material-airplane: senseFly eBee X](https://www.sensefly.com){target=_blank} - Fixed-wing mapping drone for large-area surveys with up to 90-min flight time. 💰 \$12,000-\$25,000+.    
+
+[:material-quadcopter: Skydio 2+](https://www.skydio.com){target=_blank} - Autonomous flight drone with advanced obstacle avoidance using AI. 💰 \$1,100-\$2,200.
+
+??? Tip "Drone Regulations"
+    US operators must follow FAA Part 107 rules for commercial use. Check local regulations, airspace restrictions, and fire incident TFRs (Temporary Flight Restrictions) before flying. Coordinate with incident commanders when operating near active fires.
+
+## :material-camera: Cameras & Sensors
+
+[:material-camera: FLIR Scout TK](https://www.flir.com){target=_blank} - Handheld thermal imaging camera for spotting heat signatures and hotspots. 💰 \$600-\$1,000.
+
+[:material-camera-iris: Reconyx](https://www.reconyx.com){target=_blank} - Professional trail cameras for wildlife and time-lapse monitoring of vegetation and fire effects. 💰 \$400-\$700.
+
+[:material-camera: Bushnell Trophy Cam](https://www.bushnell.com){target=_blank} - Budget-friendly trail cameras for field monitoring. 💰 \$100-\$300.
+
+[:material-camera-enhance: GoPro](https://gopro.com){target=_blank} - Action cameras for documenting field operations and research, mountable on helmets, vehicles, or drones. 💰 \$200-\$500.
+
+[:material-camera: Insta360](https://www.insta360.com){target=_blank} - 360-degree cameras for immersive documentation of fire behavior and operations. 💰 \$300-\$800.
+
+## :material-laser-pointer: Measurement Tools
+
+[:material-ruler: Laser Rangefinders](https://www.nikonmetrology.com){target=_blank} - Laser distance meters and rangefinders for measuring tree height, plot boundaries, and distance to fires. 💰 \$100-\$1,000.
+
+[:material-tape-measure: Tree Calipers & DBH Tape](https://www.forestry-suppliers.com){target=_blank} - Traditional forest measurement tools for diameter at breast height (DBH) and tree coring. 💰 \$20-\$200.
+
+[:material-monitor-dashboard: LiDAR Sensors](https://velodynelidar.com){target=_blank} - Laser scanning systems for detailed 3D mapping of terrain and vegetation structure. 💰 \$10,000-\$100,000+ depending on specifications.
+
+[:material-axis-arrow: Suunto Clinometers](https://www.suunto.com){target=_blank} - Handheld instruments for measuring slope, height, and angles in the field. 💰 \$200-\$400.    
+
+## :material-laptop: Ruggedized Computers
+
+[:material-laptop: Panasonic Toughbook](https://www.panasonic.com/toughbook){target=_blank} - Military-grade rugged laptops and tablets for harsh field conditions. 💰 \$2,000-\$6,000.
+
+[:material-laptop: Dell Latitude Rugged](https://www.dell.com/rugged){target=_blank} - Semi-rugged and fully-rugged laptops for field computing. 💰 \$2,000-\$5,000.
+
+[:material-tablet: Getac Tablets](https://www.getac.com){target=_blank} - Rugged Windows tablets with sunlight-readable displays and long battery life. 💰 \$1,500-\$4,000.
+
+[:material-tablet: Samsung Galaxy Tab Active](https://www.samsung.com){target=_blank} - Rugged Android tablets with replaceable batteries and S Pen support. 💰 \$400-\$600.
+
+## :material-radio: Communication Hardware
+
+[:material-radio-handheld: Garmin GPSMAP](https://www.garmin.com){target=_blank} - Handheld GPS units with topographic maps and satellite communication options. 💰 \$300-\$700.
+
+[:material-radio-handheld: Two-Way Radios](https://www.motorolasolutions.com){target=_blank} - VHF/UHF radios for team communication in the field. Check frequency regulations. 💰 \$100-\$1,000+ per unit.
+
+[:material-antenna: Mobile Hotspots](https://www.peplink.com){target=_blank} - Cellular hotspots and routers for internet connectivity via multiple carriers. 💰 \$200-\$1,500.
+
+## :material-compass: Navigation & Safety
+
+[:material-compass: Suunto Compasses](https://www.suunto.com){target=_blank} - Precision compasses for navigation and mapping. 💰 \$30-\$200.
+
+[:material-map: Paper Maps & Waterproof Cases](https://www.rite-in-the-rain.com){target=_blank} - Waterproof notepads, field books, and map cases for analog documentation. 💰 \$5-\$50.
+
+[:material-shield-check: Personal Locator Beacons (PLBs)](https://www.acrartex.com){target=_blank} - Emergency beacons for SOS signaling via satellite. 💰 \$250-\$500, no subscription required.
+
+## :material-shield-alert: Safety Equipment
+
+Always follow agency safety protocols and carry required personal protective equipment (PPE) including fire shelter, helmet, fire-resistant clothing, gloves, and eye protection when working near wildland fires.
+
+[:material-fire-extinguisher: Portable Fire Extinguishers](https://www.ansul.com){target=_blank} - Vehicle-mounted fire extinguishers for fire line safety. 💰 \$50-\$300.
+
+[:material-eye-outline: Safety Glasses & Goggles](https://www.3m.com){target=_blank} - Eye protection from smoke, ash, and debris. 💰 \$10-\$100.
+
+[:material-lungs: Respirators & Dust Masks](https://www.3m.com){target=_blank} - N95/N100 respirators for smoke and particulate protection. 💰 \$1-\$50 per unit.
+
+------------------------------------------------------------------------
+
+## :fontawesome-solid-house-flag: Home
+URL: https://tyson-swetnam.github.io/awesome-fire-science/index.md
+
+# :fontawesome-solid-house-flag: Home
+
+### Welcome to my :simple-awesomelists: Awesome Wildland Fire Science :material-pine-tree-fire: pages!
+
+#### presentations
+
+[:material-google-drive: Google Slides for January 2026 M-580 Fire in Ecosystem Management Class](https://docs.google.com/presentation/d/17IUhqQuNoPYapIMQYkqQcbGFmcWnIQp-D245H2Pz8k8/edit?usp=sharing){target=_blank}
+
+[:material-map-marker-multiple: 2026 Course Locations](https://tyson-swetnam.github.io/m580-2026/){target=_blank}
+
+## Contents
+
+### :material-tools: Tools & Resources
+
+[:fontawesome-solid-rocket: Getting Started](getting-started.md) - New to fire science tools? Start here!
+
+[:octicons-database-24: Data](data.md) - Data sources, journals, and fire atlases
+
+[:octicons-gear-24: Software](software.md) - Fire behavior models and GIS tools
+
+[:material-robot: AI Tools](ai-tools.md) - AI assistants and productivity tools
+
+[:octicons-cloud-24: Computing](cyberinfrastructure.md) - Cloud platforms and HPC resources
+
+[:fontawesome-solid-mobile-screen: Mobile Apps](mobile-apps.md) - Field apps for monitoring and data collection
+
+[:material-tools: Hardware](hardware.md) - Drones, weather stations, and field equipment
+
+[:material-database-cog: Data Management](data-management.md) - Organizing, backing up, and sharing data
+
+### :material-school: Learning & Community
+
+[:material-brain: Training](training.md) - Courses, tutorials, and educational resources
+
+[:octicons-globe-24: Networks](networks.md) - Professional networks and organizations
+
+[:material-account-group: Community](community.md) - Forums, discussions, and conferences
+
+### Contributions
+
+This is a living document, and you're welcome to make suggestions via [:simple-github: Issues](https://github.com/tyson-swetnam/awesome-fire-science/issues){target=_blank}
+
+------------------------------------------------------------------------
+
+## :fontawesome-solid-mobile-screen: Mobile Apps
+URL: https://tyson-swetnam.github.io/awesome-fire-science/mobile-apps.md
+
+# :fontawesome-solid-mobile-screen: Mobile Apps
+
+Mobile applications for wildland fire monitoring, weather tracking, navigation, safety, and field data collection.
+
+## :material-fire-alert: Fire Monitoring & Alerts
+
+[:material-fire: Watch Duty](https://www.watchduty.org){target=_blank} - Community-powered wildfire alerts with scanner audio, push notifications, and real-time updates. 🆓 Free, iOS & Android.
+
+[:material-fire: CAL FIRE](https://www.fire.ca.gov/incidents){target=_blank} - Official California fire incident information and alerts. 🆓 Free, iOS & Android.
+
+[:simple-nasa: FIRMS Mobile](https://firms.modaps.eosdis.nasa.gov/mobile){target=_blank} - NASA Fire Information for Resource Management System with near real-time satellite fire detections. 🆓 Free, iOS & Android.
+
+[:material-map-marker-alert: InciWeb Mobile](https://inciweb.nwcg.gov){target=_blank} - Access incident information via mobile browser for all-risk incidents across US agencies.
+
+[:material-satellite-variant: Sentinel Hub](https://www.sentinel-hub.com){target=_blank} - Access Sentinel satellite imagery via mobile-friendly web interface.
+
+## :material-weather-cloudy: Weather & Conditions
+
+[:material-weather-partly-cloudy: Weather Underground](https://www.wunderground.com){target=_blank} - Hyperlocal weather with personal weather station data and detailed forecasts. 🆓 Free with ads, iOS & Android.
+
+[:material-weather-windy: Windy](https://www.windy.com){target=_blank} - Interactive wind maps with weather models, fire smoke layer, and aviation forecasts. 🆓 Free, iOS & Android.
+
+[:simple-noaa: NOAA Weather](https://www.weather.gov){target=_blank} - Official National Weather Service forecasts, warnings, and fire weather. 🆓 Free, iOS & Android.
+
+[:material-weather-lightning: Tempest Weather](https://tempestwx.com){target=_blank} - Weather station network with real-time hyperlocal data. Requires Tempest hardware. 🆓 Free app, iOS & Android.
+
+[:material-weather-sunset: Weather.com](https://weather.com){target=_blank} - The Weather Channel app with hourly forecasts and radar. 🆓 Free with ads, iOS & Android.
+
+## :material-map: Navigation & Safety
+
+[:material-map-marker-path: Avenza Maps](https://www.avenza.com/avenza-maps){target=_blank} - Offline map viewer with GPS positioning, supports geotagged PDFs and standard map formats. 🆓 Free with in-app purchases, iOS & Android.
+
+[:material-map-marker-path: Gaia GPS](https://www.gaiagps.com){target=_blank} - Topographic maps with offline capability, route recording, and waypoint management. 💰 Subscription required, iOS & Android.
+
+[:material-map-marker-path: CalTopo](https://caltopo.com){target=_blank} - Web and mobile access to detailed topographic maps, terrain analysis, and custom map creation. 🆓 Free with premium features, iOS & Android.
+
+[:material-map-marker-path: onX Hunt](https://www.onxmaps.com/hunt){target=_blank} - Offline maps with land ownership layers, useful for backcountry navigation. 💰 Subscription required, iOS & Android.
+
+[:material-map-search: Cairn](https://cairnme.com){target=_blank} - Safety tracking app for outdoor activities with automated alerts if you don't check in. 🆓 Free, iOS & Android.
+
+## :material-clipboard-text: Field Data Collection
+
+[:material-form-select: Fulcrum](https://www.fulcrumapp.com){target=_blank} - Mobile data collection with custom forms, photo capture, and offline sync. 💰 Paid plans, iOS & Android.
+
+[:simple-esri: Survey123](https://survey123.arcgis.com){target=_blank} - ArcGIS-integrated survey tool for field data collection with offline support. 💰 Requires ArcGIS license, iOS & Android.
+
+[:simple-esri: Collector for ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-field-maps/overview){target=_blank} - Now part of ArcGIS Field Maps, mobile GIS data collection and editing. 💰 Requires ArcGIS license, iOS & Android.
+
+[:material-camera: iNaturalist](https://www.inaturalist.org){target=_blank} - Citizen science app for recording biodiversity observations with AI species identification. 🆓 Free, iOS & Android.
+
+[:material-ruler: Measure Map](https://www.measuremap.io){target=_blank} - Measure distances, areas, and elevations on maps. 🆓 Free with premium features, iOS & Android.
+
+## :material-radio-handheld: Communication
+
+[:material-walkie-talkie: onX Backcountry](https://www.onxmaps.com/backcountry){target=_blank} - Offline maps with communication features for remote teams. 💰 Subscription required, iOS & Android.
+
+[:material-radio-handheld: Zello PTT](https://zello.com){target=_blank} - Push-to-talk walkie-talkie app using cellular or WiFi, popular in emergency response. 🆓 Free, iOS & Android.
+
+[:material-chat: FireChat](https://www.opengarden.com/firechat.html){target=_blank} - Mesh networking chat app that works without internet using Bluetooth/WiFi. 🆓 Free, iOS & Android.
+
+[:material-satellite-variant: Garmin Explore](https://explore.garmin.com){target=_blank} - Companion app for Garmin inReach satellite communicators. 🆓 Free app (requires hardware), iOS & Android.
+
+## :material-tree: Forest & Vegetation Apps
+
+[:material-tree: PlantNet](https://plantnet.org){target=_blank} - Plant identification using image recognition, useful for fuel type assessment. 🆓 Free, iOS & Android.
+
+[:material-tree: Seek by iNaturalist](https://www.inaturalist.org/pages/seek_app){target=_blank} - AI-powered species identification for plants and animals. 🆓 Free, iOS & Android.
+
+[:material-pine-tree: TreeSnap](https://treesnap.org){target=_blank} - Citizen science app for documenting tree health and locations. 🆓 Free, iOS & Android.
+
+## :material-fire: Fire Calculators & Reference
+
+[:material-calculator: Fire Behavior Calculator](https://play.google.com/store/apps/details?id=com.firebehaviorcalculator){target=_blank} - Field calculations for fire behavior. 🆓 Free, Android.
+
+[:material-book-open: NWCG Glossary](https://www.nwcg.gov/glossary){target=_blank} - Searchable wildland fire terminology via mobile browser.
+
+[:material-calendar: Fire Season Tracker](https://www.wfas.net){target=_blank} - National fire danger ratings and wildfire activity statistics via mobile browser.
+
+## :material-image: Photo & Documentation
+
+[:material-camera-plus: Timestamp Camera](https://www.timestampcamera.com){target=_blank} - Add GPS coordinates, date, and time stamps to photos for field documentation. 🆓 Free with ads, iOS & Android.
+
+[:material-map-marker-plus: Mapillary](https://www.mapillary.com){target=_blank} - Crowdsourced street-level imagery with automatic GPS tagging. 🆓 Free, iOS & Android.
+
+[:material-image-multiple: ExifTool](https://exiftool.org){target=_blank} - View and edit photo metadata including GPS location. Available via mobile browser or third-party apps.
+
+## Tips for Field Use
+
+??? Tip "Offline Functionality"
+    Many apps offer offline map downloads. Pre-download map tiles before heading to areas with limited connectivity. Test offline functionality before field deployment.
+
+??? Tip "Battery Conservation"
+    GPS usage drains batteries quickly. Carry external battery packs, enable airplane mode when not actively navigating, and reduce screen brightness to extend battery life in the field.
+
+??? Tip "Data Security"
+    Check agency policies for mobile device usage and data storage. Use device encryption, secure passwords, and avoid storing sensitive information on personal devices unless authorized.
+
+------------------------------------------------------------------------
+
+## :octicons-globe-24: Networks
+URL: https://tyson-swetnam.github.io/awesome-fire-science/networks.md
+
+# :octicons-globe-24: Networks
+
+## Internet Communities, News, & Social Media
+
+[Cal Fire Ready for Wildfire](https://www.readyforwildfire.org/){target=_blank}
+
+[Fire Adapted Communties](https://fireadaptednetwork.org/){target=_blank}
+
+[Firewise USA](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Firewise-USA){target=_blank}
+
+[Frontline Fire Defense](https://www.frontlinewildfire.com/){target=_blank}
+
+[Oak Fire Science](https://oakfirescience.com/){target=_blank}
+
+[The Lookout](https://the-lookout.org/){target=_blank}
+
+[Wildfire Today](https://wildfiretoday.com/){target=_blank}
+
+## :octicons-globe-24: International Professional Associations
+
+[Association for Fire Ecology](https://fireecology.org){target=_blank}
+
+[International Association of Wildland Fire](https://www.iawfonline.org/){target=_blank}
+
+* [2023 International Wildland Fire Conference](https://www.wildfire2023.pt/){target=_blank}
+
+[International Fire Chiefs Association](https://www.iafc.org/home){target=_blank}
+
+### :octicons-globe-24: Global
+
+[Center for International Forestry Research](https://www.cifor.org/){target=_blank}
+
+[FAO Fire Management Actions Alliance](https://www.fao.org/forestry/firealliance/en/){target=_blank}
+
+[Global Fire Monitoring Center (UN)](https://gfmc.online/){target=_blank}
+
+* [Community Based Fire Management](https://gfmc.online/manag/cbifm.html){target=_blank}
+* [Global Fire Monitoring Center - Global Networks](https://gfmc.online/GlobalNetworks/globalNet.html){target=_blank}
+
+[Global Drought Observatory](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001){target=_blank}
+
+[Global Wildland Fire Network - Regional Networks](https://rfmrc-sea.org/global-wildland-fire-network/regional-wildland-fire-networks/){target=_blank}
+
+[International Paleofire Network](https://ipn.paleofire.org/){target=_blank}
+
+
+### :fontawesome-solid-earth-africa: Africa
+
+[Regional Subsahara Africa Wildland Fire Network (Afrifirenet)](http://gfmc.online/globalnetworks/Africa/Afrifirenet.html){target=_blank} - coordinated through Global Fire Monitoring Center
+
+[Southern Africa Fire Network (SAFNet)](https://gofcgold.org/regional-networks/southern-africa-fire-network-safnet){target=_blank} - fosters collaborative efforts in fire monitoring and management in southern Africa through remote sensing and geospatial technology ([SAFNET Overview PDF](https://start.org/wp-content/uploads/publication/SAFNET.pdf){target=_blank})
+
+[SADC Regional Forest Fire Management](https://www.sadc.int/document/sadc-regional-guideline-forest-fire-management-ffm){target=_blank} - Southern African Development Community guidelines and capacity building for forest fire management
+
+[South African National Space Agency (SANSA) Fire Monitoring](https://www.sansa.org.za/){target=_blank} - uses Earth observation satellite imagery for fire monitoring and management
+
+[Africa Fire Mission](https://www.africafiremission.org/){target=_blank} - supporting fire management practices in African savanna-protected areas
+
+#### Near East & North Africa
+
+[Near East and North Africa Fire Network (NENFIRE)](https://www.fao.org/in-action/nenfire/){target=_blank} - FAO network covering 20 countries addressing forest fire threats across Algeria, Bahrain, Egypt, Iran, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Sudan, Syria, Tunisia, UAE, and Yemen
+
+### :fontawesome-solid-earth-europe: Europa
+
+[European Forest Fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/){target=_blank} - European Commission Joint Research Centre fire monitoring system
+
+[FIRE-RES](https://fire-res.eu/){target=_blank} - Integrated fire management strategy development across 11 European living labs including Spain, Portugal, France, Greece, Italy, Bulgaria, Nordic countries, and Central Europe, focusing on extreme wildfire events
+
+[European Forest Institute](https://efi.int/){target=_blank}
+
+[Forest Europe](https://foresteurope.org/){target=_blank}
+
+[Regional Eurasian Wildland Fire Network](http://gfmc.online/globalnetworks/BalticRegion/BalticRegion.html){target=_blank} - Baltic region fire management network
+
+[Regional Southeast Europe/Caucasus Wildland Fire Network](http://gfmc.online/globalnetworks/seeurope/SEEurope.html){target=_blank} - covering Southeast Europe and Caucasus regions
+
+[Sub-Regional Euro-Alpine Wildland Fire Network](http://gfmc.online/globalnetworks/EuroAlpine/EuroAlpine.html){target=_blank} - Alpine region fire management collaboration
+
+[Regional Mediterranean Wildland Fire Network](http://gfmc.online/globalnetworks/Mediterrania/Mediterrania.html){target=_blank} - Mediterranean basin fire management network
+
+[Silva Mediterranea Forest Fire Working Group](http://www.fao.org/forestry/silva-mediterranea){target=_blank} - FAO working group for Mediterranean forest fires
+
+[ForestWISE (Portugal)](https://www.forestwise.pt/){target=_blank} - Portuguese collaborative laboratory for integrated forest & fire management
+
+[Master Fuego (Spain)](https://master-fuego.com/){target=_blank} - Spanish fire management training and education program
+
+### :fontawesome-solid-earth-americas: North America
+
+[Regional North America Wildland Fire Network](http://gfmc.online/globalnetworks/NorthAmerica/NorthAmerica.html){target=_blank} - coordinated through Global Fire Monitoring Center
+
+[US Bureau of Indian Affairs Division of Wildland Fire Management](https://www.bia.gov/bia/ots/dwfm){target=_blank}
+
+[US Bureau of Land Management Fire Program](https://www.blm.gov/programs/fire){target=_blank}
+
+[US National Association of State Foresters](https://www.stateforesters.org/){target=_blank}
+
+[US National Park Service](https://www.nps.gov/subjects/fire/index.htm){target=_blank}
+
+[US Fish & Wildlife Service Fire Management](https://www.fws.gov/program/fire-management){target=_blank}
+
+[US Forest Service](https://www.fs.usda.gov/managing-land/fire){target=_blank}
+
+* [USDA Forest Service Research](https://www.fs.usda.gov/research/){target=_blank}
+
+[La Comisión Nacional Forestal (CONAFOR)](https://www.gob.mx/conafor){target=_blank}
+
+[:fontawesome-brands-canadian-maple-leaf: Natural Resources Canada](https://www.nrcan.gc.ca/home){target=_blank}
+
+* [:fontawesome-brands-canadian-maple-leaf: Canadian Wildland Fire Information System](https://cwfis.cfs.nrcan.gc.ca/home){target=_blank}
+
+[:fontawesome-brands-canadian-maple-leaf: First Nations Emergency Services Society (FNESS)](https://www.fness.bc.ca/){target=_blank} - BC organization supporting First Nations communities in wildfire resiliency and cultural burning programs
+
+[:fontawesome-brands-canadian-maple-leaf: Parks Canada Indigenous Fire Circle](https://parks.canada.ca/nature/science/conservation/feu-fire/autochtones-indigenous){target=_blank} - Indigenous-led fire stewardship collaboration established in 2023
+
+[:fontawesome-brands-canadian-maple-leaf: Cultural Burning & Prescribed Fire BC](https://prescribedfire.ca/){target=_blank} - BC program developing partnerships with First Nations for cultural and prescribed fire practices
+
+[National Fire Protection Association](https://www.nfpa.org/)
+
+[US Joint Fire Science Program](https://www.firescience.gov/){target=_blank}
+
+[US National Interagency Fire Center](https://www.nifc.gov/){target=_blank}
+
+[USGS Wildland Fire Science](https://www.usgs.gov/special-topics/wildland-fire-science){target=_blank}
+
+[:material-forest: Tall Timbers](https://talltimbers.org/){target=_blank}
+
+#### Central America & Caribbean
+
+[Regional Mesoamerica Wildland Fire Network](http://gfmc.online/globalnetworks/MesoAmerica/MesoAmerica.html){target=_blank} - Central America regional fire management network
+
+[Regional Caribbean Wildland Fire Network](http://gfmc.online/globalnetworks/Caribbean/Caribbean.html){target=_blank} - Caribbean basin fire management collaboration
+
+### :fontawesome-solid-earth-americas: South America
+
+[Regional South America Wildland Fire Network](http://gfmc.online/globalnetworks/SouthAmerica/SouthAmerica.html){target=_blank} - coordinated through Global Fire Monitoring Center
+
+[Group of Experts on Forest Fires in Latin America and the Caribbean (GEFF LAC)](https://gwis.jrc.ec.europa.eu/projects/geff-lac){target=_blank} - advises on fire policy development and facilitates knowledge exchange across the region
+
+[Global Wildfire Information System (GWIS) - LAC Support](https://gwis.jrc.ec.europa.eu/projects){target=_blank} - European Union support for wildfire management in Latin America and Caribbean
+
+[Amazon Basin Countries Unite to Stop Forest Fires](https://www.fiap.gob.es/en/noticias/9-countries-of-the-amazon-basin-and-latin-america-and-the-caribbean-unite-to-stop-forest-fires/){target=_blank}
+
+[PREVFOGO - National Center for Prevention and Combat of Forest Fires (Brazil)](https://www.amazonfund.gov.br/en/projeto/Prevfogo---IBAMA/){target=_blank} - IBAMA's specialized center for forest fire policy, firefighting, education, and monitoring throughout Brazil, including 64 indigenous fire brigades
+
+[Global Wildfire Network - South America Regional Network (PDF)](https://www.gov.br/ibama/pt-br/hotsites/wildfire2019/pos-conferencia/arquivos/posteres/04_-_iwfc-7-gwfn-regional-poster-south-america.pdf){target=_blank}
+
+
+### :fontawesome-solid-earth-oceania: Oceania
+
+[Regional Australasia Wildland Fire Network (AFAC)](http://gfmc.online/globalnetworks/Australasia/Australasia.html){target=_blank} - Australasian Fire and Emergency Service Authorities Council
+
+[Australasian Fire and Emergency Service Authorities Council (AFAC)](https://www.afac.com.au/){target=_blank} - peak body for fire, emergency services and land management agencies
+
+[Firesticks Alliance Indigenous Corporation](https://firesticks.org.au/){target=_blank} - Aboriginal-led network re-invigorating cultural burning practices, offering cultural learning pathways for fire and land management
+
+[Australian Capital Territory Emergency Services Agency](https://esa.act.gov.au/be-emergency-ready/bushfires){target=_blank}
+
+[Australian Disaster Resilience Knowledge Hub](https://knowledge.aidr.org.au/resources/bushfire/){target=_blank}
+
+[CSIRO Bushfire Research](https://www.csiro.au/en/research/natural-disasters/bushfires){target=_blank}
+
+[Geoscience Austrailia Bushfires](https://www.community-safety.ga.gov.au/hazards/bushfire){target=_blank}
+
+[National Aerial Firefighting Association](https://www.nafc.org.au/){target=_blank}
+
+[New South Wales Rural Fire Service](http://www.rfs.nsw.gov.au/plan-and-prepare){target=_blank}
+
+[New Zealand Fire Weather](https://fireweather.niwa.co.nz/){target=_blank}
+
+### :fontawesome-solid-earth-asia: Asia
+
+[Regional Central Asia Wildland Fire Network](http://gfmc.online/globalnetworks/CentralAsia/CentralAsia.html){target=_blank} - covering Central Asian republics and fire management collaboration
+
+[Regional Northeast Asia Wildland Fire Network](http://gfmc.online/globalnetworks/Northeast-Asia/Northeastasia.html){target=_blank} - Japan, Korea, China, Mongolia, and Russian Far East collaboration
+
+[Regional South Asia Wildland Fire Network](http://gfmc.online/globalnetworks/South_Asia/Front_RSAWFN.html){target=_blank} - South Asian regional fire management network
+
+[Federal Agency for Forestry (Russia)](http://rosleshoz.gov.ru/){target=_blank} - Avialesookhrana aerial forest fire protection service
+
+[State Key Laboratory of Fire Science (China)](http://en.sklfs.ustc.edu.cn/main.psp){target=_blank} - Chinese fire science research institute
+
+[Korea Forest Service](https://english.forest.go.kr/){target=_blank} - Forest Fire Prevention and Control Division
+
+#### Southeast Asia
+
+[Regional South East Asia Wildland Fire Network (ASEAN)](http://gfmc.online/globalnetworks/SouthEastAsia/ASEAN-FireNet.html){target=_blank} - ASEAN regional fire management network
+
+[Regional Fire Management Resource Center for Southeast Asia (RFMRC-SEA)](https://rfmrc-sea.org/){target=_blank} - IPB University, Bogor, Indonesia
+
+* [ASEAN Specialised Meteorological Centre (ASMC)](https://asmc.asean.org/){target=_blank}
+* [ASEAN Transboundary Haze Pollution Control](https://haze.asean.org/){target=_blank}
+
+------------------------------------------------------------------------
+
+## :octicons-gear-24: Software
+URL: https://tyson-swetnam.github.io/awesome-fire-science/software.md
+
+# :octicons-gear-24: Software
+
+## :material-license: Licensed Software
+
+??? Tip "Why pay for software?"
+      
+      Paying for software can give you the tools you need, with a minimal amount of effort required to learn how to use and maintain them. Selecting the right set of software to pay for can save the most valuable thing you posess: :fontawesome-regular-hourglass-half: your time!
+
+      That being said, expensive licensed software are often not available to international researchers from the Global South or underserved communities or institutions. 
+
+### :material-layers-triple-outline: Geographic Information Systems
+
+#### ESRI ArcGIS
+
+[ESRI's ArcGIS and ArcGIS Online](https://www.arcgis.com/index.html){target=_blank} are typically the first Geographic Information Systems (GIS) software taught to students at universities and community colleges. ESRI products dominate the US market and are found in most government agencies.
+
+ESRI products are widely used in [wildland fire incident management](https://www.esri.com/en-us/industries/wildland-fire/overview){target=_blank} (in the US). Access to ArcGIS requires an expensive software license agreement, normally paid for by contracting agreements through your agency or local government. For smaller agencies or non-governmental organizations, these costs can be prohibitive.
+
+**Wildland Fire Applications:**
+
+[ArcGIS Online Wildland Fire Applications](https://www.esri.com/en-us/industries/wildland-fire/community){target=_blank}
+
+[:material-fire: NIFC ArcGIS Online](https://nifc.maps.arcgis.com/home/index.html){target=_blank}
+
+[Strategic Risk Assessment (SRA) and Strategic Operations Story Maps](https://storymaps.arcgis.com/stories/7e0b757bc6a4480cad008218d6448212){target=_blank}
+
+[Risk Management Assistance Dashboard](https://www.arcgis.com/apps/MapSeries/index.html?appid=c5bc811ee22e4da0bde8abec7c20b8b4){target=_blank}
+
+[Potential wildland fire operational delineations (PODs)](https://www.arcgis.com/apps/Cascade/index.html?appid=073b66277b6540328f40b772dfab7c6f){target=_blank}
+
+[WFDSS NIFC ArcGIS](https://nifc.maps.arcgis.com/home/item.html?id=8e2b29eb0ae04e73801b08314b395b94){target=_blank}
+
+[Incident Strategic Alignment Process (ISAP)](https://experience.arcgis.com/experience/f9d7f7f920494c3db43a23a8dffe4664){target=_blank}
+
+[Story Map example from 2020 Fire Affected Road System Risk Reduction Project](https://storymaps.arcgis.com/stories/841b9854be5346638c3c34291913fe31){target=_blank}
+
+**Integration with Open Source Tools:**
+
+ESRI's software products rely on open source software like [GDAL](https://gdal.org/software_using_gdal.html), and Python which can be used with [:simple-jupyter: Jupyter Notebooks](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/){target=_blank}
+
+#### Other Commercial GIS Platforms
+
+[:simple-googlemaps: Google Maps Platform](https://mapsplatform.google.com/){target=_blank} - Leverage Google's Web Mapping APIs for web-based applications
+
+[:simple-mapbox: MapBox](https://www.mapbox.com/){target=_blank} - Popular Web map and location API
+
+#### :material-fire: Commercial Fire Behavior Models
+
+[:material-pine-tree-fire: Green Forest Consulting](https://greeneforestconsulting.com/fire-behavior-modeling){target=_blank}
+
+[:material-pine-tree-fire: PyroLogix](http://pyrologix.com/){target=_blank}
+
+* [Nexus 2.1](http://pyrologix.com/downloads/){target=_blank}
+
+[:fontawesome-solid-tree-city: First Street Foundation](https://firststreet.org/){target=_blank} support the [RiskFactor.com](https://riskfactor.com/){target=_blank} with a paid service and data access model
+
+* [ELMFIRE (Eulerian Level Set Model of Fire Spread)](https://doi.org/10.1016/j.firesaf.2013.08.014){target=_blank}
+
+[Pyregence](https://pyregence.org/) - Funded by the California Energy Commission, provides fire forecasting tools.
+
+* [PyreCast](https://pyrecast.org/)
+
+[:material-fire: Wildfire Analyst](https://www.wildfireanalyst.com/){target=_blank}
+
+(:material-smoke: vaporware)[NVIDIA Omniverse FARSITE - Lockheed Martin GTC 2024 Presentation](https://www.nvidia.com/en-us/on-demand/session/gtc24-s63091/){target=_blank}
+
+#### Structure from Motion Photogrammetry 
+
+[:octicons-image-24: Agisoft Metashape](https://www.agisoft.com/){target=_blank} - Metashape is one of the most widely adopted software for survey-grade mapping applications
+
+[:octicons-image-24: Pix4D](https://www.pix4d.com/){target=_blank} - Pix4D offers a simple interface and hosted processing solutions
+
+[:material-quadcopter: DroneDeploy](https://www.dronedeploy.com/){target=_blank} - Drone Deploy offers hosted processing solutions
+
+[:material-quadcopter: DJI Ground Station Pro](https://www.dji.com/ground-station-pro){target=_blank} - DJI are peerless drone manufacturers with fully integrated software for mission planning
+
+[:material-quadcopter: DJI Terra](https://www.dji.com/dji-terra){target=_blank} - DJI structure from motion and lidar software
+
+### Productivity and Integrated Development Environments
+
+??? Tip "Looking for AI assistants?"
+    AI tools like ChatGPT, Claude, GitHub Copilot, and productivity AI have moved to the [:material-robot: AI Tools](ai-tools.md) page.
+
+[:simple-github: GitHub](https://github.com){target=_blank} - the most widely used version control platform based on `git`
+
+* [:octicons-codespaces-24: CodeSpaces](https://github.com/features/codespaces){target=_blank} - Cloud-based virtual machines that work with GitHub Repositories
+
+## :simple-opensourceinitiative: Free and Open Source Software
+
+Using open source software allows other researchers to reproduce your work and increases access to your work as part of a [research object](https://en.wikipedia.org/wiki/Research_Object){target=_blank} or data cube.
+
+## :material-fire: Open Source Fire Behavior Models
+
+[Wildland Fire Decision Support System (WDFSS)](https://wfdss.usgs.gov/wfdss/WFDSS_Home.shtml) - system assists fire managers and analysts in making strategic and tactical decisions for fire incidents. 
+
+[:material-fire: Fire.org](https://www.fire.org/) - Free software for the wildland fire community 
+
+* [ArcFuels](https://www.firelab.org/project/arcfuels)
+
+* [BEHAVE+](https://www.frames.gov/behaveplus/home)
+
+* [BEHAVE7](https://research.fs.usda.gov/firelab/articles/behave7-improvements-behave-fire-modeling-system){target=_blank} - Improvements to the BEHAVE fire modeling system
+
+* [FARSITE-2](https://www.firelab.org/project/farsite)
+
+* [FIREFAMILY+](https://www.firelab.org/project/firefamilyplus)
+
+* [FIREMON](https://www.frames.gov/firemon/home)
+
+* [FLAMMAP](https://www.firelab.org/project/flammap)
+
+* [FOFEM](https://www.firelab.org/project/fofem-fire-effects-model)
+
+* [SpatialFOFEM](https://research.fs.usda.gov/firelab/products/dataandtools/fofem/spatialfofem-fire-effects-model){target=_blank} - Spatial fire effects model
+
+* [FEIS](https://www.feis-crs.org/feis/)
+
+* [WFAS](https://www.wfas.net/)
+
+* [:fontawesome-solid-wind: WindNinja](https://www.firelab.org/project/windninja)
+
+[:simple-wikipedia: Open Wildland Fire Modeling Wiki](https://wiki.openwfm.org/wiki/Open_Wildland_Fire_Modeling_E_community_Wiki)
+
+### :material-earth-box: Ecosystem models
+
+[Climate Toolbox](https://climatetoolbox.org/wildfire) - collection of web tools for visualizing past and projected climate and hydrology of the contiguous United States.
+
+[FIREBGCv2](https://www.firelab.org/project/firebgcv2-landscape-fire-model) - modeling program and platform that mechanistically simulates fire, vegetation, climate, and fuels dynamics across multiple space and time scales.
+
+[LANDIS-II](https://www.landis-ii.org/) - landscape model simulates forests (both trees and shrubs) at decadal to multi-century time scales and spatial scales spanning hundreds to millions of hectares.
+
+[Predictive Ecosystem Analyzer (PEcAn)](https://pecanproject.github.io/) - is an integrated informatics toolbox for ecosystem modeling.
+
+### :material-layers-triple-outline: GIS
+
+The Open Source Geospatial Software Foundation ([OSGEO](https://www.osgeo.org/){target=_blank}) has broad support across Linux-based operating systems, making it cloud-ready for advanced fire applications. 
+
+[:material-cloud-tags: CloudCompare](https://www.danielgm.net/cc/){target=_blank} - 3D point cloud and mesh processing software
+Open Source Project
+
+[FUSION](http://forsys.sefs.uw.edu/fusion/fusionlatest.html){target=_blank} - providing fast, efficient, and flexible access to LIDAR, IFSAR, and terrain datasets
+
+[:material-grid: GDAL](https://gdal.org/){target=_blank} - the geospatial data abstraction tool (GDAL) is the bedrock of open source GIS
+
+[:material-grass: GRASS-GIS](https://grass.osgeo.org/){target=_blank} - US Army Corps of Engineers GIS with numerous topographic and hyrdological algorithms
+
+[Kepler.gl](https://kepler.gl/){target=_blank} - is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets
+
+* [NASA FIRMS w/ Kepler.gl](https://www.bellingcat.com/resources/2022/10/04/scorched-earth-using-nasa-fire-data-to-monitor-war-zones/){target=_blank}
+
+[:material-quadcopter: Open Drone Map](https://opendronemap.org/){target=_blank} - Generate maps, point clouds, DEMs and 3D models from aerial images.
+
+[:simple-openstreetmap: Open Street Map](https://www.openstreetmap.org/#map=5/38.007/-95.844){target=_blank}
+
+[:material-layers-triple: Overture Maps](https://overturemaps.org/){target=_blank} - (future) FOSS competitor to Google Maps
+
+[:material-cloud-tags: PDAL](https://pdal.io/){target=_blank} - the pointcloud data abstraction tool (PDAL) is the most powerful open source GIS for manipulating point cloud data
+
+[:simple-qgis: QGIS](https://qgis.org/en/site/){target=_blank} - Quantum GIS, an open source alternative to ESRI ArcGIS
+    
+[:material-grid: SAGA-GIS](http://www.saga-gis.org/){target=_blank} - European GIS with numerous topographic and hydrological algorithms
+
+[:material-grid: WhiteBox Geospatial](https://www.whiteboxgeo.com/){target=_blank} - a cross platform open-source tool for raster analyses 
+
+
+### :material-laptop: Popular Integrated Development Environments 
+
+[:simple-jupyter: Project Jupyter](https://jupyter.org/){target=_blank} - Browser based computational notebooks, focused on Python, but any computer kernel can be installed as add-ons 
+
+[:simple-rstudio: Posit (RStudio)](https://posit.co/){target=_blank} - RStudio is the most popular IDE for working with the R-language
+
+[:simple-visualstudiocode: VS Code](https://code.visualstudio.com/){target=_blank} - Microsoft's free Visual Studio Code is the most popular and fully featured code editor in the world   
+
+### :simple-python: Python 
+ 
+[PANGEO](https://pangeo.io/){target=_blank} - community platform for big data geoscience
+
+[:simple-googleearth: GEEMap](https://geemap.org/){target=_blank} - collection of ove 360 :simple-jupyter: notebooks for Google Earth Engine ([:simple-github: Qiusheng Wu](https://github.com/giswqs){target=_blank})
+
+[:material-microsoft: Planetary Computer Jupyter Notebooks](https://github.com/microsoft/PlanetaryComputerExamples){target=_blank}
+
+#### :simple-github: Repositories, :simple-jupyter: Notebooks, and :octicons-mortar-board-24: Short Courses
+
+[:simple-python: Agent-based Modeling](https://github.com/hildobby/fire-suppression-abm){target=_blank} - Agent-based modeling 2D wildfire suppression simulator tool built on the `mesa` framework in Python
+
+[:simple-python: Call for Code Spot Challenge for Wildfires](https://github.com/Call-for-Code/Spot-Challenge-Wildfires){target=_blank} - predict the wildfire/bushfire area for 7 regions in Australia for each day in February 2021
+
+[:simple-python: FIRe Event Delineation for python (FIREDpy)](https://github.com/earthlab/firedpy) - Command Line Interface for classifying fire events from the Collection 6 MODIS Burned Area Product
+
+[:simple-python: Wildfire Modelling in Yosemite](https://towardsdatascience.com/wildfire-modeling-in-yosemite-national-park-666f45c9a0a0){target=_blank}, ([:simple-github: Abraham Coiman](https://github.com/acoiman/wildfire_modeling){target=_blank})
+
+[:simple-kaggle: Predict the causes of wildland fires using Python](https://www.kaggle.com/code/edhirif/predict-the-causes-of-wildfires-using-python){target=_blank}
+
+[:simple-python: Create interactive map of wildfire data using Folium in Python](https://towardsdatascience.com/creating-an-interactive-map-of-wildfire-data-using-folium-in-python-7d6373b6334a){target=_blank}
+
+[:simple-python: Wildfire Datascience (Andrew Mahon)](https://github.com/amahon/wildfire-datascience){target=_blank}
+
+[:octicons-mortar-board-24: Wildfire danger short course](https://zenodo.org/record/3859592){target=_blank} - First release, finalised for the 'Short Course on ECMWF and Copernicus data and service offering for monitoring and forecasting fire danger' (11-19 May 2020 EUMETSAT-ECMWF-Copernicus).
+
+[:simple-python: Wildfire Smoke Detection with AI](https://github.com/PaulinoMoskwa/Wildfire-Smoke-Detection) - ([:simple-github: Paulino Moskwa](https://github.com/PaulinoMoskwa){target=_blank})
+
+### :simple-r: R
+
+[Forest Analysis in R App](https://atkinsjeff.shinyapps.io/ForestAnalysisInR/){target=_blank} - Shiny App with list of available packages for forestry analyses.
+
+[burnR](https://github.com/ltrr-arizona-edu/burnr){target=_blank} - Fire history analysis tools for R
+
+[dplR](https://github.com/AndyBunn/dplR){target=_blank} - dendrochronology R tools, now [OpenDendro](https://opendendro.org/){target=_blank}
+
+[firebehavioR](https://github.com/EcoFire/firebehavioR){target=_blank} - R package for predicting fire behavior using the Rothermel modelling system or the Crown Fire Initiation & Spread modelling system.
+
+[lidR](https://jean-romain.github.io/lidRbook/){target=_blank} - R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications.
+
+### :globe_with_meridians: Geospatial Frameworks
+
+[:fontawesome-solid-earth-oceania: CSIRO Data61](https://data61.csiro.au/en/Our-Research/Our-Work/Safety-and-Security/Disaster-Management/){target=_blank} - Australian CSIRO fire modelling software
+
+[:fontawesome-solid-earth-europe: ESA STEP](http://step.esa.int/main/){target=_blank} - European Scientific Toolbox Exploitation Platform 
+
+[:material-pine-tree-fire: FRAMES](https://www.frames.gov/){target=_blank} - Fire Research and Management Exchange System
+
+[:material-pine-tree-fire: USFS RMRS](https://www.fs.usda.gov/rmrs/wildland-fire-management-research-development-application-program){target=_blank} - Rocky Mountain Research Station fire data and tools
+
+[:material-wifi: WIFIRE](https://wifire.ucsd.edu/){target=_blank} - Workflows for wildland fire science applications, NSF funded.
+
+* [BURNPRO3D](https://wifire.ucsd.edu/burnpro3d){target=_blank}
+
+* [FIREMAP](https://wifire.ucsd.edu/firemap){target=_blank}
+
+### Productivity
+
+[:simple-anaconda: Anaconda (`conda`)](https://www.anaconda.com/){target=_blank} - is a package management and deployment system for scientific software (mainly Python)
+
+[:simple-condaforge: Conda Forge](https://conda-forge.com){target=_blank} - is the largest repository for packages in `conda`
+
+[:simple-docker: Docker](https://docker.com){target=_blank} - is the most common format for "containerizing" software environments
+
+[:simple-git: Git](https://git-scm.com/){target=_blank} - the `git` version control system
+
+[:material-gitlab: GitLab](https://gitlab.com){target=_blank} - GitLab is an open source, self-hosted, or web-hosted version control system
+   
+[:material-duck: CyberDuck](https://cyberduck.io){target=_blank} - 3rd party software for getting data to and from the internet
+
+------------------------------------------------------------------------
+
+## :material-brain: Training
+URL: https://tyson-swetnam.github.io/awesome-fire-science/training.md
+
+# :material-brain: Training
+
+This comprehensive directory organizes wildland fire training resources by audience and career stage. From entry-level firefighter certifications to specialized smoke management courses, from tribal cultural burning programs to university doctoral research, these resources serve the full spectrum of fire science professionals and land managers.
+
+## 1. :material-school-outline: Getting Started in Wildland Fire
+
+For students, career changers, and entry-level firefighters beginning their journey in wildland fire.
+
+??? Tip "NWCG Foundation Courses"
+
+    [National Wildfire Coordination Group Courses](https://www.nwcg.gov/training/training-catalog){target=_blank} provide the foundation for wildland fire qualifications nationwide. Core courses include S-130 (Firefighter Training), S-190 (Introduction to Wildland Fire Behavior), and position-specific training for engine operators, crew bosses, and incident management teams.
+
+??? Tip "Youth & Early Career Programs"
+
+    [Student Conservation Association Wildland Fire Academy](https://thesca.org/sca-wildland-fire-academy){target=_blank} - 6-month paid positions ($650-$1,000/week) with full NWCG certification on Shasta-Trinity National Forest. Hands-on training preparing participants for federal fire careers.
+
+    [California Conservation Corps](https://ccc.ca.gov/training/firefighting/){target=_blank} - Operates 26+ hand crews at 13 locations with monthly stipends potentially exceeding $32,000 first year. Entry-level wildland firefighting with year-round crew assignments.
+
+    [Veterans Fire Corps](https://www.veteransfirecorps.org/){target=_blank} (Conservation Legacy/SCA/AmeriCorps) - 12-week to 6-month assignments with 94% of participants reporting the program prepared them for fire employment. Targeted toward veterans transitioning to civilian fire careers.
+
+    [Clackamas Community College](https://www.clackamas.edu/academics/departments-programs/wildland-fire-management-aas){target=_blank} (Oregon) - Four certificate pathways certified by PNWCG and NWCG, instructors with 15-30 years experience, includes EMT certification.
+
+    [Lane Community College](https://www.lanecc.edu/programs-academics/areas-study/science-natural-resources-math-and-engineering/wildland-fire-management){target=_blank} (Oregon) - Includes traditional cultural burning practices from Pacific Northwest Indigenous peoples alongside standard NWCG training.
+
+    [Lake Superior College](https://www.lsc.edu/degrees/wildland-firefighting-certificate/){target=_blank} - One-year Wildland Firefighting Certificate preparing students for seasonal fire positions.
+
+    [Minnesota North College](https://minnesotanorth.edu/programs/wildland-firefighting/){target=_blank} (formerly Itasca Community College) - Eight NWCG courses with partnerships across federal and state agencies, one of the strongest community college programs in the Midwest.
+
+??? Tip "Federal Agency Entry Pathways"
+
+    [USFS Wildland Fire Apprenticeship Program](https://www.fs.usda.gov/managing-land/fire/careers){target=_blank} - Department of Labor-accredited apprenticeships providing structured career pathways in the Forest Service.
+
+    [USFWS Wildland Fire Apprenticeship](https://www.fws.gov/program/fire-management/get-involved){target=_blank} - Launched 2022, DOL-accredited program with 12-48 month pathways including details to helitack, hand crews, rappel crews, and fire use modules. First class included 28 apprentices.
+
+    [BIA Pathways Internship Program](https://www.bia.gov/service/pathways){target=_blank} - Connects Native American and Alaska Native college students to paid fire management internships across BIA and tribal programs.
+
+## 2. :octicons-organization-24: Federal Agency Training
+
+For federal firefighters and resource specialists working across agencies.
+
+??? Tip "Multi-Agency Coordination"
+
+    [NAFRI Courses](https://www.nafri.gov/courses){target=_blank} - National Advanced Fire and Resource Institute provides advanced training for incident management teams and overhead positions.
+
+    [National Interagency Prescribed Fire Training Center](https://talltimbers.org/fire-training/){target=_blank} - Established 2021 at Tall Timbers Research Station, providing multi-agency prescribed fire training with emphasis on southeastern fire ecology.
+
+??? Tip "USFS Programs"
+
+    [United States Forest Service Training](https://www.fs.usda.gov/managing-land/fire/training){target=_blank} - Comprehensive fire training programs for Forest Service personnel.
+
+    [Interagency Fire Program Management Standard (IFPM)](https://www.fs.usda.gov/managing-land/ifpm){target=_blank} - Standardized fire program management across federal agencies.
+
+    [Fire Ecology Curriculum (Southwestern Region)](https://www.fs.usda.gov/r03/educational/educators/fire-ecology-learning-lab){target=_blank} - Ecological foundations for fire management in southwestern ecosystems.
+
+    [Smokejumper Rookie Training](https://www.fs.usda.gov/science-technology/fire/people/smokejumpers){target=_blank} - 5-week intensive program at bases in Missoula, McCall, Redding, and seven other locations. Requires 3-4 years fire experience (hotshot preferred), with specific fitness standards: 7 pull-ups, 45 sit-ups, 25 push-ups, 1.5-mile run under 11 minutes, and 110-lb pack test.
+
+??? Tip "BLM Training"
+
+    [BLM National Training Center](https://www.nifc.gov/about-us/our-partners/blm/training){target=_blank} - Phoenix-based facility offering distance learning through DOI Talent platform for BLM fire personnel nationwide.
+
+    [Great Basin Training Unit](https://www.blm.gov/programs/fire/regional-info/nevada){target=_blank} - Delivers approximately 60 courses annually to over 1,000 personnel across the Great Basin region.
+
+    [BLM Alaska Fire Service](https://fire.ak.blm.gov/){target=_blank} - Maintains the "Handy Dandy" firefighting field guide and coordinates Alaska-specific training addressing unique northern fire conditions.
+
+    [BLM Idaho Boise Helitack](https://www.nifc.gov/about-us/our-partners/blm/blm-helitack-crews){target=_blank} - Operates the only DOI Type 1 helicopter (UH-60 Blackhawk), providing specialized aviation training opportunities.
+
+??? Tip "National Park Service"
+
+    [Wildland Fire Resource Advisor Course (N-9042)](https://www.nps.gov/orgs/1965/wildfire-training.htm){target=_blank} - Online course certifying 500-700+ students annually in providing resource protection advice during incidents.
+
+    [Non-Fire Employee Surge Capacity Training](https://www.nps.gov/orgs/1965/wildfire-training.htm){target=_blank} - Trains rangers, interpreters, and other NPS staff to support fire operations during peak seasons.
+
+??? Tip "US Fish & Wildlife Service"
+
+    [USFWS Wildland Fire Apprenticeship](https://www.fws.gov/program/fire-management/get-involved){target=_blank} - DOL-accredited program launched 2022, with details to helitack, hand crews, and rappel operations. Note: USFWS applies 50% of all DOI prescribed fire acres.
+
+??? Tip "Bureau of Indian Affairs"
+
+    [Wildland Fire First Aid Program](https://www.nifc.gov/about-us/our-partners/bia/training){target=_blank} - Medical Incident Technician and Medical Incident Leadership training levels. Over 740 students from 50+ Indian Country fire crews have completed certified classes, representing approximately 60% of Indian Country's permanent fire workforce.
+
+## 3. :material-map-marker-multiple: State & Regional Programs
+
+For state and local firefighters and regional fire professionals.
+
+??? Tip "California"
+
+    [CAL FIRE Training Centers](https://www.fire.ca.gov/what-we-do/fire-protection/training-center){target=_blank} - Four facilities (Ione, Riverside, Atwater opening 2025, and future fourth facility) providing IFSAC/Pro Board certified training for state firefighters.
+
+    [City College of San Francisco Fire Science](https://www.ccsf.edu/degrees-certificates/fire-science-technology){target=_blank} - Wildland fire academy with NWCG certification pathways.
+
+    [Mt. San Antonio College Fire Technology](https://www.mtsac.edu/firetech/){target=_blank} - Community college wildland fire training program.
+
+    [Reedley College Fire Technology](https://www.reedleycollege.edu/academics/guided-pathways/agriculture-nr-pathway/wildland-fire.html){target=_blank} - Wildland fire academy serving California's Central Valley.
+
+??? Tip "Colorado"
+
+    [CWFIMA (Colorado Wildland Fire and Incident Management Academy)](https://cwfima.org/){target=_blank} - Operating since 1994 with 900+ staff and students annually. Served as the model for academies in New York, Utah, Texas, and Arizona.
+
+    [Front Range Community College Wildland Fire Certificate](https://www.frontrange.edu/programs-courses/program-list/forestry-wildlife-natural-resources.html){target=_blank} - One-semester Wildland Fire Certificate for rapid entry into fire careers.
+
+??? Tip "Arizona"
+
+    [AWIMA (Arizona Wildland Fire and Incident Management Academy)](https://azwildfireacademy.org/){target=_blank} - Offers 40+ course types annually addressing southwestern fire management needs.
+
+    [Women in Wildland Fire](https://www.azwildfireacademy.org/womeninwildlandfire){target=_blank} - Immersive program supporting women pursuing wildland fire careers.
+
+??? Tip "Washington"
+
+    [Washington DNR Academies](https://dnr.wa.gov/wildfire-resources/fighting-fire/wildland-fire-academies){target=_blank} - No-cost interagency training meeting NWCG standards, including virtual instructor-led training October through April. Special initiative provides funded training specifically for tribal members.
+
+??? Tip "Oregon"
+
+    [Mid-Willamette Valley Interagency Fire School](https://www.saif.com/safety-and-health/topic/wildfire/mid-willamette-valley-fire-school.html){target=_blank} - Operating since 1997, providing interagency training for Oregon fire personnel.
+
+    [State Certified Burn Manager Program](https://extension.oregonstate.edu/fire-program/certified-burn-manager){target=_blank} - Established per Senate Bill 762 (2021) with civil liability protection for certified practitioners. Two levels: pile burning, and pile and broadcast burning.
+
+??? Tip "Nevada"
+
+    [Nevada Division of Forestry Training](https://forestry.nv.gov/wildland-fire-management){target=_blank} - Trained 2,938 personnel in 2024 using 30 instructors through Rookie Academy and Engine Academy programs.
+
+??? Tip "Texas"
+
+    [Texas A&M Forest Service Academies](https://ticc.tamu.edu/training/){target=_blank}:
+
+    - **East Texas Academy** - May, Lufkin area, 26th annual in 2025
+    - **Capital Area Academy** - October, Camp Swift, 27th annual in 2025
+
+    Both provide comprehensive interagency training for Texas fire personnel.
+
+??? Tip "Florida"
+
+    [Withlacoochee Training Center](https://www.fdacs.gov/Forest-Wildfire/Our-Forests/Florida-Forest-Service/Withlacoochee-Forestry-Center){target=_blank} - 5-6 week intensive Basic Firefighter Certification Training, prerequisite for Forest Ranger employment. Emphasizes Florida ecosystem fire behavior and wildland-urban interface operations.
+
+??? Tip "Fire Science Exchange Network (JFSP)"
+
+    The Joint Fire Science Program funds 15 regional exchanges providing webinars, workshops, and field tours:
+
+    [Southern Fire Exchange](https://southernfireexchange.org/){target=_blank} - Covers 11 states, partnered with University of Florida and Tall Timbers Research Station.
+
+    [California Fire Science Consortium](https://www.cafirescience.org/){target=_blank} - Weekly seminar series and California Forest Science Symposium connecting researchers with practitioners.
+
+    [Northwest Fire Science Consortium](https://www.nwfirescience.org/){target=_blank} - California Forest Science Symposium partnerships.
+
+    [Northern Rockies Fire Science Network](https://www.nrfirescience.org/){target=_blank} - Maintains archive of 400+ recorded webinars.
+
+    [Southwest Fire Science Consortium](https://www.swfireconsortium.org/){target=_blank} - Serves Arizona, New Mexico, and neighboring regions.
+
+    [Great Basin Fire Science Exchange](https://greatbasinfirescience.org/){target=_blank} - Nevada, Utah, and surrounding areas.
+
+    [Great Plains Fire Science Exchange](https://gpfirescience.org/){target=_blank} - Plains states fire ecology and management.
+
+    [Oak Woodlands and Forests Fire Consortium](https://oakfirescience.com/){target=_blank} - Oak ecosystem fire management.
+
+    [Lake States Fire Science Consortium](http://lakestatesfiresci.net/){target=_blank} - Minnesota, Wisconsin, Michigan fire research translation.
+
+## 4. :octicons-mortar-board-24: University Degree & Certificate Programs
+
+For students seeking academic degrees and certificates in fire science.
+
+??? Tip "Northeast"
+
+    [Penn State University Forest Ecosystem Management](https://agsci.psu.edu/academics/undergraduate/majors/forest-ecosystem-management){target=_blank} - B.S. in Forest Ecosystem Management with FOR 345 Wildland Fire Ecology. Students complete Wildland Fire Field Camp with prescribed burn training in North Carolina and Florida.
+
+    [SUNY College of Environmental Science and Forestry](https://www.esf.edu/){target=_blank} - Applied Forest & Fire Ecology Lab offering M.S. and Ph.D. programs researching northeastern forest fire ecology.
+
+??? Tip "Southeast"
+
+    [University of Florida Fire Ecology Certificate](https://ffgs.ifas.ufl.edu/academics/certificates/){target=_blank} - Undergraduate Certificate in Fire Ecology and Management (15 credits) and Graduate Certificate in Ecological Restoration with fire emphasis.
+
+    [Clemson University Fire Tigers](https://www.clemson.edu/cafls/forestry-environmental-conservation/index.html){target=_blank} - "Fire Tigers" program partnering with Forest Service for prescribed burns on Sumter National Forest.
+
+    [Auburn University Fire Ecology](https://forestfireecology.auburn.edu/){target=_blank} - M.S. research positions in southeastern pine and oak fire ecology.
+
+    [NC State University Forestry and Environmental Resources](https://cnr.ncsu.edu/fer/){target=_blank} - Online graduate-level wildland fire courses through College of Natural Resources, covering southeastern fire ecology and prescribed fire planning.
+
+    [Columbia Southern University Fire Administration](https://www.columbiasouthern.edu/degrees/fire-administration-wildland-fire){target=_blank} - Online B.S. in Fire Administration with Wildland Fire Concentration, partnered with NWCG.
+
+??? Tip "Midwest"
+
+    [University of Wisconsin Stevens Point](https://uwsp.catalog.acalog.com/preview_entity.php?catoid=36&ent_oid=2894){target=_blank} - Comprehensive forestry program with fire science emphasis.
+
+    [Minnesota North College Natural Resources](https://minnesotanorth.edu/programs/natural-resources/){target=_blank} - Eight NWCG courses with partnerships across federal and state agencies, one of the strongest community college programs in the Midwest.
+
+    [Lake Superior College Wildland Firefighting](https://www.lsc.edu/degrees/wildland-firefighting-certificate/){target=_blank} - One-year Wildland Firefighting Certificate.
+
+    [Lake Superior State University Fire Science](https://www.lssu.edu/college-criminal-justice-emergency-responders/school-fire-science-emergency-services/fire-science/){target=_blank} - B.S. Fire Science combined with both Firefighter I/II and Red Card certification.
+
+    [Wisconsin Technical College System Forest Management](https://www.wtcsystem.edu/programs/forestry){target=_blank} - Forest Management Specialist Certificate with prescribed fire components.
+
+??? Tip "Southwest"
+
+    [Central Arizona College Fire Science](https://centralaz.edu/divisions-programs/nursing-health-emergency-careers/fire-science-technology-aas/){target=_blank}
+
+    [Coconino Community College Fire Science](https://www.coconino.edu/fire-science-aas){target=_blank}
+
+    [Eastern New Mexico University Ruidoso Wildland Fire Science](https://ruidoso.enmu.edu/academics/associate/wildland-fire-science-program/){target=_blank}
+
+    [Northern Arizona University Fire Ecology and Management, Undergraduate Certificate](https://nau.edu/forestry/degrees-and-programs/certificates/fire-ecology-management-ucert/){target=_blank}
+
+    [NAU Ecological Restoration Institute](https://eri.nau.edu/){target=_blank}
+
+    [Northland Pioneer College Fire Science](https://www.npc.edu/frs){target=_blank}
+
+    [Pima Community College](https://www.pima.edu/academics-programs/degrees-certificates/public-safety/fire-science/index.html){target=_blank}
+
+    [Southwestern Oklahoma State University Wildland Fire Management](https://www.swosu.edu/academics/aij/departments/parks/programs/wildland-fire-management.php){target=_blank} - B.S. in Wildland Fire Management with hands-on controlled burn training, the only program of its kind in the region.
+
+    [Texas A&M-San Antonio Fire and Emergency Services](https://www.tamusa.edu/degrees-programs/undergraduate/fire-emergency-services-administration/){target=_blank} - Online B.A.A.S. in Fire and Emergency Services Administration.
+
+    [New Mexico State University Doña Ana CC Fire Science](https://dacc.nmsu.edu/programs/fire-science-technology/){target=_blank} - IFSAC-accredited Fire Science Technology A.A.S. with wildland pathways.
+
+    [Central New Mexico Community College Fire Science](https://www.cnm.edu/depts/applied-technologies/public-service-degrees/fire-science-technology-aas){target=_blank} - Wildland Firefighter Type 1 Certificates.
+
+    [New Mexico Highlands University Forestry](https://www.nmhu.edu/forestry/){target=_blank} - B.S. in Forestry with Wildland Fire concentration, SAF accredited.
+
+??? Tip "Pacific Northwest"
+
+    [Oregon State University Fire Ecology](https://catalog.oregonstate.edu/college-departments/forestry/forest-ecosystems-society/natural-resources-bs-hbs/wildland-fire-ecology-option/){target=_blank}
+
+    [University of Idaho Fire Ecology](https://www.uidaho.edu/cnr/undergraduate-majors/bs-fire-ecology){target=_blank} - B.S. Fire Ecology plus online Certificate in Fire Ecology, Management and Technology (feeds into Master of Natural Resources).
+
+    [University of Montana Fire Sciences Management](https://www.umt.edu/academics/programs/fire-sciences-management/){target=_blank} - Sends students to Southeast each January for 2 weeks prescribed fire with TNC in longleaf pine.
+
+    [Washington State University Wildland Fire Ecology](https://sefs.uw.edu/students/undergraduate-programs/environmental-science-and-resource-management/fire-ecology-concentration/){target=_blank} - Wildland Fire Ecology and Management course launched 2021 where students earn entry-level firefighter certification.
+
+    [University of Washington School of Environmental and Forest Sciences](https://sefs.uw.edu/research/fire-and-environmental-research-applications/){target=_blank} - Graduate fire research in wet temperate forest ecosystems.
+
+    [Clackamas Community College Fire Science](https://www.clackamas.edu/academics/departments-programs/wildland-fire-science-cc){target=_blank} - Four certificate pathways certified by PNWCG and NWCG, instructors with 15-30 years experience, includes EMT certification.
+
+    [Lane Community College Fire Science](https://www.lanecc.edu/programs-academics/areas-study/science-natural-resources-math-and-engineering/wildland-fire-management){target=_blank} - Includes Pacific Northwest Indigenous traditional cultural burning practices alongside standard training.
+
+??? Tip "California"
+
+    [Cal Poly SLO Forest & Fire Science](https://nres.calpoly.edu/fnr){target=_blank}
+
+    [Cal Poly Humboldt](https://www.humboldt.edu/forestry-fire-rangeland-management){target=_blank}
+
+    [Shasta College](https://www.shastacollege.edu/academics/programs/wildland-fire/){target=_blank}
+
+    [UC Berkeley Rausser College of Natural Resources](https://ourenvironment.berkeley.edu/undergrad-programs/wildland-fire-ecology-management){target=_blank} - B.S. and Master of Forestry with fire science emphasis, including 8-week Sierra Nevada Forestry Field Camp.
+
+    [CSU San Marcos Wildfire Science](https://www.csusm.edu/el/programs/science-technology/bachelor-of-science-wildfire-science/index.html){target=_blank} - California's only online B.S. in Wildfire Science and Wildland-Urban Interface. Degree completion program accepting credit for prior fire certifications.
+
+??? Tip "Rocky Mountains & Great Basin"
+
+    [Colorado State University Fire Science](https://warnercnr.colostate.edu/frs/undergraduate-program/majors-minors/forest-fire-science-3/){target=_blank}
+
+    [University of Idaho Fire Ecology](https://www.uidaho.edu/cnr/natural-resources-online/fem-tech){target=_blank} - B.S. Fire Ecology plus online Certificate in Fire Ecology, Management and Technology covering fire science writing, fuels management, GIS applications, smoke and air quality, and fire policy.
+
+    [University of Montana Fire Sciences](https://www.umt.edu/academics/programs/fire-sciences-management/){target=_blank} - Also sends students to Southeast each January for 2 weeks prescribed fire with TNC in longleaf pine forests.
+
+??? Tip "Other Regions"
+
+    [Steven F. Austin University Fire Science](https://www.sfasu.edu/academics/colleges/forestry-agriculture){target=_blank} (Texas)
+
+    [Unity College Wildland Fire Science](https://unity.edu/programs/b-s-in-wildland-fire-science-and-management/){target=_blank}
+
+    [UBC Okanagan Wildland Fire Ecology](https://cpe.ok.ubc.ca/programs/wildland-fire-ecology-and-management/){target=_blank} (Canada) - Micro-credential in Wildland Fire Ecology combining Indigenous and Western perspectives, 30 hours per course, offered January and September.
+
+??? Tip "Professional Certification Programs (Association for Fire Ecology)"
+
+    [:material-certificate-outline: Association for Fire Ecology](https://fireecology.org/certification-levels){target=_blank} provides professional certifications at multiple levels.
+
+    [AFE Academic Program Certification](https://fireecology.org/academic-program-certification){target=_blank} for colleges and universities offering fire science degree programs.
+
+## 5. :material-certificate-outline: Professional Certifications
+
+For practicing professionals seeking credentials and certifications.
+
+??? Tip "State Certified Prescribed Burn Manager Programs"
+
+    **Alabama** - 32-hour course, $50 fee, 5-year certification.
+
+    [California (CA-RX) Burn Boss](https://www.fire.ca.gov/programs/resource-management/resource-protection-improvement/prescribed-fire/){target=_blank} - Burn Boss certification with 40-hour classroom training plus task book. 55 active certified as of December 2025.
+
+    [Florida Certified Prescribed Burn Manager](https://www.fdacs.gov/Forest-Wildfire/Wildland-Fire/Florida-Prescribed-Burn){target=_blank} - 24-hour course ($175), approximately 1,800 certified practitioners statewide.
+
+    [Georgia Certified Prescribed Burn Manager](https://gatrees.org/fire-prevention-suppression/prescribed-burn-certification/){target=_blank} - Written exam requiring 70% or higher, 2 years experience, 5 prescribed burns led.
+
+    [Mississippi Certified Prescribed Burn Manager](https://www.mfc.ms.gov/prescribed-burning){target=_blank} - 1-day or 3-day options with 80% pass requirement.
+
+    [Missouri Certified Burner](https://mdc.mo.gov/your-property/fire-management/prescribed-fire){target=_blank} - Online course ($25) through Missouri Department of Conservation, leads to Certified Burner status.
+
+    [Oklahoma Prescribed Fire](https://extension.okstate.edu/programs/prescribed-fire/){target=_blank} - Oklahoma State University Extension self-paced course, 9 modules covering prescribed fire fundamentals.
+
+    [Oregon Certified Burn Manager](https://extension.oregonstate.edu/fire-program/certified-burn-manager){target=_blank} - Two certification levels (pile burning; pile and broadcast burning), provides civil liability protection under state law.
+
+    **Pennsylvania, South Carolina, Tennessee, Virginia, Texas** - Various state-specific requirements and durations.
+
+    [Texas A&M AgriLife Extension Prescribed Burn Manager](https://agrilifeextension.tamu.edu/){target=_blank} - Certified and Insured Prescribed Burn Manager preparation program.
+
+??? Tip "NWCG Specialized Qualifications"
+
+    [Fire Behavior Analyst (FBAN)](https://www.nwcg.gov/positions/fire-behavior-analyst){target=_blank} - Requires S-490, S-491, and completed task book. Provides fire behavior analysis and forecasting on incidents.
+
+    [Long Term Fire Analyst (LTAN)](https://www.nwcg.gov/positions/long-term-fire-analyst){target=_blank} - Requires satisfactory FBAN performance plus S-590. Provides extended fire behavior forecasting for complex incidents.
+
+    [NRCS Technical Service Provider](https://www.nrcs.usda.gov/conservation-basics/conservation-by-state/technical-service-providers){target=_blank} - Prescribed Burning (Code 338) certification enables recommending burns as a conservation planning alternative for agricultural producers.
+
+??? Tip "Fire Investigation Certifications"
+
+    [IAAI-CFI](https://www.firearson.com/Certifications){target=_blank} (International Association of Arson Investigators Certified Fire Investigator) - Requires 5+ years experience, 400 hours documented training, Pro Board and FSAB accredited.
+
+    [NAFI-CFEI](https://www.nafi.org/certification){target=_blank} (National Association of Fire Investigators Certified Fire and Explosion Investigator) - Oldest and most widely held fire investigation certification, based solely on NFPA 921.
+
+    [CCAI-CFI](https://www.arson.org/){target=_blank} (California Conference of Arson Investigators Certified Fire Investigator) - Three levels (Technician, CFI, Master), requires 75 fires for origin determination and 75 for cause investigations.
+
+??? Tip "Wildland-Urban Interface Certifications"
+
+    [NFPA Certified Wildfire Mitigation Specialist](https://www.nfpa.org/education-and-research/certifications/wildfire-mitigation){target=_blank} - Demonstrates professional competence in wildfire hazard mitigation and WUI protection.
+
+    [IBHS Wildfire Prepared Home](https://wildfireprepared.org/){target=_blank} - Free online learning with three designation levels (Base, Plus, Plus with Ventilation) available in California, Oregon, Nevada, and New Mexico.
+
+    [International Code Council IWUIC Training](https://www.iccsafe.org/products-and-services/i-codes/wildland-urban-interface-wui/){target=_blank} - International Wildland-Urban Interface Code training, adopted statewide in California, Utah, Montana, Nevada, Pennsylvania, and Washington.
+
+## 6. :material-leaf-maple: Prescribed Fire for Private Landowners
+
+For private landowners, ranchers, and land managers implementing prescribed fire.
+
+??? Tip "Prescribed Fire Councils (35 councils in 31 states)"
+
+    [Coalition of Prescribed Fire Councils](https://www.prescribedfire.net/){target=_blank} - Umbrella organization supporting state and regional councils nationwide.
+
+    **Florida Prescribed Fire Councils** - The oldest in the nation, with North Florida council established 1989. Multiple regional councils statewide.
+
+    **Georgia, Texas, Washington, Illinois, Michigan, Idaho, Missouri, Oklahoma** - All have active councils providing landowner workshops, Learn and Burn events, and certification support.
+
+    Councils provide networking, technical assistance, liability coverage information, and hands-on training opportunities for private landowners.
+
+??? Tip "Extension Service Programs"
+
+    [Oklahoma State University Extension Prescribed Fire](https://extension.okstate.edu/programs/prescribed-fire/){target=_blank} - Self-paced Introduction to Prescribed Fire with 9 modules covering planning, implementation, and safety.
+
+    [Missouri Department of Conservation Prescribed Burning](https://mdc.mo.gov/your-property/fire-management/prescribed-fire){target=_blank} - Online Prescribed Burning for Land Managers course ($25), leads to Certified Burner status for landowners.
+
+    [Texas A&M AgriLife Extension](https://agrilifeextension.tamu.edu/){target=_blank} - Certified and Insured Prescribed Burn Manager preparation supporting Texas landowners.
+
+??? Tip "Wildlife Organization Programs"
+
+    [Pheasants Forever/Quail Forever](https://www.pheasantsforever.org/Hunt/Prescribed-Fire.aspx){target=_blank} - Employs Prescribed Burn Coordinators in Minnesota, North Dakota, Illinois, and Texas who conduct landowner workshops and support Prescribed Burn Association formation.
+
+    [National Wild Turkey Federation](https://www.nwtf.org/hunt/article/fire-management-wildlife-habitat){target=_blank} - Provides fire webinars, equipment grants for Prescribed Burn Associations, and NRCS partnership programs.
+
+    [Audubon Canyon Ranch Fire Forward](https://egret.org/fire-forward){target=_blank} (California) - 11-month paid Prescribed Fire Apprentice position and Fire Forward Fellowship supporting cultural and ecological burning.
+
+## 7. :material-leaf: Tribal & Indigenous Fire Programs
+
+For tribal communities and Indigenous fire practitioners revitalizing traditional fire practices.
+
+??? Tip "Indigenous Peoples Burning Network (IPBN)"
+
+    [Indigenous Peoples Burning Network](https://firenetworks.org/ipbn/){target=_blank} - Founded 2015, administered by The Nature Conservancy. Supports 26+ tribes in revitalizing cultural fire practices through:
+
+    - Community-based burning programs
+    - Indigenous-led TREX events (including Yurok TREX)
+    - Cultural Burning Program Builders Working Group
+    - Annual network workshops connecting elders with youth
+    - Support for Indigenous fire governance and traditional knowledge
+
+??? Tip "Intertribal Timber Council"
+
+    [Intertribal Timber Council](https://www.itcnet.org/){target=_blank} - Fire Subcommittee coordinates tribal fire workforce development and training.
+
+    **Biennial Tribal Forestry and Wildland Fire Student Summit** - Brings together tribal students pursuing fire careers.
+
+    **Truman D. Picard Scholarships** - Financial support for Native American and Alaska Native students in natural resources.
+
+    **2023-2028 Workforce Development Strategic Plan** - Addresses tribal fire capacity building and career pathways.
+
+??? Tip "BIA Training Programs"
+
+    [Wildland Fire First Aid Program](https://www.nifc.gov/about-us/our-partners/bia/training){target=_blank} - Medical Incident Technician and Medical Incident Leadership training levels. Over 740 students from 50+ Indian Country fire crews, representing ~60% of permanent tribal fire workforce.
+
+    [Pathways Internship Program](https://www.bia.gov/service/pathways){target=_blank} - Connects Native American and Alaska Native college students to paid fire management internships across BIA and tribal programs.
+
+??? Tip "University Programs with Indigenous Focus"
+
+    [Lane Community College Fire Science](https://www.lanecc.edu/programs-academics/areas-study/science-natural-resources-math-and-engineering/wildland-fire-management){target=_blank} - Includes Pacific Northwest Indigenous traditional cultural burning practices alongside standard NWCG training.
+
+    [UBC Okanagan Wildland Fire Ecology](https://cpe.ok.ubc.ca/programs/wildland-fire-ecology-and-management/){target=_blank} - Micro-credential in Wildland Fire Ecology combining Indigenous and Western fire science perspectives.
+
+??? Tip "Traditional Ecological Knowledge Resources"
+
+    [:material-leaf: US NPS Overview of TEK](https://www.nps.gov/subjects/tek/description.htm){target=_blank} - National Park Service introduction to Traditional Ecological Knowledge in land management.
+
+    [:material-leaf: Yale Environment 360 - Overview](https://e360.yale.edu/features/native-knowledge-what-ecologists-are-learning-from-indigenous-people){target=_blank} - What ecologists are learning from Indigenous people about fire and land stewardship.
+
+    [Global Indigenous Data Alliance](https://www.gida-global.org/care){target=_blank} - CARE principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics).
+
+## 8. :material-web: Online & Self-Paced Learning
+
+For remote learners and busy professionals needing flexible training options.
+
+??? Tip "MOOCs & University Online Courses"
+
+    [University of Alaska Fairbanks Remote Sensing of Wildfires on edX](https://www.edx.org/learn/data-analysis/university-of-alaska-fairbanks-remote-sensing-of-wildfires){target=_blank} - 4-week self-paced course covering satellite imagery analysis, QGIS, and Google Earth Engine for fire detection. Free to audit with verified certificate available, includes 1-year ArcGIS Pro license.
+
+    [University of Idaho Fire Ecology Certificate](https://www.uidaho.edu/cnr/natural-resources-online/fem-tech){target=_blank} - Online Certificate in Fire Ecology, Management and Technology covering fire science writing, fuels management, GIS applications, smoke and air quality, and fire policy. Feeds into Master of Natural Resources degree.
+
+    [NC State Forestry and Environmental Resources](https://cnr.ncsu.edu/fer/){target=_blank} - Online graduate courses covering southeastern fire ecology and prescribed fire planning through College of Natural Resources.
+
+    [UBC Okanagan Wildland Fire Ecology Micro-credential](https://cpe.ok.ubc.ca/programs/wildland-fire-ecology-and-management/){target=_blank} - Micro-credential in Wildland Fire Ecology, 30 hours per course, offered January and September.
+
+??? Tip "Professional Training Platforms"
+
+    [FireRescue1 Academy](https://www.firerescue1.com/academy/){target=_blank} (Lexipol Training) - 350+ fire courses with subscription-based access for departments. Covers structural and wildland operations.
+
+    [IAFC Academy](https://www.iafc.org/education){target=_blank} (International Association of Fire Chiefs) - Propane emergency response, hazmat training, and leadership development.
+
+    [CFITrainer.Net](https://www.cfitrainer.net/){target=_blank} - Online fire investigation modules including "Wildfires 1" (burn patterns) and "Wildfires 2" (lightning investigation).
+
+??? Tip "Regulatory Compliance Training"
+
+    [Oregon OSHA Wildfire Smoke Safety](https://osha.oregon.gov/edu/courses/Pages/wildfire-smoke-course.aspx){target=_blank} - Free online wildfire smoke safety course meeting state regulatory requirements for worker protection.
+
+    [California OSHA Wildfire Smoke](https://www.dir.ca.gov/dosh/wildfire/){target=_blank} - Free online wildfire smoke safety course meeting Cal/OSHA requirements for employee training.
+
+??? Tip "Professional Society Webinars"
+
+    [Northern Rockies Fire Science Network](https://www.nrfirescience.org/){target=_blank} - Archive of 400+ recorded webinars on fire science research and management.
+
+    [California Fire Science Consortium](https://www.cafirescience.org/){target=_blank} - Weekly seminar series (February-March) connecting researchers with practitioners.
+
+    [International Association of Wildland Fire](https://www.iawfonline.org/){target=_blank} - Conference recordings and webinars on fire ecology, management, and policy.
+
+    [Society of American Foresters](https://www.eforester.org/){target=_blank} - ForestEd online platform providing Continuing Forestry Education credits.
+
+## 9. :octicons-gear-24: Specialized Training
+
+For specialists pursuing advanced skills in specific fire disciplines.
+
+??? Tip "Fire Ecology Field Courses"
+
+    [University of Colorado Boulder Mountain Research Station](https://www.colorado.edu/mrs/research/fire-ecology){target=_blank} - 2-week Forest & Fire Ecology course (3 credits, $2,100) covering tree ring fire history reconstruction and GIS analysis.
+
+    [University of Montana Prescribed Fire Training](http://www.cfc.umt.edu/undergrad/firesciences/practicum.php){target=_blank} - 2-week January prescribed fire training in Southeast with The Nature Conservancy in longleaf pine ecosystems.
+
+    [USFS Fire Ecology Curriculum](https://www.fs.usda.gov/r03/educational/educators/fire-ecology-learning-lab){target=_blank} - Southwestern Region ecological foundations.
+
+    [The Open University: Fire Ecology Course (free)](https://www.open.edu/openlearn/science-maths-technology/fire-ecology/content-section-0){target=_blank} - Open access fire ecology fundamentals.
+
+??? Tip "Wildland-Urban Interface (WUI)"
+
+    [National Volunteer Fire Council WFAP](https://www.nvfc.org/programs/wildland-fire-assessment-program/){target=_blank} - Volunteer home assessment training (4 online modules plus hands-on components).
+
+    [UL Fire Safety Research Institute WUI Training](https://fsri.org/research-update/structure-triage){target=_blank} - Free Structure Triage Considerations for WUI Firefighting, incorporating analysis from Maui wildfire.
+
+    **CSU San Marcos** - Online B.S. in Wildfire Science and Wildland-Urban Interface (see University Programs section).
+
+    **International Code Council IWUIC Training** - International Wildland-Urban Interface Code training (see Professional Certifications section).
+
+??? Tip "Smoke Management & Air Quality"
+
+    [Interagency Wildland Fire Air Quality Response Program](https://wildlandfiresmoke.net/){target=_blank} - Air Resource Advisor certification through 5-day intensive training (June 23-27, 2025 session scheduled).
+
+    **Oregon OSHA and California OSHA** - Free online smoke safety courses (see Online Learning section).
+
+??? Tip "Fire Modeling & Decision Support"
+
+    [WFM RD&A Mentee Program](https://www.fs.usda.gov/about-agency/fhm/wfm/mentee-program){target=_blank} - Skills development with FSPro, FlamMap, FARSITE, FireFamilyPlus, and WFDSS decision support tools through mentorship and detail assignments.
+
+    Note: No formal FARSITE/FlamMap courses exist; training typically occurs through local unit channels and peer mentorship.
+
+??? Tip "Fire Investigation"
+
+    [FI-210 Wildland Fire Origin and Cause Determination](https://www.nwcg.gov/training/training-catalog){target=_blank} (NWCG) - Taught at Northern California Training Center in Redding and other locations.
+
+    [CFITrainer.Net](https://www.cfitrainer.net/){target=_blank} - Online modules for wildfire investigation (see Online Learning section).
+
+    Professional certifications available through IAAI, NAFI, and CCAI (see Professional Certifications section).
+
+??? Tip "Aviation Operations"
+
+    [USFS Smokejumper Rookie Training](https://www.fs.usda.gov/science-technology/fire/people/smokejumpers){target=_blank} - 5-week intensive program at bases in Missoula, McCall, Redding, and seven other locations.
+
+    Prerequisites: 3-4 years fire experience (hotshot preferred), 7 pull-ups, 45 sit-ups, 25 push-ups, 1.5-mile run under 11 minutes, 110-lb pack test.
+
+    [BLM Idaho Boise Helitack](https://www.nifc.gov/about-us/our-partners/blm/blm-helitack-crews){target=_blank} - Operates the only DOI Type 1 helicopter (UH-60 Blackhawk), providing specialized aviation training opportunities.
+
+## 10. :octicons-organization-16: Nonprofit & NGO Programs
+
+Hands-on training programs from nonprofit organizations emphasizing field experience.
+
+??? Tip "The Nature Conservancy Fire Programs"
+
+    [TREX (Prescribed Fire Training Exchanges)](https://www.nature.org/en-us/what-we-do/our-priorities/protect-water-and-land/land-and-water-stories/fire-training-exchanges-expand-controlled-burns/){target=_blank} - 150+ events since 2009, 4,300+ participants, 175,000+ acres treated. Provides NWCG taskbook training for Squad Boss, Engine Boss, Burn Boss, Public Information Officer, and Fire Effects Monitor positions.
+
+    [Fire Learning Network](https://www.conservationgateway.org/ConservationPractices/FireLandscapes/FireLearningNetwork/Pages/fire-learning-network.aspx){target=_blank} - 47 landscapes nationwide since 2002 in cooperation with federal agencies, promoting landscape-scale prescribed fire.
+
+    **Indigenous Peoples Burning Network** - Founded 2015, supports 26+ tribes (see Tribal & Indigenous Fire Programs section).
+
+??? Tip "Tall Timbers Research Station"
+
+    [Tall Timbers Fire Training](https://talltimbers.org/fire-training/){target=_blank} - NWCG-sanctioned courses including S-131 (Firefighter Type 1) and RX-300 (Introduction to Prescribed Fire).
+
+    Department of Defense civilian fire training programs.
+
+    **National Interagency Prescribed Fire Training Center** (since 2021) - Housed at Tall Timbers, providing multi-agency prescribed fire training.
+
+    **Southern Fire Exchange** headquarters - Regional fire science translation serving 11 southeastern states.
+
+??? Tip "Wildland Fire Lessons Learned Center"
+
+    [Wildland Fire Lessons Learned Center](https://lessons.fs2c.usda.gov/){target=_blank} - Case studies, after-action reviews, safety resources, and analysis of significant fire events.
+
+??? Tip "Conservation Corps & Youth Programs"
+
+    **Student Conservation Association Wildland Fire Academy** - 6-month paid positions on Shasta-Trinity National Forest (see Getting Started section).
+
+    **Veterans Fire Corps** - Conservation Legacy/SCA/AmeriCorps programs (see Getting Started section).
+
+    **California Conservation Corps** - 26+ hand crews at 13 locations (see Getting Started section).
+
+??? Tip "Community Protection Programs"
+
+    [NFPA Firewise USA](https://www.nfpa.org/education-and-research/wildfire/firewise-usa){target=_blank} - Nearly 3,000 recognized community sites nationwide implementing wildfire protection measures.
+
+    **NFPA Certified Wildfire Mitigation Specialist** - Professional credential (see Professional Certifications section).
+
+    **IBHS Wildfire Prepared Home** - Free online learning (see Professional Certifications section).
+
+## 11. :material-leaf: Traditional Ecological Knowledge
+
+For researchers, land managers, and Indigenous communities integrating traditional knowledge with fire science.
+
+[:material-leaf: US NPS Overview of TEK](https://www.nps.gov/subjects/tek/description.htm){target=_blank} - National Park Service introduction to Traditional Ecological Knowledge in land management and fire stewardship.
+
+[:material-leaf: Yale Environment 360 - Overview](https://e360.yale.edu/features/native-knowledge-what-ecologists-are-learning-from-indigenous-people){target=_blank} - What ecologists are learning from Indigenous people about fire ecology and traditional burning practices.
+
+[Global Indigenous Data Alliance](https://www.gida-global.org/care){target=_blank} - CARE principles for Indigenous Data Governance: Collective benefit, Authority to control, Responsibility, and Ethics. Essential framework for respectful engagement with Indigenous knowledge systems.
+
+**Related Programs**: See Section 7 (Tribal & Indigenous Fire Programs) for:
+- Indigenous Peoples Burning Network
+- Intertribal Timber Council
+- BIA training programs
+- Lane Community College and UBC Okanagan programs with Indigenous focus
+
+## 12. :fontawesome-solid-house-laptop: General Data Science Skills
+
+For fire scientists needing computational and data analysis skills.
+
+Explore these resources for gaining essential data science skills applicable to fire science research and analysis.
+
+[:material-hammer: Carpentries](https://carpentries.org/){target=_blank} - Basic data science skills including programming, version control, and reproducible research.
+
+[:octicons-mortar-board-24: CyVerse Learning](https://learning.cyverse.org){target=_blank} - Life science data science skills with applications to ecological research.
+
+[:material-forest: The Dendro Hub](https://www.dendrohub.com/){target=_blank} - Online community for current and aspiring dendrochronologists from around the world, supporting fire history research.
+
+[:material-earth: Earth Lab (CU Boulder)](https://earthdatascience.org/){target=_blank} - Earth science data science skills including remote sensing and geospatial analysis.
+
+[:material-chat-outline: JoVE](https://www.jove.com/){target=_blank} - Videos of science protocols, including [fire history reconstruction](https://www.jove.com/t/61698/using-tree-rings-to-reconstruct-fire-history-information-from){target=_blank} from tree rings.
+
+[:fontawesome-solid-syringe: Protocols.io](https://www.protocols.io/){target=_blank} - Standardized methods and protocols for scientific research.
+
+[WholeTale](https://wholetale.org/){target=_blank} - Create and publish transparent and reproducible research workflows.
+
+------------------------------------------------------------------------
+
+## USFS Brand Standards Preview
+URL: https://tyson-swetnam.github.io/awesome-fire-science/usfs-brand-preview.md
+
+# USFS Brand Standards Preview
+
+This page demonstrates the updated design elements based on U.S. Forest Service brand standards.
+
+## Typography Hierarchy
+
+### Primary Heading (H1)
+Uses Merriweather - a professional serif font with authority and readability.
+
+#### Secondary Heading (H2)
+Clean hierarchy with Forest Service blue accent border.
+
+##### Tertiary Heading (H3)
+Forest Service green for subsections.
+
+###### Category Heading (H4)
+UPPERCASE UTILITY HEADING FOR CATEGORIES
+
+Body text uses **Public Sans** - a professional, accessible sans-serif font developed for government use. It provides excellent readability and a modern, clean appearance suitable for both digital and print materials.
+
+## Color Palette
+
+The design implements official USFS colors:
+
+!!! note "USFS Green - PANTONE 343 CV"
+    Primary brand color: `#00502F` - Deep forest green representing the natural environment and Forest Service heritage.
+
+!!! info "USFS Blue - PANTONE 288 CV"
+    Secondary color: `#004B87` - Professional blue for accents and interactive elements.
+
+!!! tip "Professional Application"
+    These colors create a cohesive, authoritative appearance while maintaining accessibility standards (WCAG AA compliance).
+
+## Content Blocks
+
+### Admonition Styles
+
+??? tip "Forest Service Green Tips"
+    Tips and best practices use the primary USFS green color scheme. This creates visual consistency with the Forest Service brand identity.
+
+    Key features:
+    - Left border accent
+    - Gradient background
+    - Professional typography
+
+!!! warning "Fire Weather Warning"
+    Warnings use fire orange tones to convey urgency and attention. This is particularly relevant for fire science content.
+
+!!! danger "Critical Alert"
+    Critical information uses alert red for maximum visibility and immediate attention.
+
+!!! note "Standard Information"
+    Standard notes use the USFS blue color for neutral information and guidance.
+
+## Links & Navigation
+
+[Internal Link Example](#typography-hierarchy) - Links use USFS blue with hover states.
+
+[External Link Example](https://www.fs.usda.gov){target=_blank} - External links include indicator arrow.
+
+### Button Styles
+
+<div class="md-button">USFS Green Button</div>
+<div class="md-button md-button--primary">USFS Blue Button</div>
+
+## Data Tables
+
+| Category | Description | Status |
+|----------|-------------|--------|
+| Data Sources | Fire atlases and journals | Active |
+| Software Tools | Modeling and GIS platforms | Active |
+| Computing | HPC and cloud resources | Active |
+| Training | Educational materials | Active |
+
+## Code Presentation
+
+```python
+# Fire behavior calculation example
+def calculate_rate_of_spread(wind_speed, slope, fuel_moisture):
+    """
+    Calculate fire rate of spread using simplified model.
+    Based on USFS fire behavior prediction systems.
+    """
+    base_ros = 2.5  # chains per hour
+    wind_factor = wind_speed * 0.3
+    slope_factor = slope * 0.15
+    moisture_factor = (100 - fuel_moisture) / 100
+
+    return base_ros * (1 + wind_factor + slope_factor) * moisture_factor
+```
+
+Inline code examples use `monospace typography` with subtle backgrounds.
+
+## Design Principles
+
+The updated design follows these USFS brand principles:
+
+1. **Authority & Trust**: Professional typography and official colors establish credibility
+2. **Accessibility**: High contrast ratios and clear hierarchy ensure usability
+3. **Natural Elements**: Subtle textures and organic color palette connect to forestry
+4. **Federal Identity**: Consistent with U.S. government design standards
+5. **Professionalism**: Clean layouts with appropriate spacing and refinement
+
+## Responsive Behavior
+
+The design adapts seamlessly across devices:
+
+- **Desktop**: Full navigation, wide content areas, detailed typography
+- **Tablet**: Responsive grids, touch-friendly targets
+- **Mobile**: Streamlined navigation, optimized text size, vertical stacking
+
+## Dark Mode
+
+Toggle to dark mode to see the adapted color scheme:
+
+- Forest Service green remains prominent but lighter for contrast
+- Blue accents shift to lighter tones for visibility
+- Backgrounds use deep grays with subtle green tints
+- Code blocks maintain readability with adjusted colors
+
+---
+
+**Note**: This preview demonstrates the comprehensive CSS overhaul implementing USFS FS-1186 brand standards (May 2023), including official color palette, professional typography, and federal design system best practices.
+

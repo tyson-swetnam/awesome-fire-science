@@ -1,0 +1,24 @@
+# Awesome-Fire-Science
+
+> Awesome List of Fire Science Tools
+
+Raw markdown source for every page on this site. Each `<path>.md`
+below is the source of the rendered page at https://tyson-swetnam.github.io/awesome-fire-science/<path>/.
+
+## Pages
+
+- [:material-robot: AI & Productivity Tools](https://tyson-swetnam.github.io/awesome-fire-science/ai-tools.md)
+- [:material-account-group: Community & Collaboration](https://tyson-swetnam.github.io/awesome-fire-science/community.md)
+- [:octicons-cloud-24: Computing](https://tyson-swetnam.github.io/awesome-fire-science/cyberinfrastructure.md)
+- [:material-database-cog: Data Management](https://tyson-swetnam.github.io/awesome-fire-science/data-management.md)
+- [:octicons-database-24: Data](https://tyson-swetnam.github.io/awesome-fire-science/data.md)
+- [:fontawesome-solid-rocket: Getting Started](https://tyson-swetnam.github.io/awesome-fire-science/getting-started.md)
+- [:material-tools: Hardware & Equipment](https://tyson-swetnam.github.io/awesome-fire-science/hardware.md)
+- [:fontawesome-solid-house-flag: Home](https://tyson-swetnam.github.io/awesome-fire-science/index.md)
+- [:fontawesome-solid-mobile-screen: Mobile Apps](https://tyson-swetnam.github.io/awesome-fire-science/mobile-apps.md)
+- [:octicons-globe-24: Networks](https://tyson-swetnam.github.io/awesome-fire-science/networks.md)
+- [:octicons-gear-24: Software](https://tyson-swetnam.github.io/awesome-fire-science/software.md)
+- [:material-brain: Training](https://tyson-swetnam.github.io/awesome-fire-science/training.md)
+- [USFS Brand Standards Preview](https://tyson-swetnam.github.io/awesome-fire-science/usfs-brand-preview.md)
+
+Full content of every page in one file: https://tyson-swetnam.github.io/awesome-fire-science/llms-full.txt
